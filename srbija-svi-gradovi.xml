@@ -1,0 +1,6855 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <city>Ada</city>
+    <zip>24430</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Ada</belongsTo>
+  </row>
+  <row>
+    <city>Adaševci</city>
+    <zip>22244</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Adorjan</city>
+    <zip>24425</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Adrani</city>
+    <zip>36203</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Azanja</city>
+    <zip>11423</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevska Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Aleksa Šantić</city>
+    <zip>25212</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Aleksandrovac</city>
+    <zip>12370</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Žabari</belongsTo>
+  </row>
+  <row>
+    <city>Aleksandrovac</city>
+    <zip>37230</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Aleksandrovac</belongsTo>
+  </row>
+  <row>
+    <city>Aleksandrovo</city>
+    <zip>23217</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Nova Crnja</belongsTo>
+  </row>
+  <row>
+    <city>Aleksinac</city>
+    <zip>18220</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Aleksinački Rudnik</city>
+    <zip>18226</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Alibunar</city>
+    <zip>26310</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Aljinovići</city>
+    <zip>31307</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Prijepolje</belongsTo>
+  </row>
+  <row>
+    <city>Apatin</city>
+    <zip>25260</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Apatin</belongsTo>
+  </row>
+  <row>
+    <city>Aradac</city>
+    <zip>23207</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Aranđelovac</city>
+    <zip>34300</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Arilje</city>
+    <zip>31230</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Arilje</belongsTo>
+  </row>
+  <row>
+    <city>Ašanja</city>
+    <zip>22418</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Babušnica</city>
+    <zip>18330</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Babušnica</belongsTo>
+  </row>
+  <row>
+    <city>Bavanište</city>
+    <zip>26222</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovin</belongsTo>
+  </row>
+  <row>
+    <city>Bagrdan</city>
+    <zip>35204</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Badnjevac</city>
+    <zip>34226</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Batočina</belongsTo>
+  </row>
+  <row>
+    <city>Badovinci</city>
+    <zip>15358</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Bogatić</belongsTo>
+  </row>
+  <row>
+    <city>Bajina Bašta</city>
+    <zip>31250</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Bajina Bašta</belongsTo>
+  </row>
+  <row>
+    <city>Bajmok</city>
+    <zip>24210</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Bajša</city>
+    <zip>24331</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Balajnac</city>
+    <zip>18257</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Merošina</belongsTo>
+  </row>
+  <row>
+    <city>Baljevac</city>
+    <zip>36344</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Raška</belongsTo>
+  </row>
+  <row>
+    <city>Banatska Dubica</city>
+    <zip>23251</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Banatska Palanka</city>
+    <zip>26324</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Banatska Subotica</city>
+    <zip>26327</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Banatska Topola</city>
+    <zip>23315</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Banatski Brestovac</city>
+    <zip>26234</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Banatski Dvor</city>
+    <zip>23213</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Banatski Despotovac</city>
+    <zip>23242</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Banatski Karlovac</city>
+    <zip>26320</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Banatsko Aranđelovo</city>
+    <zip>23332</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Novi Kneževac</belongsTo>
+  </row>
+  <row>
+    <city>Banatsko Veliko Selo</city>
+    <zip>23312</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Banatsko Karađorđevo</city>
+    <zip>23216</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Banatsko Novo Selo</city>
+    <zip>26314</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Banovo Polje</city>
+    <zip>15362</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Bogatić</belongsTo>
+  </row>
+  <row>
+    <city>Banovci-Dunav</city>
+    <zip>22303</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Banoštor</city>
+    <zip>21312</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Beočin</belongsTo>
+  </row>
+  <row>
+    <city>Banja</city>
+    <zip>34304</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Banja (kod Priboja)</city>
+    <zip>31337</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Priboj</belongsTo>
+  </row>
+  <row>
+    <city>Banja Koviljača</city>
+    <zip>15316</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Banjani</city>
+    <zip>14214</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Ub</belongsTo>
+  </row>
+  <row>
+    <city>Banjska</city>
+    <zip>38216</zip>
+    <county>Kosovskomitrovački okrug</county>
+    <belongsTo>Zvečan</belongsTo>
+  </row>
+  <row>
+    <city>Barajevo</city>
+    <zip>11460</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Barajevo</belongsTo>
+  </row>
+  <row>
+    <city>Baranda</city>
+    <zip>26205</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Opovo</belongsTo>
+  </row>
+  <row>
+    <city>Barbatovac</city>
+    <zip>18426</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Blace</belongsTo>
+  </row>
+  <row>
+    <city>Bare</city>
+    <zip>12227</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Požarevac</belongsTo>
+  </row>
+  <row>
+    <city>Bare</city>
+    <zip>34205</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Knić</belongsTo>
+  </row>
+  <row>
+    <city>Bare</city>
+    <zip>36315</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Sjenica</belongsTo>
+  </row>
+  <row>
+    <city>Barice</city>
+    <zip>26367</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Barič</city>
+    <zip>11504</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Obrenovac</belongsTo>
+  </row>
+  <row>
+    <city>Barlovo</city>
+    <zip>18432</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Baroševac</city>
+    <zip>11565</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Batočina</city>
+    <zip>34227</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Batočina</belongsTo>
+  </row>
+  <row>
+    <city>Batrovci</city>
+    <zip>22251</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Batuse</city>
+    <zip>38210</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Kosovo Polje</belongsTo>
+  </row>
+  <row>
+    <city>Bač</city>
+    <zip>21420</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bač</belongsTo>
+  </row>
+  <row>
+    <city>Bačevci</city>
+    <zip>31258</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Bajina Bašta</belongsTo>
+  </row>
+  <row>
+    <city>Bačina</city>
+    <zip>37265</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Varvarin</belongsTo>
+  </row>
+  <row>
+    <city>Bačinci</city>
+    <zip>22225</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Bačka Palanka</city>
+    <zip>21400</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Bačka Topola</city>
+    <zip>24300</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Bački Breg</city>
+    <zip>25275</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Bački Brestovac</city>
+    <zip>25242</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Bački Vinogradi</city>
+    <zip>24415</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Bački Gračac</city>
+    <zip>25252</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Bački Jarak</city>
+    <zip>21234</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Temerin</belongsTo>
+  </row>
+  <row>
+    <city>Bački Monoštor</city>
+    <zip>25272</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Bački Petrovac</city>
+    <zip>21470</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bački Petrovac</belongsTo>
+  </row>
+  <row>
+    <city>Bački Sokolac</city>
+    <zip>24343</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Bačko Gradište</city>
+    <zip>21217</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Bačko Dobro Polje</city>
+    <zip>21465</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Vrbas</belongsTo>
+  </row>
+  <row>
+    <city>Bačko Novo Selo</city>
+    <zip>21429</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bač</belongsTo>
+  </row>
+  <row>
+    <city>Bačko Petrovo Selo</city>
+    <zip>21226</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Bašaid</city>
+    <zip>23316</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Begeč</city>
+    <zip>21411</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Bezdan</city>
+    <zip>25270</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Bela Voda</city>
+    <zip>37253</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Grad Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Bela Zemlja</city>
+    <zip>31311</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Bela Palanka</city>
+    <zip>18310</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Bela Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Bela Crkva</city>
+    <zip>15313</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Krupanj</belongsTo>
+  </row>
+  <row>
+    <city>Bela Crkva</city>
+    <zip>26340</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Belanovica</city>
+    <zip>14246</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Ljig</belongsTo>
+  </row>
+  <row>
+    <city>Bele Vode</city>
+    <zip>32259</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Belegiš</city>
+    <zip>22306</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Beli Potok</city>
+    <zip>11223</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Voždovac</belongsTo>
+  </row>
+  <row>
+    <city>Beli Potok</city>
+    <zip>19366</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Belo Blato</city>
+    <zip>23205</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Beloljin</city>
+    <zip>18424</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Belosavci</city>
+    <zip>34312</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Topola</belongsTo>
+  </row>
+  <row>
+    <city>Belotinac</city>
+    <zip>18411</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Opština Doljevac</belongsTo>
+  </row>
+  <row>
+    <city>Beloševac</city>
+    <zip>34208</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Pivara</belongsTo>
+  </row>
+  <row>
+    <city>Belušić</city>
+    <zip>35263</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Rekovac</belongsTo>
+  </row>
+  <row>
+    <city>Beljina</city>
+    <zip>11461</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Barajevo</belongsTo>
+  </row>
+  <row>
+    <city>Beograd</city>
+    <zip>11000</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Beograd</belongsTo>
+  </row>
+  <row>
+    <city>Beočin</city>
+    <zip>21300</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Beočin</belongsTo>
+  </row>
+  <row>
+    <city>Berkasovo</city>
+    <zip>22242</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Bečej</city>
+    <zip>21220</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Bešenovo</city>
+    <zip>22212</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Beška</city>
+    <zip>22324</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Bigrenica</city>
+    <zip>35238</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Đuprija</belongsTo>
+  </row>
+  <row>
+    <city>Bikić Do</city>
+    <zip>22254</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Bikovo</city>
+    <zip>24206</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Biljača</city>
+    <zip>17522</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Bujanovac</belongsTo>
+  </row>
+  <row>
+    <city>Bingula</city>
+    <zip>22253</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Bioska</city>
+    <zip>31241</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Bistar</city>
+    <zip>17546</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Bosilegrad</belongsTo>
+  </row>
+  <row>
+    <city>Bistrica</city>
+    <zip>31325</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Nova Varoš</belongsTo>
+  </row>
+  <row>
+    <city>Blaževo</city>
+    <zip>37226</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Brus</belongsTo>
+  </row>
+  <row>
+    <city>Blace</city>
+    <zip>18420</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Blace</belongsTo>
+  </row>
+  <row>
+    <city>Bobovo</city>
+    <zip>35217</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Svilajnac</belongsTo>
+  </row>
+  <row>
+    <city>Bogaraš</city>
+    <zip>24408</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Senta</belongsTo>
+  </row>
+  <row>
+    <city>Bogatić</city>
+    <zip>15350</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Bogatić</belongsTo>
+  </row>
+  <row>
+    <city>Bogovađa</city>
+    <zip>14225</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Lajkovac</belongsTo>
+  </row>
+  <row>
+    <city>Bogovina</city>
+    <zip>19372</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Boljevac</belongsTo>
+  </row>
+  <row>
+    <city>Bogojevo</city>
+    <zip>25245</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Bogojevce</city>
+    <zip>16254</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Bogutovac</city>
+    <zip>36341</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Bođani</city>
+    <zip>21427</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bač</belongsTo>
+  </row>
+  <row>
+    <city>Boževac</city>
+    <zip>12313</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Malo Crniće</belongsTo>
+  </row>
+  <row>
+    <city>Božetići</city>
+    <zip>31322</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Nova Varoš</belongsTo>
+  </row>
+  <row>
+    <city>Božica</city>
+    <zip>17537</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Opština Surdulica</belongsTo>
+  </row>
+  <row>
+    <city>Bojnik</city>
+    <zip>16205</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Bojnik</belongsTo>
+  </row>
+  <row>
+    <city>Boka</city>
+    <zip>23252</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Boljevac</city>
+    <zip>19370</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Boljevac</belongsTo>
+  </row>
+  <row>
+    <city>Boljkovci</city>
+    <zip>32312</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Bor</city>
+    <zip>19210</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Borski Brestovac</city>
+    <zip>19229</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Bosilegrad</city>
+    <zip>17540</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Opština Bosilegrad</belongsTo>
+  </row>
+  <row>
+    <city>Bosut</city>
+    <zip>22217</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Botoš</city>
+    <zip>23243</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Bočar</city>
+    <zip>23274</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Novi Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Bošnjane</city>
+    <zip>37262</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Varvarin</belongsTo>
+  </row>
+  <row>
+    <city>Bošnjace</city>
+    <zip>16232</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Lebane</belongsTo>
+  </row>
+  <row>
+    <city>Bradarac</city>
+    <zip>12206</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Požarevac</belongsTo>
+  </row>
+  <row>
+    <city>Braničevo</city>
+    <zip>12222</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Golubac</belongsTo>
+  </row>
+  <row>
+    <city>Brankovina</city>
+    <zip>14201</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Bratljevo</city>
+    <zip>32256</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Braćevac</city>
+    <zip>19315</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Brvenik</city>
+    <zip>36346</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Raška</belongsTo>
+  </row>
+  <row>
+    <city>Brgule</city>
+    <zip>14212</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Ub</belongsTo>
+  </row>
+  <row>
+    <city>Brđani</city>
+    <zip>32303</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Brežđe</city>
+    <zip>14244</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Mionica</belongsTo>
+  </row>
+  <row>
+    <city>Brezjak</city>
+    <zip>15309</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Brezna</city>
+    <zip>32307</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Brezova</city>
+    <zip>32253</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Brezovica</city>
+    <zip>38157</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Štrpce</belongsTo>
+  </row>
+  <row>
+    <city>Brekovo</city>
+    <zip>31234</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Arilje</belongsTo>
+  </row>
+  <row>
+    <city>Bresnica</city>
+    <zip>32213</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Brestovac</city>
+    <zip>16253</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Brestovačka Banja</city>
+    <zip>19216</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Brza Palanka</city>
+    <zip>19323</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Kladovo</belongsTo>
+  </row>
+  <row>
+    <city>Brzi Brod</city>
+    <zip>18116</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Medijana</belongsTo>
+  </row>
+  <row>
+    <city>Brzan</city>
+    <zip>34228</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Batočina</belongsTo>
+  </row>
+  <row>
+    <city>Brzeće</city>
+    <zip>37225</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Brus</belongsTo>
+  </row>
+  <row>
+    <city>Brodarevo</city>
+    <zip>31305</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Prijepolje</belongsTo>
+  </row>
+  <row>
+    <city>Brus</city>
+    <zip>37220</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Brus</belongsTo>
+  </row>
+  <row>
+    <city>Brusnik</city>
+    <zip>19313</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Budisava</city>
+    <zip>21242</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Buđanovci</city>
+    <zip>22421</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Bujanovac</city>
+    <zip>17520</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Bujanovac</belongsTo>
+  </row>
+  <row>
+    <city>Bukovac</city>
+    <zip>21209</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Petrovaradin</belongsTo>
+  </row>
+  <row>
+    <city>Bukovik</city>
+    <zip>34301</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Bukovica</city>
+    <zip>32251</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Bukorovac</city>
+    <zip>34217</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Pivara</belongsTo>
+  </row>
+  <row>
+    <city>Bunar</city>
+    <zip>35273</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Burdimo</city>
+    <zip>18368</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Svrljig</belongsTo>
+  </row>
+  <row>
+    <city>Burovac</city>
+    <zip>12307</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Petrovac na Mlavi</belongsTo>
+  </row>
+  <row>
+    <city>Busilovac</city>
+    <zip>35249</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Bučje</city>
+    <zip>19369</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Vajska</city>
+    <zip>21426</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bač</belongsTo>
+  </row>
+  <row>
+    <city>Valjevo</city>
+    <zip>14000</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Varvarin</city>
+    <zip>37260</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Varvarin</belongsTo>
+  </row>
+  <row>
+    <city>Varda</city>
+    <zip>31263</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Kosjerić</belongsTo>
+  </row>
+  <row>
+    <city>Varna</city>
+    <zip>15232</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Varoš</city>
+    <zip>18363</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Svrljig</belongsTo>
+  </row>
+  <row>
+    <city>Vasilj</city>
+    <zip>19367</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Vatin</city>
+    <zip>26337</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Vašica</city>
+    <zip>22241</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Velebit</city>
+    <zip>24428</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Velesnica</city>
+    <zip>19328</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Kladovo</belongsTo>
+  </row>
+  <row>
+    <city>Velika Vrbnica</city>
+    <zip>37233</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Aleksandrovac</belongsTo>
+  </row>
+  <row>
+    <city>Velika Grabovnica</city>
+    <zip>16221</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Velika Greda</city>
+    <zip>26366</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Velika Drenova</city>
+    <zip>37245</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Trstenik</belongsTo>
+  </row>
+  <row>
+    <city>Velika Ivanča</city>
+    <zip>11414</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Velika Jasikova</city>
+    <zip>19235</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Velika Krsna</city>
+    <zip>11408</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Velika Lomnica</city>
+    <zip>37209</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Velika Moštanica</city>
+    <zip>11262</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Čukarica</belongsTo>
+  </row>
+  <row>
+    <city>Velika Plana</city>
+    <zip>11320</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Velika Plana</belongsTo>
+  </row>
+  <row>
+    <city>Velika Plana</city>
+    <zip>18403</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Velika Reka</city>
+    <zip>15322</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Mali Zvornik</belongsTo>
+  </row>
+  <row>
+    <city>Veliki Borak</city>
+    <zip>11462</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Barajevo</belongsTo>
+  </row>
+  <row>
+    <city>Veliki Gaj</city>
+    <zip>26365</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Veliki Izvor</city>
+    <zip>19206</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Veliki Popović</city>
+    <zip>35223</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Despotovac</belongsTo>
+  </row>
+  <row>
+    <city>Veliki Radinci</city>
+    <zip>22211</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Veliki Trnovac</city>
+    <zip>17528</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Bujanovac</belongsTo>
+  </row>
+  <row>
+    <city>Veliki Crljeni</city>
+    <zip>11563</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Veliki Šiljegovac</city>
+    <zip>37204</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Veliko Bonjince</city>
+    <zip>18215</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Babušnica</belongsTo>
+  </row>
+  <row>
+    <city>Veliko Gradište</city>
+    <zip>12220</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Veliko Gradište</belongsTo>
+  </row>
+  <row>
+    <city>Veliko Laole</city>
+    <zip>12306</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Petrovac na Mlavi</belongsTo>
+  </row>
+  <row>
+    <city>Veliko Orašje</city>
+    <zip>11323</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Velika Plana</belongsTo>
+  </row>
+  <row>
+    <city>Veliko Središte</city>
+    <zip>26334</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Venčane</city>
+    <zip>34306</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Veternik</city>
+    <zip>21203</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Vilovo</city>
+    <zip>21246</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Titel</belongsTo>
+  </row>
+  <row>
+    <city>Vina</city>
+    <zip>19368</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Vionica</city>
+    <zip>32254</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Visočka Ržana</city>
+    <zip>18306</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Pirot</belongsTo>
+  </row>
+  <row>
+    <city>Vitanovac</city>
+    <zip>36206</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Vitkovac</city>
+    <zip>36207</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Vitoševac</city>
+    <zip>37213</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Ražanj</belongsTo>
+  </row>
+  <row>
+    <city>Viča</city>
+    <zip>32233</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Lučani</belongsTo>
+  </row>
+  <row>
+    <city>Višnjevac</city>
+    <zip>24222</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Višnjićevo</city>
+    <zip>22246</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Vladimirovac</city>
+    <zip>26315</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Vladimirci</city>
+    <zip>15225</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Vladimirci</belongsTo>
+  </row>
+  <row>
+    <city>Vladičin Han</city>
+    <zip>17510</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vladičin Han</belongsTo>
+  </row>
+  <row>
+    <city>Vlajkovac</city>
+    <zip>26332</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Vlase</city>
+    <zip>17507</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vranje</belongsTo>
+  </row>
+  <row>
+    <city>Vlasotince</city>
+    <zip>16210</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Vlasotince</belongsTo>
+  </row>
+  <row>
+    <city>Vlaška</city>
+    <zip>11406</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Voganj</city>
+    <zip>22429</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Vodanj</city>
+    <zip>11328</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Vojvoda Stepa</city>
+    <zip>23219</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Nova Crnja</belongsTo>
+  </row>
+  <row>
+    <city>Vojvodinci</city>
+    <zip>26338</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Vojka</city>
+    <zip>22313</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Vojska</city>
+    <zip>35208</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Svilajnac</belongsTo>
+  </row>
+  <row>
+    <city>Voluja</city>
+    <zip>12256</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Kučevo</belongsTo>
+  </row>
+  <row>
+    <city>Vražogrnac</city>
+    <zip>19312</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Vranić</city>
+    <zip>11427</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Barajevo</belongsTo>
+  </row>
+  <row>
+    <city>Vranovo</city>
+    <zip>11329</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Vranje</city>
+    <zip>17501</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vranje</belongsTo>
+  </row>
+  <row>
+    <city>Vranjska Banja</city>
+    <zip>17541</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vranje</belongsTo>
+  </row>
+  <row>
+    <city>Vratarnica</city>
+    <zip>19344</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Vraćevšnica</city>
+    <zip>32315</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Vračev Gaj</city>
+    <zip>26348</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Vrba</city>
+    <zip>36214</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Vrbas</city>
+    <zip>21460</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Vrbas</belongsTo>
+  </row>
+  <row>
+    <city>Vrbica</city>
+    <zip>23329</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Čoka</belongsTo>
+  </row>
+  <row>
+    <city>Vrbovac</city>
+    <zip>38263</zip>
+    <county>Kosovskopomoravski okrug</county>
+    <belongsTo>Vitina</belongsTo>
+  </row>
+  <row>
+    <city>Vrdnik</city>
+    <zip>22408</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Irig</belongsTo>
+  </row>
+  <row>
+    <city>Vreoci</city>
+    <zip>11560</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Vrmdža</city>
+    <zip>18236</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Sokobanja</belongsTo>
+  </row>
+  <row>
+    <city>Vrnjačka Banja</city>
+    <zip>36210</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Vrnjačka Banja</belongsTo>
+  </row>
+  <row>
+    <city>Vrnjci</city>
+    <zip>36217</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Vrnjačka Banja</belongsTo>
+  </row>
+  <row>
+    <city>Vrćenovica</city>
+    <zip>18221</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Vrhpolje</city>
+    <zip>15324</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Ljubovija</belongsTo>
+  </row>
+  <row>
+    <city>Vršac</city>
+    <zip>26300</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Vukovac</city>
+    <zip>12318</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Žagubica</belongsTo>
+  </row>
+  <row>
+    <city>Vučje</city>
+    <zip>16203</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Gaj</city>
+    <zip>26223</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovin</belongsTo>
+  </row>
+  <row>
+    <city>Gajdobra</city>
+    <zip>21432</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Gakovo</city>
+    <zip>25282</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Gamzigradska Banja</city>
+    <zip>19228</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Gardinovci</city>
+    <zip>21247</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Titel</belongsTo>
+  </row>
+  <row>
+    <city>Gadžin Han</city>
+    <zip>18240</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Gadžin Han</belongsTo>
+  </row>
+  <row>
+    <city>Gibarac</city>
+    <zip>22258</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Glavinci</city>
+    <zip>35261</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Globoder</city>
+    <zip>37251</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Glogovac</city>
+    <zip>35222</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Glogonj</city>
+    <zip>26202</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Gložan</city>
+    <zip>21412</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bački Petrovac</belongsTo>
+  </row>
+  <row>
+    <city>Glušci</city>
+    <zip>15356</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Bogatić</belongsTo>
+  </row>
+  <row>
+    <city>Gnjilan</city>
+    <zip>18309</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Pirot</belongsTo>
+  </row>
+  <row>
+    <city>Golobok</city>
+    <zip>11316</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevska Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Golubac</city>
+    <zip>12223</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Golubac</belongsTo>
+  </row>
+  <row>
+    <city>Golubinci</city>
+    <zip>22308</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Goračići</city>
+    <zip>32232</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Lučani</belongsTo>
+  </row>
+  <row>
+    <city>Gornja Dobrinja</city>
+    <zip>31214</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Požega</belongsTo>
+  </row>
+  <row>
+    <city>Gornja Draguša</city>
+    <zip>18425</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Blace</belongsTo>
+  </row>
+  <row>
+    <city>Gornja Lisina</city>
+    <zip>17538</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Bosilegrad</belongsTo>
+  </row>
+  <row>
+    <city>Gornja Sabanta</city>
+    <zip>34206</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Pivara</belongsTo>
+  </row>
+  <row>
+    <city>Gornja Toplica</city>
+    <zip>14243</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Mionica</belongsTo>
+  </row>
+  <row>
+    <city>Gornja Toponica</city>
+    <zip>18202</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Crveni Krst</belongsTo>
+  </row>
+  <row>
+    <city>Gornja Trepča</city>
+    <zip>32215</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Gornja Trnava</city>
+    <zip>34324</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Topola</belongsTo>
+  </row>
+  <row>
+    <city>Gornje Dvorane</city>
+    <zip>37206</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Gornji Barbeš</city>
+    <zip>18241</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Gadžin Han</belongsTo>
+  </row>
+  <row>
+    <city>Gornji Breg</city>
+    <zip>24406</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Senta</belongsTo>
+  </row>
+  <row>
+    <city>Gornji Matejevac</city>
+    <zip>18204</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Pantelej</belongsTo>
+  </row>
+  <row>
+    <city>Gornji Milanovac</city>
+    <zip>32300</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Gornji Stepoš</city>
+    <zip>37221</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Gornji Stupanj</city>
+    <zip>37234</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Aleksandrovac</belongsTo>
+  </row>
+  <row>
+    <city>Gospođinci</city>
+    <zip>21237</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Žabalj</belongsTo>
+  </row>
+  <row>
+    <city>Gostun</city>
+    <zip>31308</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Prijepolje</belongsTo>
+  </row>
+  <row>
+    <city>Grabovac</city>
+    <zip>11508</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Obrenovac</belongsTo>
+  </row>
+  <row>
+    <city>Grabovica</city>
+    <zip>19327</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Kladovo</belongsTo>
+  </row>
+  <row>
+    <city>Grabovci</city>
+    <zip>22423</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Gradskovo</city>
+    <zip>19205</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Gračanica</city>
+    <zip>38205</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Priština</belongsTo>
+  </row>
+  <row>
+    <city>Grgurevci</city>
+    <zip>22213</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Grdelica</city>
+    <zip>16220</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Grebenac</city>
+    <zip>26347</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Grlište</city>
+    <zip>19342</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Grljan</city>
+    <zip>19341</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Grošnica</city>
+    <zip>34202</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Stanovo</belongsTo>
+  </row>
+  <row>
+    <city>Gruža</city>
+    <zip>34230</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Knić</belongsTo>
+  </row>
+  <row>
+    <city>Guberevac</city>
+    <zip>16211</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Guberevac</city>
+    <zip>34232</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Knić</belongsTo>
+  </row>
+  <row>
+    <city>Gudurica</city>
+    <zip>26335</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Gunaroš</city>
+    <zip>24312</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Guča</city>
+    <zip>32230</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Lučani</belongsTo>
+  </row>
+  <row>
+    <city>Guševac</city>
+    <zip>18208</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Svrljig</belongsTo>
+  </row>
+  <row>
+    <city>Darosava</city>
+    <zip>34305</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Debeljača</city>
+    <zip>26214</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovačica</belongsTo>
+  </row>
+  <row>
+    <city>Debrc</city>
+    <zip>15214</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Vladimirci</belongsTo>
+  </row>
+  <row>
+    <city>Devojački Bunar</city>
+    <zip>26316</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Deževa</city>
+    <zip>36305</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Novi Pazar</belongsTo>
+  </row>
+  <row>
+    <city>Deliblato</city>
+    <zip>26225</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovin</belongsTo>
+  </row>
+  <row>
+    <city>Delimeđe</city>
+    <zip>36307</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Tutin</belongsTo>
+  </row>
+  <row>
+    <city>Deronje</city>
+    <zip>25254</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Desimirovac</city>
+    <zip>34321</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aerodrom</belongsTo>
+  </row>
+  <row>
+    <city>Despotovac</city>
+    <zip>35213</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Despotovac</belongsTo>
+  </row>
+  <row>
+    <city>Despotovo</city>
+    <zip>21468</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Deč</city>
+    <zip>22441</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Divljaka</city>
+    <zip>31236</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Arilje</belongsTo>
+  </row>
+  <row>
+    <city>Divostin</city>
+    <zip>34204</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Stanovo</belongsTo>
+  </row>
+  <row>
+    <city>Divoš</city>
+    <zip>22232</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Divci</city>
+    <zip>14222</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Divčibare</city>
+    <zip>14204</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Dimitrovgrad</city>
+    <zip>18320</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Dimitrovgrad</belongsTo>
+  </row>
+  <row>
+    <city>Dobra</city>
+    <zip>12224</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Golubac</belongsTo>
+  </row>
+  <row>
+    <city>Dobri Do</city>
+    <zip>18408</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Dobrinci</city>
+    <zip>22412</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Dobrić</city>
+    <zip>15235</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Dobrica</city>
+    <zip>26354</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Dolac</city>
+    <zip>18314</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Bela Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Dolovo</city>
+    <zip>26227</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Doljevac</city>
+    <zip>18410</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Doljevac</belongsTo>
+  </row>
+  <row>
+    <city>Donja Bela Reka</city>
+    <zip>19213</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Donja Borina</city>
+    <zip>15317</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Mali Zvornik</belongsTo>
+  </row>
+  <row>
+    <city>Donja Gušterica</city>
+    <zip>38207</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Lipljan</belongsTo>
+  </row>
+  <row>
+    <city>Donja Kamenica</city>
+    <zip>19352</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Donja Ljubata</city>
+    <zip>17544</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Bosilegrad</belongsTo>
+  </row>
+  <row>
+    <city>Donja Mutnica</city>
+    <zip>35255</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Donja Orovica</city>
+    <zip>15323</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Ljubovija</belongsTo>
+  </row>
+  <row>
+    <city>Donja Rečica</city>
+    <zip>18404</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Donja Trnava</city>
+    <zip>18421</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Donja Šatornja</city>
+    <zip>34314</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Topola</belongsTo>
+  </row>
+  <row>
+    <city>Donje Vidovo</city>
+    <zip>35258</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Donje Zuniče</city>
+    <zip>19345</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Donje Međurovo</city>
+    <zip>18254</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Palilula (Niš)</belongsTo>
+  </row>
+  <row>
+    <city>Donje Crnatovo</city>
+    <zip>18414</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Žitorađa</belongsTo>
+  </row>
+  <row>
+    <city>Donje Crniljevo</city>
+    <zip>15227</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Koceljeva</belongsTo>
+  </row>
+  <row>
+    <city>Donji Dušnik</city>
+    <zip>18242</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Gadžin Han</belongsTo>
+  </row>
+  <row>
+    <city>Donji Krčin</city>
+    <zip>37258</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Varvarin</belongsTo>
+  </row>
+  <row>
+    <city>Donji Milanovac</city>
+    <zip>19220</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Majdanpek</belongsTo>
+  </row>
+  <row>
+    <city>Donji Stajevac</city>
+    <zip>17526</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Trgovište</belongsTo>
+  </row>
+  <row>
+    <city>Doroslovo</city>
+    <zip>25243</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Draginac</city>
+    <zip>15311</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Draginje</city>
+    <zip>15226</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Koceljeva</belongsTo>
+  </row>
+  <row>
+    <city>Draglica</city>
+    <zip>31317</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Nova Varoš</belongsTo>
+  </row>
+  <row>
+    <city>Dragobraća</city>
+    <zip>34231</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Stanovo</belongsTo>
+  </row>
+  <row>
+    <city>Dragovo</city>
+    <zip>35265</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Rekovac</belongsTo>
+  </row>
+  <row>
+    <city>Dragolj</city>
+    <zip>32316</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Dragocvet</city>
+    <zip>35272</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Dragoševac</city>
+    <zip>35262</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Draževac</city>
+    <zip>11506</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Obrenovac</belongsTo>
+  </row>
+  <row>
+    <city>Draževac</city>
+    <zip>18223</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Drajkovce</city>
+    <zip>38239</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Štrpce</belongsTo>
+  </row>
+  <row>
+    <city>Dračić</city>
+    <zip>14203</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Drenovac</city>
+    <zip>15212</zip>
+    <county>mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Drenovac</city>
+    <zip>35257</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Drugovac</city>
+    <zip>11432</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Dublje</city>
+    <zip>15359</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Bogatić</belongsTo>
+  </row>
+  <row>
+    <city>Dubovac</city>
+    <zip>26224</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovin</belongsTo>
+  </row>
+  <row>
+    <city>Dubovo</city>
+    <zip>18406</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Žitorađa</belongsTo>
+  </row>
+  <row>
+    <city>Duboka</city>
+    <zip>12255</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Kučevo</belongsTo>
+  </row>
+  <row>
+    <city>Duboka</city>
+    <zip>35218</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Dubočane</city>
+    <zip>19232</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Dubravica</city>
+    <zip>12207</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Požarevac</belongsTo>
+  </row>
+  <row>
+    <city>Duga Poljana</city>
+    <zip>36312</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Sjenica</belongsTo>
+  </row>
+  <row>
+    <city>Dugo Polje</city>
+    <zip>18237</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Sokobanja</belongsTo>
+  </row>
+  <row>
+    <city>Dudovica</city>
+    <zip>11561</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Dupljaja</city>
+    <zip>26328</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Đala</city>
+    <zip>23335</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Novi Kneževac</belongsTo>
+  </row>
+  <row>
+    <city>Đunis</city>
+    <zip>37202</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Đurđevo</city>
+    <zip>21239</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Žabalj</belongsTo>
+  </row>
+  <row>
+    <city>Đurđin</city>
+    <zip>24213</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Elemir</city>
+    <zip>23208</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Erdevik</city>
+    <zip>22230</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Erdeč</city>
+    <zip>34207</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Stanovo</belongsTo>
+  </row>
+  <row>
+    <city>Ečka</city>
+    <zip>23203</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Žabalj</city>
+    <zip>21230</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Žabalj</belongsTo>
+  </row>
+  <row>
+    <city>Žabari</city>
+    <zip>12374</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Žabari</belongsTo>
+  </row>
+  <row>
+    <city>Žagubica</city>
+    <zip>12320</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Žagubica</belongsTo>
+  </row>
+  <row>
+    <city>Željuše</city>
+    <zip>18325</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Dimitrovgrad</belongsTo>
+  </row>
+  <row>
+    <city>Žirovnica</city>
+    <zip>34229</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Batočina</belongsTo>
+  </row>
+  <row>
+    <city>Žitište</city>
+    <zip>23210</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Žitkovac</city>
+    <zip>18210</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Žitni Potok</city>
+    <zip>18407</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Žitorađa</city>
+    <zip>18412</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Žitorađa</belongsTo>
+  </row>
+  <row>
+    <city>Žiča</city>
+    <zip>36221</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Žuč</city>
+    <zip>18438</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Zablaće</city>
+    <zip>32223</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Zabojnica</city>
+    <zip>34244</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Knić</belongsTo>
+  </row>
+  <row>
+    <city>Zabrežje</city>
+    <zip>11505</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Obrenovac</belongsTo>
+  </row>
+  <row>
+    <city>Zavlaka</city>
+    <zip>15312</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Krupanj</belongsTo>
+  </row>
+  <row>
+    <city>Zagajica</city>
+    <zip>26344</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Zajača</city>
+    <zip>15315</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Zaječar</city>
+    <zip>19000</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Zaplanjska Toponica</city>
+    <zip>18244</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Gadžin Han</belongsTo>
+  </row>
+  <row>
+    <city>Zasavica</city>
+    <zip>22201</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Zvezdan</city>
+    <zip>19227</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Zvečan</city>
+    <zip>38227</zip>
+    <county>Kosovskomitrovački okrug</county>
+    <belongsTo>Zvečan</belongsTo>
+  </row>
+  <row>
+    <city>Zvonce</city>
+    <zip>18333</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Babušnica</belongsTo>
+  </row>
+  <row>
+    <city>Zdravinje</city>
+    <zip>37203</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Zlatibor</city>
+    <zip>31315</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Čajetina</belongsTo>
+  </row>
+  <row>
+    <city>Zlatica</city>
+    <zip>23255</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Zlodol</city>
+    <zip>31253</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Bajina Bašta</belongsTo>
+  </row>
+  <row>
+    <city>Zlot</city>
+    <zip>19215</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Zmajevo</city>
+    <zip>21213</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Vrbas</belongsTo>
+  </row>
+  <row>
+    <city>Zminjak</city>
+    <zip>15352</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Zrenjanin</city>
+    <zip>23000</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Zubin Potok</city>
+    <zip>38228</zip>
+    <county>Kosovskomitrovački okrug</county>
+    <belongsTo>Zubin Potok</belongsTo>
+  </row>
+  <row>
+    <city>Zuce</city>
+    <zip>11225</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Voždovac</belongsTo>
+  </row>
+  <row>
+    <city>Ivanovo</city>
+    <zip>26233</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Ivanjica</city>
+    <zip>32250</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Idvor</city>
+    <zip>26207</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovačica</belongsTo>
+  </row>
+  <row>
+    <city>Iđoš</city>
+    <zip>23323</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Izbište</city>
+    <zip>26343</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Ilandža</city>
+    <zip>26352</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Ilinci</city>
+    <zip>22250</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Ilićevo</city>
+    <zip>34203</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Pivara</belongsTo>
+  </row>
+  <row>
+    <city>Inđija</city>
+    <zip>22320</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Irig</city>
+    <zip>22406</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Irig</belongsTo>
+  </row>
+  <row>
+    <city>Jabuka</city>
+    <zip>26201</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Jabuka</city>
+    <zip>31306</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Prijepolje</belongsTo>
+  </row>
+  <row>
+    <city>Jabukovac</city>
+    <zip>19304</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Jabučje</city>
+    <zip>14226</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Lajkovac</belongsTo>
+  </row>
+  <row>
+    <city>Jagnjilo</city>
+    <zip>11412</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Jagodina</city>
+    <zip>35000</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Jadranska Lešnica</city>
+    <zip>15308</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Jazak</city>
+    <zip>22409</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Irig</belongsTo>
+  </row>
+  <row>
+    <city>Jazovo</city>
+    <zip>23327</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Čoka</belongsTo>
+  </row>
+  <row>
+    <city>Jamena</city>
+    <zip>22248</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Jankov Most</city>
+    <zip>23201</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Janošik</city>
+    <zip>26362</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Jarak</city>
+    <zip>22426</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Jarkovac</city>
+    <zip>23250</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Jarmenovci</city>
+    <zip>34318</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Topola</belongsTo>
+  </row>
+  <row>
+    <city>Jasenovo</city>
+    <zip>26346</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Jasenovo</city>
+    <zip>31319</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Nova Varoš</belongsTo>
+  </row>
+  <row>
+    <city>Jasenovo</city>
+    <zip>35241</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Despotovac</belongsTo>
+  </row>
+  <row>
+    <city>Jasika</city>
+    <zip>37252</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Jasikovica</city>
+    <zip>37247</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Trstenik</belongsTo>
+  </row>
+  <row>
+    <city>Jasikovo</city>
+    <zip>19256</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Majdanpek</belongsTo>
+  </row>
+  <row>
+    <city>Jaša Tomić</city>
+    <zip>23230</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Ježevica</city>
+    <zip>31213</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Požega</belongsTo>
+  </row>
+  <row>
+    <city>Ježevica</city>
+    <zip>32222</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Jelašnica</city>
+    <zip>17531</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Surdulica</belongsTo>
+  </row>
+  <row>
+    <city>Jelašnica</city>
+    <zip>18206</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Niška Banja</belongsTo>
+  </row>
+  <row>
+    <city>Jelen Do</city>
+    <zip>31215</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Požega</belongsTo>
+  </row>
+  <row>
+    <city>Jelovik</city>
+    <zip>34309</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Jermenovci</city>
+    <zip>26363</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Jovanovac</city>
+    <zip>18258</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Merošina</belongsTo>
+  </row>
+  <row>
+    <city>Jovanovac</city>
+    <zip>34211</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aerodrom</belongsTo>
+  </row>
+  <row>
+    <city>Jovac</city>
+    <zip>35205</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Ćuprija</belongsTo>
+  </row>
+  <row>
+    <city>Jošanica</city>
+    <zip>18234</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Sokobanja</belongsTo>
+  </row>
+  <row>
+    <city>Jošanička Banja</city>
+    <zip>36345</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Raška</belongsTo>
+  </row>
+  <row>
+    <city>Jugbogdanovac</city>
+    <zip>18253</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Merošina</belongsTo>
+  </row>
+  <row>
+    <city>Junkovac</city>
+    <zip>11562</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Kalna</city>
+    <zip>19353</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Kaluđerica</city>
+    <zip>11130</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Grocka</belongsTo>
+  </row>
+  <row>
+    <city>Kamenica</city>
+    <zip>14252</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Kamenica</city>
+    <zip>15222</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Koceljeva</belongsTo>
+  </row>
+  <row>
+    <city>Kamenica</city>
+    <zip>18324</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Dimitrovgrad</belongsTo>
+  </row>
+  <row>
+    <city>Kanjiža</city>
+    <zip>24420</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Kaona</city>
+    <zip>32234</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Lučani</belongsTo>
+  </row>
+  <row>
+    <city>Kaonik</city>
+    <zip>37256</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Karavukovo</city>
+    <zip>25255</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Karađorđevo</city>
+    <zip>21421</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Karađorđevo</city>
+    <zip>24308</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Karan</city>
+    <zip>31204</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Karlovčić</city>
+    <zip>22443</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Katun</city>
+    <zip>18225</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Kać</city>
+    <zip>21241</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Kačarevo</city>
+    <zip>26212</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Kevi</city>
+    <zip>24407</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Senta</belongsTo>
+  </row>
+  <row>
+    <city>Kelebija</city>
+    <zip>24104</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Kelebija gran. prelaz</city>
+    <zip>24205</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Kikinda</city>
+    <zip>23300</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Kisač</city>
+    <zip>21211</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Kladovo</city>
+    <zip>19320</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Kladovo</belongsTo>
+  </row>
+  <row>
+    <city>Klek</city>
+    <zip>23211</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Klenak</city>
+    <zip>22424</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Klenike</city>
+    <zip>17524</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Bujanovac</belongsTo>
+  </row>
+  <row>
+    <city>Klenje</city>
+    <zip>12258</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Golubac</belongsTo>
+  </row>
+  <row>
+    <city>Klenje</city>
+    <zip>15357</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Bogatić</belongsTo>
+  </row>
+  <row>
+    <city>Klisura</city>
+    <zip>17535</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Surdulica</belongsTo>
+  </row>
+  <row>
+    <city>Kličevac</city>
+    <zip>12209</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Požarevac</belongsTo>
+  </row>
+  <row>
+    <city>Klokočevac</city>
+    <zip>19222</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Majdanpek</belongsTo>
+  </row>
+  <row>
+    <city>Kljajićevo</city>
+    <zip>25221</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Knić</city>
+    <zip>34240</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Knić</belongsTo>
+  </row>
+  <row>
+    <city>Knićanin</city>
+    <zip>23265</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Knjaževac</city>
+    <zip>19350</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Kobišnica</city>
+    <zip>19316</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Kovačevac</city>
+    <zip>11409</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Kovačica</city>
+    <zip>26210</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovačica</belongsTo>
+  </row>
+  <row>
+    <city>Kovilj</city>
+    <zip>21243</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Kovin</city>
+    <zip>26220</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovin</belongsTo>
+  </row>
+  <row>
+    <city>Kokin Brod</city>
+    <zip>31318</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Nova Varoš</belongsTo>
+  </row>
+  <row>
+    <city>Kolare</city>
+    <zip>35242</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Kolari</city>
+    <zip>11431</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Kolut</city>
+    <zip>25274</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Komirić</city>
+    <zip>14254</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Osečina</belongsTo>
+  </row>
+  <row>
+    <city>Konak</city>
+    <zip>23253</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Konarevo</city>
+    <zip>36340</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Končarevo</city>
+    <zip>35219</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Konjuh</city>
+    <zip>37254</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Kopaonik</city>
+    <zip>36354</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Raška</belongsTo>
+  </row>
+  <row>
+    <city>Koprivnica</city>
+    <zip>19223</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Koraćica</city>
+    <zip>11415</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Korbevac</city>
+    <zip>17545</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vranjska Banja</belongsTo>
+  </row>
+  <row>
+    <city>Korbovo</city>
+    <zip>19329</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Kladovo</belongsTo>
+  </row>
+  <row>
+    <city>Korenita</city>
+    <zip>15302</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Korman</city>
+    <zip>18216</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Korman</city>
+    <zip>34224</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Pivara</belongsTo>
+  </row>
+  <row>
+    <city>Kosančić</city>
+    <zip>16206</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Bojnik</belongsTo>
+  </row>
+  <row>
+    <city>Kosjerić</city>
+    <zip>31260</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Kosjerić</belongsTo>
+  </row>
+  <row>
+    <city>Kosovo Polje</city>
+    <zip>38210</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Kosovo Polje</belongsTo>
+  </row>
+  <row>
+    <city>Kosovska Kamenica</city>
+    <zip>38260</zip>
+    <county>Kosovskopomoravski okrug</county>
+    <belongsTo>Kosovska Kamenica</belongsTo>
+  </row>
+  <row>
+    <city>Kosovska Mitrovica</city>
+    <zip>38220</zip>
+    <county>Kosovskomitrovački okrug</county>
+    <belongsTo>Kosovska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Kostojevići</city>
+    <zip>31254</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Bajina Bašta</belongsTo>
+  </row>
+  <row>
+    <city>Kostolac</city>
+    <zip>12208</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Kostolac</belongsTo>
+  </row>
+  <row>
+    <city>Kotraža</city>
+    <zip>32235</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Lučani</belongsTo>
+  </row>
+  <row>
+    <city>Koceljeva</city>
+    <zip>15220</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Koceljeva</belongsTo>
+  </row>
+  <row>
+    <city>Kragujevac</city>
+    <zip>34000</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Stari Grad (Kragujevac)</belongsTo>
+  </row>
+  <row>
+    <city>Krajišnik</city>
+    <zip>23231</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Kraljevo</city>
+    <zip>36000</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Kraljevci</city>
+    <zip>22411</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Kremna</city>
+    <zip>31242</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Krepoljin</city>
+    <zip>12316</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Žagubica</belongsTo>
+  </row>
+  <row>
+    <city>Kriva Feja</city>
+    <zip>17543</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vranjska Banja</belongsTo>
+  </row>
+  <row>
+    <city>Krivaja</city>
+    <zip>24341</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Krivelj</city>
+    <zip>19219</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Krivi Vir</city>
+    <zip>19375</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Boljevac</belongsTo>
+  </row>
+  <row>
+    <city>Krnjevo</city>
+    <zip>11319</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Velika Plana</belongsTo>
+  </row>
+  <row>
+    <city>Krnješevci</city>
+    <zip>22314</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Krupanj</city>
+    <zip>15314</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Krupanj</belongsTo>
+  </row>
+  <row>
+    <city>Krupac</city>
+    <zip>18307</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Pirot</belongsTo>
+  </row>
+  <row>
+    <city>Krušar</city>
+    <zip>35227</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Ćuprija</belongsTo>
+  </row>
+  <row>
+    <city>Kruševac</city>
+    <zip>37000</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Kruševica</city>
+    <zip>18409</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Krušedol</city>
+    <zip>22328</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Irig</belongsTo>
+  </row>
+  <row>
+    <city>Kruščić</city>
+    <zip>25225</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Kula</belongsTo>
+  </row>
+  <row>
+    <city>Krčedin</city>
+    <zip>22325</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Kuzmin</city>
+    <zip>22223</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Kukljin</city>
+    <zip>37255</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Kukujevci</city>
+    <zip>22224</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Kula</city>
+    <zip>25230</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Kula</belongsTo>
+  </row>
+  <row>
+    <city>Kulina</city>
+    <zip>18214</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Kulpin</city>
+    <zip>21472</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bački Petrovac</belongsTo>
+  </row>
+  <row>
+    <city>Kumane</city>
+    <zip>23271</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Novi Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Kupinik</city>
+    <zip>26368</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Kupinovo</city>
+    <zip>22419</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Kupusina</city>
+    <zip>25262</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Apatin</belongsTo>
+  </row>
+  <row>
+    <city>Kupci</city>
+    <zip>37222</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Kuršumlija</city>
+    <zip>18430</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Kuršumlijska Banja</city>
+    <zip>18435</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Kusadak</city>
+    <zip>11425</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevska Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Kusić</city>
+    <zip>26349</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Kucura</city>
+    <zip>21466</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Vrbas</belongsTo>
+  </row>
+  <row>
+    <city>Kučevo</city>
+    <zip>12240</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Kučevo</belongsTo>
+  </row>
+  <row>
+    <city>Kušiljevo</city>
+    <zip>35226</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Svilajnac</belongsTo>
+  </row>
+  <row>
+    <city>Kušići</city>
+    <zip>32258</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Kuštilj</city>
+    <zip>26336</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Lađevci</city>
+    <zip>36204</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Lazarevac</city>
+    <zip>11550</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Lazarevo</city>
+    <zip>23241</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Laznica</city>
+    <zip>12321</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Žagubica</belongsTo>
+  </row>
+  <row>
+    <city>Lajkovac</city>
+    <zip>14224</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Lajkovac</belongsTo>
+  </row>
+  <row>
+    <city>Lalinac</city>
+    <zip>18256</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Palilula (Niš)</belongsTo>
+  </row>
+  <row>
+    <city>Lalinac</city>
+    <zip>18201</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Svrljig</belongsTo>
+  </row>
+  <row>
+    <city>Lalić</city>
+    <zip>25234</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Laplje Selo</city>
+    <zip>38204</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Priština</belongsTo>
+  </row>
+  <row>
+    <city>Lapovo</city>
+    <zip>34221</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Lapovo</belongsTo>
+  </row>
+  <row>
+    <city>Lapovo (Varoš)</city>
+    <zip>34220</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Lapovo</belongsTo>
+  </row>
+  <row>
+    <city>Laćarak</city>
+    <zip>22221</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Lebane</city>
+    <zip>16230</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Lebane</belongsTo>
+  </row>
+  <row>
+    <city>Ledinci</city>
+    <zip>21207</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Petrovaradin</belongsTo>
+  </row>
+  <row>
+    <city>Ležimir</city>
+    <zip>22207</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Lelić</city>
+    <zip>14205</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Lenovac</city>
+    <zip>19343</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Lepenac</city>
+    <zip>37224</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Brus</belongsTo>
+  </row>
+  <row>
+    <city>Lepenica</city>
+    <zip>17513</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vladičin Han</belongsTo>
+  </row>
+  <row>
+    <city>Lepina</city>
+    <zip>38208</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Lipljan</belongsTo>
+  </row>
+  <row>
+    <city>Leposavić</city>
+    <zip>38218</zip>
+    <county>Kosovskomitrovački okrug</county>
+    <belongsTo>Leposavić</belongsTo>
+  </row>
+  <row>
+    <city>Leskovac</city>
+    <zip>16000</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Lece</city>
+    <zip>16248</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Medveđa</belongsTo>
+  </row>
+  <row>
+    <city>Lešak</city>
+    <zip>38219</zip>
+    <county>Kosovskomitrovački okrug</county>
+    <belongsTo>Leposavić</belongsTo>
+  </row>
+  <row>
+    <city>Lešnica</city>
+    <zip>15307</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Lipar</city>
+    <zip>25232</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Kula</belongsTo>
+  </row>
+  <row>
+    <city>Lipe</city>
+    <zip>11310</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Lipnički Šor</city>
+    <zip>15341</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Lipolist</city>
+    <zip>15305</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Lički Hanovi</city>
+    <zip>18245</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Gadžin Han</belongsTo>
+  </row>
+  <row>
+    <city>Lovćenac</city>
+    <zip>24322</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Mali Iđoš</belongsTo>
+  </row>
+  <row>
+    <city>Loznica</city>
+    <zip>15300</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Lozovik</city>
+    <zip>11317</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Velika Plana</belongsTo>
+  </row>
+  <row>
+    <city>Lok</city>
+    <zip>21248</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Titel</belongsTo>
+  </row>
+  <row>
+    <city>Lokve</city>
+    <zip>26361</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Loćika</city>
+    <zip>35274</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Rekovac</belongsTo>
+  </row>
+  <row>
+    <city>Lubnica</city>
+    <zip>19208</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Lug</city>
+    <zip>21315</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Beočin</belongsTo>
+  </row>
+  <row>
+    <city>Lugavčina</city>
+    <zip>11321</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Lužnice</city>
+    <zip>34325</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aerodrom</belongsTo>
+  </row>
+  <row>
+    <city>Lukare</city>
+    <zip>36306</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Novi Pazar</belongsTo>
+  </row>
+  <row>
+    <city>Lukino Selo</city>
+    <zip>23224</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Lukićevo</city>
+    <zip>23261</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Lukovo</city>
+    <zip>19371</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Boljevac</belongsTo>
+  </row>
+  <row>
+    <city>Lukovska Banja</city>
+    <zip>18437</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Lunovo Selo</city>
+    <zip>31203</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Lučani</city>
+    <zip>32240</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Lučani</belongsTo>
+  </row>
+  <row>
+    <city>Ljig</city>
+    <zip>14240</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Ljig</belongsTo>
+  </row>
+  <row>
+    <city>Ljuba</city>
+    <zip>22255</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Ljuberađa</city>
+    <zip>18217</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Babušnica</belongsTo>
+  </row>
+  <row>
+    <city>Ljubiš</city>
+    <zip>31209</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Čajetina</belongsTo>
+  </row>
+  <row>
+    <city>Ljubovija</city>
+    <zip>15320</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Ljubovija</belongsTo>
+  </row>
+  <row>
+    <city>Ljukovo</city>
+    <zip>22321</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Ljutovo</city>
+    <zip>24215</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Maglić</city>
+    <zip>21473</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bački Petrovac</belongsTo>
+  </row>
+  <row>
+    <city>Majdan</city>
+    <zip>23333</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Novi Kneževac</belongsTo>
+  </row>
+  <row>
+    <city>Majdanpek</city>
+    <zip>19250</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Majdanpek</belongsTo>
+  </row>
+  <row>
+    <city>Majilovac</city>
+    <zip>12221</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Veliko Gradište</belongsTo>
+  </row>
+  <row>
+    <city>Majur</city>
+    <zip>15353</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Majur</city>
+    <zip>35270</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Mala Bosna</city>
+    <zip>24217</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Mala Krsna</city>
+    <zip>11313</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Mala Moštanica</city>
+    <zip>11261</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Obrenovac</belongsTo>
+  </row>
+  <row>
+    <city>Mala Plana</city>
+    <zip>18423</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Male Pijace</city>
+    <zip>24416</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Male Pčelice</city>
+    <zip>34216</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Stanovo</belongsTo>
+  </row>
+  <row>
+    <city>Mali Beograd</city>
+    <zip>24309</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Mali Zvornik</city>
+    <zip>15318</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Mali Zvornik</belongsTo>
+  </row>
+  <row>
+    <city>Mali Iđoš</city>
+    <zip>24321</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Mali Iđoš</belongsTo>
+  </row>
+  <row>
+    <city>Mali Izvor</city>
+    <zip>19347</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Mali Jasenovac</city>
+    <zip>19209</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Mali Požarevac</city>
+    <zip>11235</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Sopot</belongsTo>
+  </row>
+  <row>
+    <city>Malo Krčmare</city>
+    <zip>34212</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Rača</belongsTo>
+  </row>
+  <row>
+    <city>Malo Crniće</city>
+    <zip>12311</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Malo Crniće</belongsTo>
+  </row>
+  <row>
+    <city>Malošište</city>
+    <zip>18415</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Doljevac</belongsTo>
+  </row>
+  <row>
+    <city>Malča</city>
+    <zip>18207</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Pantelej</belongsTo>
+  </row>
+  <row>
+    <city>Manđelos</city>
+    <zip>22208</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Manojlovce</city>
+    <zip>16201</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Maradik</city>
+    <zip>22327</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Margita</city>
+    <zip>26364</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Markovac</city>
+    <zip>11325</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Velika Plana</belongsTo>
+  </row>
+  <row>
+    <city>Markovica</city>
+    <zip>32243</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Lučani</belongsTo>
+  </row>
+  <row>
+    <city>Martinci</city>
+    <zip>22222</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Martonoš</city>
+    <zip>24417</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Maršić</city>
+    <zip>34209</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Pivara</belongsTo>
+  </row>
+  <row>
+    <city>Mataruška Banja</city>
+    <zip>36201</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Mačvanska Mitrovica</city>
+    <zip>22202</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Mačvanski Pričinović</city>
+    <zip>15211</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Mačkat</city>
+    <zip>31312</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Čajetina</belongsTo>
+  </row>
+  <row>
+    <city>Medveđa</city>
+    <zip>16240</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Medveđa</belongsTo>
+  </row>
+  <row>
+    <city>Medveđa</city>
+    <zip>35224</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Despotovac</belongsTo>
+  </row>
+  <row>
+    <city>Medveđa</city>
+    <zip>37244</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Trstenik</belongsTo>
+  </row>
+  <row>
+    <city>Medoševac</city>
+    <zip>18209</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Crveni Krst</belongsTo>
+  </row>
+  <row>
+    <city>Međa</city>
+    <zip>23234</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Međulužje</city>
+    <zip>11405</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Međurečje</city>
+    <zip>32255</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Melenci</city>
+    <zip>23270</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Melenci-Rusanda</city>
+    <zip>23269</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Meljak</city>
+    <zip>11426</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Barajevo</belongsTo>
+  </row>
+  <row>
+    <city>Merdare</city>
+    <zip>18445</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Merošina</city>
+    <zip>18252</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Merošina</belongsTo>
+  </row>
+  <row>
+    <city>Merćez</city>
+    <zip>18436</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Metlić</city>
+    <zip>15233</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Metovnica</city>
+    <zip>19204</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Mijatovac</city>
+    <zip>35236</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Ćuprija</belongsTo>
+  </row>
+  <row>
+    <city>Milatovac</city>
+    <zip>34222</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Batočina</belongsTo>
+  </row>
+  <row>
+    <city>Milentija</city>
+    <zip>37227</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Brus</belongsTo>
+  </row>
+  <row>
+    <city>Miletićevo</city>
+    <zip>26373</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Mileševo</city>
+    <zip>21227</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Miloševac</city>
+    <zip>11318</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Velika Plana</belongsTo>
+  </row>
+  <row>
+    <city>Miloševo</city>
+    <zip>35268</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Milutovac</city>
+    <zip>37246</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Trstenik</belongsTo>
+  </row>
+  <row>
+    <city>Minićevo</city>
+    <zip>19340</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Mionica</city>
+    <zip>14242</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Mionica</belongsTo>
+  </row>
+  <row>
+    <city>Mirosaljci</city>
+    <zip>11567</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Miroševce</city>
+    <zip>16204</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Mitrovac</city>
+    <zip>31251</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Bajina Bašta</belongsTo>
+  </row>
+  <row>
+    <city>Mihajlovac</city>
+    <zip>11312</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Mihajlovac</city>
+    <zip>19322</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Mihajlovo</city>
+    <zip>23202</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Mišićevo</city>
+    <zip>24211</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Mladenovac</city>
+    <zip>11400</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Mladenovo</city>
+    <zip>21422</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Mozgovo</city>
+    <zip>18229</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Mokra Gora</city>
+    <zip>31243</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Mokrin</city>
+    <zip>23305</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Mol</city>
+    <zip>24435</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Ada</belongsTo>
+  </row>
+  <row>
+    <city>Molovin</city>
+    <zip>22256</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Morović</city>
+    <zip>22245</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Mošorin</city>
+    <zip>21245</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Titel</belongsTo>
+  </row>
+  <row>
+    <city>Mramor</city>
+    <zip>18251</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Palilula</belongsTo>
+  </row>
+  <row>
+    <city>Mramorak</city>
+    <zip>26226</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovin</belongsTo>
+  </row>
+  <row>
+    <city>Mrčajevci</city>
+    <zip>32210</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Mršinci</city>
+    <zip>32224</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Mužlja</city>
+    <zip>23206</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Muhovac</city>
+    <zip>17529</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Bujanovac</belongsTo>
+  </row>
+  <row>
+    <city>Nadalj</city>
+    <zip>21216</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Srbobran</belongsTo>
+  </row>
+  <row>
+    <city>Nakovo</city>
+    <zip>23311</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Natalinci</city>
+    <zip>34313</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Topola</belongsTo>
+  </row>
+  <row>
+    <city>Negotin</city>
+    <zip>19300</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Neresnica</city>
+    <zip>12242</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Kučevo</belongsTo>
+  </row>
+  <row>
+    <city>Neuzina</city>
+    <zip>23245</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Neštin</city>
+    <zip>21314</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Nikinci</city>
+    <zip>22422</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Nikolinci</city>
+    <zip>26322</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Nikoličevo</city>
+    <zip>19311</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Niš</city>
+    <zip>18000</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Niš</belongsTo>
+  </row>
+  <row>
+    <city>Niševac</city>
+    <zip>18366</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Svrljig</belongsTo>
+  </row>
+  <row>
+    <city>Niška Banja</city>
+    <zip>18205</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Niška Banja</belongsTo>
+  </row>
+  <row>
+    <city>Nova Varoš</city>
+    <zip>31320</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Nova Varoš</belongsTo>
+  </row>
+  <row>
+    <city>Nova Gajdobra</city>
+    <zip>21431</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Nova Pazova</city>
+    <zip>22330</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Nova Crvenka</city>
+    <zip>25224</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Kula</belongsTo>
+  </row>
+  <row>
+    <city>Nova Crnja</city>
+    <zip>23218</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Nova Crnja</belongsTo>
+  </row>
+  <row>
+    <city>Novi Banovci</city>
+    <zip>22304</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Novi Bečej</city>
+    <zip>23272</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Novi Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Novi Bračin</city>
+    <zip>37216</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Ražanj</belongsTo>
+  </row>
+  <row>
+    <city>Novi Žednik</city>
+    <zip>24223</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Novi Itebej</city>
+    <zip>23236</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Novi Karlovci</city>
+    <zip>22322</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Novi Kneževac</city>
+    <zip>23330</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Novi Kneževac</belongsTo>
+  </row>
+  <row>
+    <city>Novi Kozarci</city>
+    <zip>23313</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Novi Kozjak</city>
+    <zip>26353</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Novi Pazar</city>
+    <zip>36300</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Novi Pazar</belongsTo>
+  </row>
+  <row>
+    <city>Novi Sad</city>
+    <zip>21000</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Novi Slankamen</city>
+    <zip>22323</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Novo Miloševo</city>
+    <zip>23273</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Novi Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Novo Orahovo</city>
+    <zip>24351</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Novo Selo</city>
+    <zip>18250</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Palilula</belongsTo>
+  </row>
+  <row>
+    <city>Novo Selo</city>
+    <zip>36216</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Vrnjačka Banja</belongsTo>
+  </row>
+  <row>
+    <city>Noćaj</city>
+    <zip>22203</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Obrež</city>
+    <zip>22417</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Obrež</city>
+    <zip>37266</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Varvarin</belongsTo>
+  </row>
+  <row>
+    <city>Obrenovac</city>
+    <zip>11500</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Obrenovac</belongsTo>
+  </row>
+  <row>
+    <city>Obrovac</city>
+    <zip>21423</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Ovčar Banja</city>
+    <zip>32242</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Ogar</city>
+    <zip>22416</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Omoljica</city>
+    <zip>26230</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Oparić</city>
+    <zip>35267</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Rekovac</belongsTo>
+  </row>
+  <row>
+    <city>Opovo</city>
+    <zip>26204</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Opovo</belongsTo>
+  </row>
+  <row>
+    <city>Orane</city>
+    <zip>16233</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Bojnik</belongsTo>
+  </row>
+  <row>
+    <city>Orašac</city>
+    <zip>34308</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Oreškovica</city>
+    <zip>12308</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Petrovac</belongsTo>
+  </row>
+  <row>
+    <city>Orid</city>
+    <zip>15213</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Orlovat</city>
+    <zip>23263</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Orom</city>
+    <zip>24207</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Osanica</city>
+    <zip>12317</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Žagubica</belongsTo>
+  </row>
+  <row>
+    <city>Osečina</city>
+    <zip>14253</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Osečina</belongsTo>
+  </row>
+  <row>
+    <city>Osipaonica</city>
+    <zip>11314</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Ostojićevo</city>
+    <zip>23326</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Čoka</belongsTo>
+  </row>
+  <row>
+    <city>Ostrovica</city>
+    <zip>18312</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Niška Banja</belongsTo>
+  </row>
+  <row>
+    <city>Ostružnica</city>
+    <zip>11251</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Čukarica</belongsTo>
+  </row>
+  <row>
+    <city>Odžaci</city>
+    <zip>25250</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Oštrelj</city>
+    <zip>19226</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Pavliš</city>
+    <zip>26333</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Padež</city>
+    <zip>37257</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Padej</city>
+    <zip>23325</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Čoka</belongsTo>
+  </row>
+  <row>
+    <city>Padina</city>
+    <zip>26215</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovačica</belongsTo>
+  </row>
+  <row>
+    <city>Palić</city>
+    <zip>24413</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Pambukovica</city>
+    <zip>14213</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Ub</belongsTo>
+  </row>
+  <row>
+    <city>Panonija</city>
+    <zip>24330</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Pančevo</city>
+    <zip>26000</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Parage</city>
+    <zip>21434</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Paraćin</city>
+    <zip>35250</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Parteš</city>
+    <zip>38251</zip>
+    <county>Kosovskopomoravski okrug</county>
+    <belongsTo>Gnjilane</belongsTo>
+  </row>
+  <row>
+    <city>Parunovac</city>
+    <zip>37201</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Pasjane</city>
+    <zip>38266</zip>
+    <county>Kosovskopomoravski okrug</county>
+    <belongsTo>Gnjilane</belongsTo>
+  </row>
+  <row>
+    <city>Pačir</city>
+    <zip>24342</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Pejkovac</city>
+    <zip>18413</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Žitorađa</belongsTo>
+  </row>
+  <row>
+    <city>Pepeljevac</city>
+    <zip>37231</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Perlez</city>
+    <zip>23260</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Perućac</city>
+    <zip>31256</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Bajina Bašta</belongsTo>
+  </row>
+  <row>
+    <city>Petlovača</city>
+    <zip>15304</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Petrovaradin</city>
+    <zip>21131</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Petrovaradin</belongsTo>
+  </row>
+  <row>
+    <city>Petrovac</city>
+    <zip>12300</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Petrovac na Mlavi</belongsTo>
+  </row>
+  <row>
+    <city>Pećinci</city>
+    <zip>22410</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Pecka</city>
+    <zip>14207</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Osečina</belongsTo>
+  </row>
+  <row>
+    <city>Pečenjevce</city>
+    <zip>16251</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Pivnice</city>
+    <zip>21469</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Pinosava</city>
+    <zip>11226</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Voždovac</belongsTo>
+  </row>
+  <row>
+    <city>Pirot</city>
+    <zip>18300</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Opština Pirot</belongsTo>
+  </row>
+  <row>
+    <city>Plavna</city>
+    <zip>19307</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Plavna</city>
+    <zip>21428</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bač</belongsTo>
+  </row>
+  <row>
+    <city>Plažane</city>
+    <zip>35212</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Despotovac</belongsTo>
+  </row>
+  <row>
+    <city>Plana</city>
+    <zip>35247</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Plandište</city>
+    <zip>26360</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Platičevo</city>
+    <zip>22420</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Plemetina</city>
+    <zip>38211</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Obilić</belongsTo>
+  </row>
+  <row>
+    <city>Pleš</city>
+    <zip>37238</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Aleksandrovac</belongsTo>
+  </row>
+  <row>
+    <city>Pločica</city>
+    <zip>26229</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovin</belongsTo>
+  </row>
+  <row>
+    <city>Pobeda</city>
+    <zip>24313</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Poganovo</city>
+    <zip>18326</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Dimitrovgrad</belongsTo>
+  </row>
+  <row>
+    <city>Podvis</city>
+    <zip>19362</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Knjaževac</belongsTo>
+  </row>
+  <row>
+    <city>Podvrška</city>
+    <zip>19321</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Kladovo</belongsTo>
+  </row>
+  <row>
+    <city>Podgorac</city>
+    <zip>19233</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Boljevac</belongsTo>
+  </row>
+  <row>
+    <city>Podunavci</city>
+    <zip>36215</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Vrnjačka Banja</belongsTo>
+  </row>
+  <row>
+    <city>Požarevac</city>
+    <zip>12000</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Požarevac</belongsTo>
+  </row>
+  <row>
+    <city>Požega</city>
+    <zip>31210</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Požega</belongsTo>
+  </row>
+  <row>
+    <city>Pojate</city>
+    <zip>37214</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Ćićevac</belongsTo>
+  </row>
+  <row>
+    <city>Poljana</city>
+    <zip>12372</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Požarevac</belongsTo>
+  </row>
+  <row>
+    <city>Poljska Ržana</city>
+    <zip>18328</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Pirot</belongsTo>
+  </row>
+  <row>
+    <city>Popinci</city>
+    <zip>22428</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Popovac</city>
+    <zip>35254</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Popučke</city>
+    <zip>14221</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Porodin</city>
+    <zip>12375</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Žabari</belongsTo>
+  </row>
+  <row>
+    <city>Potočac</city>
+    <zip>35207</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Poćuta</city>
+    <zip>14206</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Počekovina</city>
+    <zip>37243</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Trstenik</belongsTo>
+  </row>
+  <row>
+    <city>Pranjani</city>
+    <zip>32308</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Prahovo</city>
+    <zip>19330</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Prevešt</city>
+    <zip>35264</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Rekovac</belongsTo>
+  </row>
+  <row>
+    <city>Predejane</city>
+    <zip>16222</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Prekonoga</city>
+    <zip>18365</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Svrljig</belongsTo>
+  </row>
+  <row>
+    <city>Preljina</city>
+    <zip>32212</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Preševo</city>
+    <zip>17523</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Preševo</belongsTo>
+  </row>
+  <row>
+    <city>Preševo-terminal</city>
+    <zip>17555</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Preševo</belongsTo>
+  </row>
+  <row>
+    <city>Priboj</city>
+    <zip>31330</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Priboj</belongsTo>
+  </row>
+  <row>
+    <city>Priboj Vranjski</city>
+    <zip>17511</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vladičin Han</belongsTo>
+  </row>
+  <row>
+    <city>Privina Glava</city>
+    <zip>22257</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Prigrevica</city>
+    <zip>25263</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Apatin</belongsTo>
+  </row>
+  <row>
+    <city>Prijepolje</city>
+    <zip>31300</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Prijepolje</belongsTo>
+  </row>
+  <row>
+    <city>Prilički Kiseljak</city>
+    <zip>32252</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Ivanjica</belongsTo>
+  </row>
+  <row>
+    <city>Prilužje</city>
+    <zip>38213</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Vučitrn</belongsTo>
+  </row>
+  <row>
+    <city>Pričević</city>
+    <zip>14251</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Prnjavor (Mačvanski)</city>
+    <zip>15306</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Provo</city>
+    <zip>15215</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Vladimirci</belongsTo>
+  </row>
+  <row>
+    <city>Prokuplje</city>
+    <zip>18400</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Prolom Banja</city>
+    <zip>18433</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Pružatovac</city>
+    <zip>11413</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Prhovo</city>
+    <zip>22442</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Pukovac</city>
+    <zip>18255</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Doljevac</belongsTo>
+  </row>
+  <row>
+    <city>Putinci</city>
+    <zip>22404</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Rabrovo</city>
+    <zip>12254</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Kučevo</belongsTo>
+  </row>
+  <row>
+    <city>Ravna Dubrava</city>
+    <zip>18246</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Gadžin Han</belongsTo>
+  </row>
+  <row>
+    <city>Ravni Topolovac</city>
+    <zip>23212</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Ravni</city>
+    <zip>31206</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Ravno Selo</city>
+    <zip>21471</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Vrbas</belongsTo>
+  </row>
+  <row>
+    <city>Ravnje</city>
+    <zip>22205</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Radalj</city>
+    <zip>15321</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Mali Zvornik</belongsTo>
+  </row>
+  <row>
+    <city>Radinac</city>
+    <zip>11311</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Radičević</city>
+    <zip>21225</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bečej</belongsTo>
+  </row>
+  <row>
+    <city>Radljevo</city>
+    <zip>14211</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Ub</belongsTo>
+  </row>
+  <row>
+    <city>Radovnica</city>
+    <zip>17561</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Trgovište</belongsTo>
+  </row>
+  <row>
+    <city>Radojevo</city>
+    <zip>23221</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Nova Crnja</belongsTo>
+  </row>
+  <row>
+    <city>Radujevac</city>
+    <zip>19334</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Ražana</city>
+    <zip>31265</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Kosjerić</belongsTo>
+  </row>
+  <row>
+    <city>Ražanj</city>
+    <zip>37215</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Ražanj</belongsTo>
+  </row>
+  <row>
+    <city>Razbojna</city>
+    <zip>37223</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Brus</belongsTo>
+  </row>
+  <row>
+    <city>Razgojna</city>
+    <zip>16252</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Rainovača</city>
+    <zip>15342</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Ljubovija</belongsTo>
+  </row>
+  <row>
+    <city>Rajković</city>
+    <zip>14202</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Mionica</belongsTo>
+  </row>
+  <row>
+    <city>Rakovac</city>
+    <zip>21299</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Beočin</belongsTo>
+  </row>
+  <row>
+    <city>Ralja</city>
+    <zip>11233</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Sopot</belongsTo>
+  </row>
+  <row>
+    <city>Ranilović</city>
+    <zip>34302</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Ranilug</city>
+    <zip>38267</zip>
+    <county>Kosovskopomoravski okrug</county>
+    <belongsTo>Kosovska Kamenica</belongsTo>
+  </row>
+  <row>
+    <city>Ranovac</city>
+    <zip>12304</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Petrovac</belongsTo>
+  </row>
+  <row>
+    <city>Rastina</city>
+    <zip>25283</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Rataje</city>
+    <zip>37236</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Aleksandrovac</belongsTo>
+  </row>
+  <row>
+    <city>Ratari</city>
+    <zip>11411</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevska Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Ratina</city>
+    <zip>36212</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Ratkovo</city>
+    <zip>25253</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Rača Kragujevačka</city>
+    <zip>34210</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Rača</belongsTo>
+  </row>
+  <row>
+    <city>Rača</city>
+    <zip>18440</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Kuršumlija</belongsTo>
+  </row>
+  <row>
+    <city>Rašanac</city>
+    <zip>12315</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Petrovac na Mlavi</belongsTo>
+  </row>
+  <row>
+    <city>Raševica</city>
+    <zip>35206</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Raška</city>
+    <zip>36350</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Raška</belongsTo>
+  </row>
+  <row>
+    <city>Rgotina</city>
+    <zip>19214</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Rekovac</city>
+    <zip>35260</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Rekovac</belongsTo>
+  </row>
+  <row>
+    <city>Resavica</city>
+    <zip>35237</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Despotovac</belongsTo>
+  </row>
+  <row>
+    <city>Resnik</city>
+    <zip>34225</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aerodrom</belongsTo>
+  </row>
+  <row>
+    <city>Ribare</city>
+    <zip>35220</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Ribari</city>
+    <zip>15310</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Ribariće</city>
+    <zip>36309</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Tutin</belongsTo>
+  </row>
+  <row>
+    <city>Ribarska Banja</city>
+    <zip>37205</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Riđica</city>
+    <zip>25280</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Ripanj</city>
+    <zip>11232</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Voždovac</belongsTo>
+  </row>
+  <row>
+    <city>Ristovac</city>
+    <zip>17521</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vranje</belongsTo>
+  </row>
+  <row>
+    <city>Rogača</city>
+    <zip>11453</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Sopot</belongsTo>
+  </row>
+  <row>
+    <city>Rogačica</city>
+    <zip>31255</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Bajina Bašta</belongsTo>
+  </row>
+  <row>
+    <city>Roge</city>
+    <zip>31237</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Požega</belongsTo>
+  </row>
+  <row>
+    <city>Rogljevo</city>
+    <zip>19318</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Rožanstvo</city>
+    <zip>31208</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Čajetina</belongsTo>
+  </row>
+  <row>
+    <city>Roćevići</city>
+    <zip>36205</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Rudna Glava</city>
+    <zip>19257</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Majdanpek</belongsTo>
+  </row>
+  <row>
+    <city>Rudnik</city>
+    <zip>32313</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Rudnica</city>
+    <zip>36353</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Raška</belongsTo>
+  </row>
+  <row>
+    <city>Rudno</city>
+    <zip>36222</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Rudovci</city>
+    <zip>11566</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Ruma</city>
+    <zip>22400</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Rumenka</city>
+    <zip>21201</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Ruski Krstur</city>
+    <zip>25233</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Kula</belongsTo>
+  </row>
+  <row>
+    <city>Rusko Selo</city>
+    <zip>23314</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Rutevac</city>
+    <zip>18224</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Rušanj</city>
+    <zip>11194</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Čukarica</belongsTo>
+  </row>
+  <row>
+    <city>Savinac</city>
+    <zip>19377</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Boljevac</belongsTo>
+  </row>
+  <row>
+    <city>Savino Selo</city>
+    <zip>21467</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Vrbas</belongsTo>
+  </row>
+  <row>
+    <city>Sajan</city>
+    <zip>23324</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kikinda</belongsTo>
+  </row>
+  <row>
+    <city>Sakule</city>
+    <zip>26206</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Opovo</belongsTo>
+  </row>
+  <row>
+    <city>Salaš Noćajski</city>
+    <zip>22204</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Salaš</city>
+    <zip>19224</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Zaječar</belongsTo>
+  </row>
+  <row>
+    <city>Samaila</city>
+    <zip>36202</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Samoš</city>
+    <zip>26350</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovačica</belongsTo>
+  </row>
+  <row>
+    <city>Sanad</city>
+    <zip>23331</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Čoka</belongsTo>
+  </row>
+  <row>
+    <city>Saraorci</city>
+    <zip>11315</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Sastav Reka</city>
+    <zip>16213</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Crna Trava</belongsTo>
+  </row>
+  <row>
+    <city>Sastavci</city>
+    <zip>31335</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Priboj</belongsTo>
+  </row>
+  <row>
+    <city>Sveti Ilija</city>
+    <zip>17508</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vranje</belongsTo>
+  </row>
+  <row>
+    <city>Svetozar Miletić</city>
+    <zip>25211</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Svilajnac</city>
+    <zip>35210</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Svilajnac</belongsTo>
+  </row>
+  <row>
+    <city>Svileuva</city>
+    <zip>15221</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Koceljeva</belongsTo>
+  </row>
+  <row>
+    <city>Svilojevo</city>
+    <zip>25265</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Apatin</belongsTo>
+  </row>
+  <row>
+    <city>Svođe</city>
+    <zip>16212</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Vlasotince</belongsTo>
+  </row>
+  <row>
+    <city>Svojnovo</city>
+    <zip>35259</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Svrljig</city>
+    <zip>18360</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Svrljig</belongsTo>
+  </row>
+  <row>
+    <city>Sevojno</city>
+    <zip>31205</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Sedlare</city>
+    <zip>35211</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Svilajnac</belongsTo>
+  </row>
+  <row>
+    <city>Selevac</city>
+    <zip>11407</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevska Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Selenča</city>
+    <zip>21425</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bač</belongsTo>
+  </row>
+  <row>
+    <city>Seleuš</city>
+    <zip>26351</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Alibunar</belongsTo>
+  </row>
+  <row>
+    <city>Senta</city>
+    <zip>24400</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Senta</belongsTo>
+  </row>
+  <row>
+    <city>Senje</city>
+    <zip>35233</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Ćuprija</belongsTo>
+  </row>
+  <row>
+    <city>Senjski Rudnik</city>
+    <zip>35234</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Despotovac</belongsTo>
+  </row>
+  <row>
+    <city>Sefkerin</city>
+    <zip>26203</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Opovo</belongsTo>
+  </row>
+  <row>
+    <city>Seča Reka</city>
+    <zip>31262</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Kosjerić</belongsTo>
+  </row>
+  <row>
+    <city>Sečanica</city>
+    <zip>18203</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Crveni Krst</belongsTo>
+  </row>
+  <row>
+    <city>Sečanj</city>
+    <zip>23240</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Sibač</city>
+    <zip>22440</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Sivac</city>
+    <zip>25223</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Kula</belongsTo>
+  </row>
+  <row>
+    <city>Sijarinska Banja</city>
+    <zip>16246</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Medveđa</belongsTo>
+  </row>
+  <row>
+    <city>Sikirica</city>
+    <zip>35256</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Sikole</city>
+    <zip>19225</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Silbaš</city>
+    <zip>21433</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Siokovac</city>
+    <zip>35203</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Jagodina</belongsTo>
+  </row>
+  <row>
+    <city>Sip</city>
+    <zip>19326</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Kladovo</belongsTo>
+  </row>
+  <row>
+    <city>Sipić</city>
+    <zip>34213</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Rača</belongsTo>
+  </row>
+  <row>
+    <city>Sirig</city>
+    <zip>21214</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Temerin</belongsTo>
+  </row>
+  <row>
+    <city>Sirogojno</city>
+    <zip>31207</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Čajetina</belongsTo>
+  </row>
+  <row>
+    <city>Sirča</city>
+    <zip>36208</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Sićevo</city>
+    <zip>18311</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Grad Niš</belongsTo>
+  </row>
+  <row>
+    <city>Sjenica</city>
+    <zip>36310</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Sjenica</belongsTo>
+  </row>
+  <row>
+    <city>Skela</city>
+    <zip>11509</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Obrenovac</belongsTo>
+  </row>
+  <row>
+    <city>Skobalj</city>
+    <zip>11322</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Skorenovac</city>
+    <zip>26228</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovin</belongsTo>
+  </row>
+  <row>
+    <city>Slavkovica</city>
+    <zip>14245</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Ljig</belongsTo>
+  </row>
+  <row>
+    <city>Slatina</city>
+    <zip>19221</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Slovac</city>
+    <zip>14223</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Lajkovac</belongsTo>
+  </row>
+  <row>
+    <city>Smederevska Palanka</city>
+    <zip>11420</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevska Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Smederevo</city>
+    <zip>11300</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Smederevo</belongsTo>
+  </row>
+  <row>
+    <city>Smilovci</city>
+    <zip>18323</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Dimitrovgrad</belongsTo>
+  </row>
+  <row>
+    <city>Smoljinac</city>
+    <zip>12312</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Malo Crniće</belongsTo>
+  </row>
+  <row>
+    <city>Sokobanja</city>
+    <zip>18230</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Sokobanja</belongsTo>
+  </row>
+  <row>
+    <city>Sombor</city>
+    <zip>25000</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Sonta</city>
+    <zip>25264</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Apatin</belongsTo>
+  </row>
+  <row>
+    <city>Sopot</city>
+    <zip>11450</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Sopot</belongsTo>
+  </row>
+  <row>
+    <city>Sot</city>
+    <zip>22243</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Sočanica</city>
+    <zip>38217</zip>
+    <county>Kosovskomitrovački okrug</county>
+    <belongsTo>Leposavić</belongsTo>
+  </row>
+  <row>
+    <city>Sremska Mitrovica</city>
+    <zip>22000</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Srbobran</city>
+    <zip>21480</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Srbobran</belongsTo>
+  </row>
+  <row>
+    <city>Srednjevo</city>
+    <zip>12253</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Veliko Gradište</belongsTo>
+  </row>
+  <row>
+    <city>Sremska Kamenica</city>
+    <zip>21202</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Petrovaradin</belongsTo>
+  </row>
+  <row>
+    <city>Sremska Rača</city>
+    <zip>22247</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Sremski Karlovci</city>
+    <zip>21205</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Sremski Karlovci</belongsTo>
+  </row>
+  <row>
+    <city>Sremski Mihaljevci</city>
+    <zip>22413</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Sremčica</city>
+    <zip>11253</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Čukarica</belongsTo>
+  </row>
+  <row>
+    <city>Srpska Crnja</city>
+    <zip>23220</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Nova Crnja</belongsTo>
+  </row>
+  <row>
+    <city>Srpski Itebej</city>
+    <zip>23233</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Srpski Krstur</city>
+    <zip>23334</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Novi Kneževac</belongsTo>
+  </row>
+  <row>
+    <city>Srpski Miletić</city>
+    <zip>25244</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Odžaci</belongsTo>
+  </row>
+  <row>
+    <city>Stave</city>
+    <zip>14255</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Valjevo</belongsTo>
+  </row>
+  <row>
+    <city>Stajićevo</city>
+    <zip>23204</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Stalać</city>
+    <zip>37212</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Ćićevac</belongsTo>
+  </row>
+  <row>
+    <city>Stanišić</city>
+    <zip>25284</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Stapar</city>
+    <zip>25240</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Stara Moravica</city>
+    <zip>24340</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Stara Pazova</city>
+    <zip>22300</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Stari Banovci</city>
+    <zip>22305</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Stari Žednik</city>
+    <zip>24224</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Stari Lec</city>
+    <zip>26371</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Stari Slankamen</city>
+    <zip>22329</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Staro Selo</city>
+    <zip>11324</zip>
+    <county>Podunavski okrug</county>
+    <belongsTo>Velika Plana</belongsTo>
+  </row>
+  <row>
+    <city>Starčevo</city>
+    <zip>26232</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Pančevo</belongsTo>
+  </row>
+  <row>
+    <city>Stejanovci</city>
+    <zip>22405</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Stenjevac</city>
+    <zip>35215</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Despotovac</belongsTo>
+  </row>
+  <row>
+    <city>Stepanovićevo</city>
+    <zip>21212</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Stepojevac</city>
+    <zip>11564</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Lazarevac</belongsTo>
+  </row>
+  <row>
+    <city>Stojnik</city>
+    <zip>34307</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aranđelovac</belongsTo>
+  </row>
+  <row>
+    <city>Stopanja</city>
+    <zip>37242</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Trstenik</belongsTo>
+  </row>
+  <row>
+    <city>Stragari</city>
+    <zip>34323</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Stragari</belongsTo>
+  </row>
+  <row>
+    <city>Straža</city>
+    <zip>26345</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Strelac</city>
+    <zip>18332</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Babušnica</belongsTo>
+  </row>
+  <row>
+    <city>Stubal</city>
+    <zip>17512</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vladičin Han</belongsTo>
+  </row>
+  <row>
+    <city>Stubica</city>
+    <zip>35246</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Stubline</city>
+    <zip>11507</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Obrenovac</belongsTo>
+  </row>
+  <row>
+    <city>Studenica</city>
+    <zip>36343</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Subotinac</city>
+    <zip>18227</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Subotica (kod Svijanca)</city>
+    <zip>35209</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Svilajnac</belongsTo>
+  </row>
+  <row>
+    <city>Subotica</city>
+    <zip>24000</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Subotište</city>
+    <zip>22414</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Sukovo</city>
+    <zip>18322</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Pirot</belongsTo>
+  </row>
+  <row>
+    <city>Sumrakovac</city>
+    <zip>19376</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Boljevac</belongsTo>
+  </row>
+  <row>
+    <city>Supska</city>
+    <zip>35228</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Ćuprija</belongsTo>
+  </row>
+  <row>
+    <city>Surduk</city>
+    <zip>22307</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Stara Pazova</belongsTo>
+  </row>
+  <row>
+    <city>Surdulica</city>
+    <zip>17530</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Surdulica</belongsTo>
+  </row>
+  <row>
+    <city>Susek</city>
+    <zip>21313</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Beočin</belongsTo>
+  </row>
+  <row>
+    <city>Sutjeska</city>
+    <zip>23244</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Tavankut</city>
+    <zip>24214</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Takovo</city>
+    <zip>32304</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Taraš</city>
+    <zip>23209</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Tekeriš</city>
+    <zip>15234</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Tekija</city>
+    <zip>19325</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Kladovo</belongsTo>
+  </row>
+  <row>
+    <city>Telečka</city>
+    <zip>25222</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Temerin</city>
+    <zip>21235</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Temerin</belongsTo>
+  </row>
+  <row>
+    <city>Temska</city>
+    <zip>18355</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Pirot</belongsTo>
+  </row>
+  <row>
+    <city>Tešica</city>
+    <zip>18212</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Titel</city>
+    <zip>21240</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Titel</belongsTo>
+  </row>
+  <row>
+    <city>Toba</city>
+    <zip>23222</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Nova Crnja</belongsTo>
+  </row>
+  <row>
+    <city>Tovariševo</city>
+    <zip>21424</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Tomaševac</city>
+    <zip>23262</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Tomislavci</city>
+    <zip>24334</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Bačka Topola</belongsTo>
+  </row>
+  <row>
+    <city>Topola</city>
+    <zip>34310</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Topola</belongsTo>
+  </row>
+  <row>
+    <city>Topolovnik</city>
+    <zip>12226</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Veliko Gradište</belongsTo>
+  </row>
+  <row>
+    <city>Toponica</city>
+    <zip>34243</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Knić</belongsTo>
+  </row>
+  <row>
+    <city>Torak</city>
+    <zip>23232</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Torda</city>
+    <zip>23214</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Tornjoš</city>
+    <zip>24352</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Senta</belongsTo>
+  </row>
+  <row>
+    <city>Totovo Selo</city>
+    <zip>24427</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Trbušani</city>
+    <zip>32205</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Trgovište</city>
+    <zip>17525</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Trgovište</belongsTo>
+  </row>
+  <row>
+    <city>Trešnjevac</city>
+    <zip>24426</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Trešnjevica</city>
+    <zip>35248</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Paraćin</belongsTo>
+  </row>
+  <row>
+    <city>Trnavci</city>
+    <zip>37235</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Aleksandrovac</belongsTo>
+  </row>
+  <row>
+    <city>Trnjane</city>
+    <zip>18213</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Aleksinac</belongsTo>
+  </row>
+  <row>
+    <city>Trnjane</city>
+    <zip>19306</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Trstenik</city>
+    <zip>37240</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Trstenik</belongsTo>
+  </row>
+  <row>
+    <city>Trupale</city>
+    <zip>18211</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Crveni Krst</belongsTo>
+  </row>
+  <row>
+    <city>Tršić</city>
+    <zip>15303</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Loznica</belongsTo>
+  </row>
+  <row>
+    <city>Tulare</city>
+    <zip>16247</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Medveđa</belongsTo>
+  </row>
+  <row>
+    <city>Turekovac</city>
+    <zip>16231</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Leskovac</belongsTo>
+  </row>
+  <row>
+    <city>Turija</city>
+    <zip>12257</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Kučevo</belongsTo>
+  </row>
+  <row>
+    <city>Turija</city>
+    <zip>21215</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Srbobran</belongsTo>
+  </row>
+  <row>
+    <city>Tutin</city>
+    <zip>36320</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Tutin</belongsTo>
+  </row>
+  <row>
+    <city>Ćićevac</city>
+    <zip>37210</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Ćićevac</belongsTo>
+  </row>
+  <row>
+    <city>Ćuprija</city>
+    <zip>35230</zip>
+    <county>Pomoravski okrug</county>
+    <belongsTo>Ćuprija</belongsTo>
+  </row>
+  <row>
+    <city>Ub</city>
+    <zip>14210</zip>
+    <county>Kolubarski okrug</county>
+    <belongsTo>Ub</belongsTo>
+  </row>
+  <row>
+    <city>Ugao</city>
+    <zip>36313</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Sjenica</belongsTo>
+  </row>
+  <row>
+    <city>Ugrinovci</city>
+    <zip>32314</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Gornji Milanovac</belongsTo>
+  </row>
+  <row>
+    <city>Užice</city>
+    <zip>31000</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Užice</belongsTo>
+  </row>
+  <row>
+    <city>Uzdin</city>
+    <zip>26216</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovačica</belongsTo>
+  </row>
+  <row>
+    <city>Uzovnica</city>
+    <zip>15319</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Ljubovija</belongsTo>
+  </row>
+  <row>
+    <city>Uljma</city>
+    <zip>26330</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Vršac</belongsTo>
+  </row>
+  <row>
+    <city>Umka</city>
+    <zip>11260</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Čukarica</belongsTo>
+  </row>
+  <row>
+    <city>Urovica</city>
+    <zip>19305</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Utrine</city>
+    <zip>24437</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Ada</belongsTo>
+  </row>
+  <row>
+    <city>Ušće</city>
+    <zip>36342</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Farkaždin</city>
+    <zip>23264</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Feketić</city>
+    <zip>24323</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Mali Iđoš</belongsTo>
+  </row>
+  <row>
+    <city>Futog</city>
+    <zip>21410</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Hajdukovo</city>
+    <zip>24414</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Hajdučica</city>
+    <zip>26370</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Plandište</belongsTo>
+  </row>
+  <row>
+    <city>Hetin</city>
+    <zip>23235</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Horgoš</city>
+    <zip>24410</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Horgoš granični prelaz</city>
+    <zip>24411</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Kanjiža</belongsTo>
+  </row>
+  <row>
+    <city>Hrtkovci</city>
+    <zip>22427</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Ruma</belongsTo>
+  </row>
+  <row>
+    <city>Cerovac</city>
+    <zip>15224</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Crvena Reka</city>
+    <zip>18313</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Bela Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Crvena Crkva</city>
+    <zip>26323</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Bela Crkva</belongsTo>
+  </row>
+  <row>
+    <city>Crvenka</city>
+    <zip>25220</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Kula</belongsTo>
+  </row>
+  <row>
+    <city>Crepaja</city>
+    <zip>26213</zip>
+    <county>Južnobanatski okrug</county>
+    <belongsTo>Kovačica</belongsTo>
+  </row>
+  <row>
+    <city>Crkvine</city>
+    <zip>36321</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Tutin</belongsTo>
+  </row>
+  <row>
+    <city>Crna Bara</city>
+    <zip>15355</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Bogatić</belongsTo>
+  </row>
+  <row>
+    <city>Crna Bara</city>
+    <zip>23328</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Čoka</belongsTo>
+  </row>
+  <row>
+    <city>Crna Trava</city>
+    <zip>16215</zip>
+    <county>Jablanički okrug</county>
+    <belongsTo>Crna Trava</belongsTo>
+  </row>
+  <row>
+    <city>Crnoklište</city>
+    <zip>18304</zip>
+    <county>Pirotski okrug</county>
+    <belongsTo>Pirot</belongsTo>
+  </row>
+  <row>
+    <city>Čajetina</city>
+    <zip>31310</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Čajetina</belongsTo>
+  </row>
+  <row>
+    <city>Čalma</city>
+    <zip>22231</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Čantavir</city>
+    <zip>24220</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Čačak</city>
+    <zip>32000</zip>
+    <county>Moravički okrug</county>
+    <belongsTo>Čačak</belongsTo>
+  </row>
+  <row>
+    <city>Čelarevo</city>
+    <zip>21413</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Bačka Palanka</belongsTo>
+  </row>
+  <row>
+    <city>Čenej</city>
+    <zip>21233</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Novi Sad</belongsTo>
+  </row>
+  <row>
+    <city>Čenta</city>
+    <zip>23266</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Zrenjanin</belongsTo>
+  </row>
+  <row>
+    <city>Čerević</city>
+    <zip>21311</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Beočin</belongsTo>
+  </row>
+  <row>
+    <city>Čestereg</city>
+    <zip>23215</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Žitište</belongsTo>
+  </row>
+  <row>
+    <city>Čečina</city>
+    <zip>18417</zip>
+    <county>Nišavski okrug</county>
+    <belongsTo>Doljevac</belongsTo>
+  </row>
+  <row>
+    <city>Čitluk</city>
+    <zip>18232</zip>
+    <county>Zaječarski okrug</county>
+    <belongsTo>Sokobanja</belongsTo>
+  </row>
+  <row>
+    <city>Čitluk</city>
+    <zip>37208</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Kruševac</belongsTo>
+  </row>
+  <row>
+    <city>Čoka</city>
+    <zip>23320</zip>
+    <county>Severnobanatski okrug</county>
+    <belongsTo>Čoka</belongsTo>
+  </row>
+  <row>
+    <city>Čonoplja</city>
+    <zip>25210</zip>
+    <county>Zapadnobački okrug</county>
+    <belongsTo>Sombor</belongsTo>
+  </row>
+  <row>
+    <city>Čortanovci</city>
+    <zip>22326</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Inđija</belongsTo>
+  </row>
+  <row>
+    <city>Čukojevac</city>
+    <zip>36220</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Kraljevo</belongsTo>
+  </row>
+  <row>
+    <city>Čumić</city>
+    <zip>34322</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aerodrom</belongsTo>
+  </row>
+  <row>
+    <city>Čurug</city>
+    <zip>21238</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Žabalj</belongsTo>
+  </row>
+  <row>
+    <city>Džep</city>
+    <zip>17514</zip>
+    <county>Pčinjski okrug</county>
+    <belongsTo>Vladičin Han</belongsTo>
+  </row>
+  <row>
+    <city>Džigolj</city>
+    <zip>18405</zip>
+    <county>Toplički okrug</county>
+    <belongsTo>Prokuplje</belongsTo>
+  </row>
+  <row>
+    <city>Šabac</city>
+    <zip>15000</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Šajkaš</city>
+    <zip>21244</zip>
+    <county>Južnobački okrug</county>
+    <belongsTo>Titel</belongsTo>
+  </row>
+  <row>
+    <city>Šarbanovac</city>
+    <zip>19373</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Šarbanovac-Timok</city>
+    <zip>19379</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Bor</belongsTo>
+  </row>
+  <row>
+    <city>Šašinci</city>
+    <zip>22425</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Sremska Mitrovica</belongsTo>
+  </row>
+  <row>
+    <city>Šepšin</city>
+    <zip>11433</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Mladenovac</belongsTo>
+  </row>
+  <row>
+    <city>Šetonje</city>
+    <zip>12309</zip>
+    <county>Braničevski okrug</county>
+    <belongsTo>Petrovac</belongsTo>
+  </row>
+  <row>
+    <city>Šid</city>
+    <zip>22239</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Šid</belongsTo>
+  </row>
+  <row>
+    <city>Šilovo</city>
+    <zip>38252</zip>
+    <county>Kosovskopomoravski okrug</county>
+    <belongsTo>Gnjilane</belongsTo>
+  </row>
+  <row>
+    <city>Šimanovci</city>
+    <zip>22310</zip>
+    <county>Sremski okrug</county>
+    <belongsTo>Pećinci</belongsTo>
+  </row>
+  <row>
+    <city>Šljivovac</city>
+    <zip>34219</zip>
+    <county>Šumadijski okrug</county>
+    <belongsTo>Aerodrom</belongsTo>
+  </row>
+  <row>
+    <city>Šljivovica</city>
+    <zip>31244</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Čajetina</belongsTo>
+  </row>
+  <row>
+    <city>Šljivovo</city>
+    <zip>37239</zip>
+    <county>Rasinski okrug</county>
+    <belongsTo>Aleksandrovac</belongsTo>
+  </row>
+  <row>
+    <city>Štavalj</city>
+    <zip>36311</zip>
+    <county>Zlatiborski okrug</county>
+    <belongsTo>Sjenica</belongsTo>
+  </row>
+  <row>
+    <city>Štitar</city>
+    <zip>15354</zip>
+    <county>Mačvanski okrug</county>
+    <belongsTo>Šabac</belongsTo>
+  </row>
+  <row>
+    <city>Štitare</city>
+    <zip>36314</zip>
+    <county>Raški okrug</county>
+    <belongsTo>Novi Pazar</belongsTo>
+  </row>
+  <row>
+    <city>Štrpce</city>
+    <zip>38236</zip>
+    <county>Kosovski okrug</county>
+    <belongsTo>Štrpce</belongsTo>
+  </row>
+  <row>
+    <city>Štubik</city>
+    <zip>19303</zip>
+    <county>Borski okrug</county>
+    <belongsTo>Negotin</belongsTo>
+  </row>
+  <row>
+    <city>Šupljak</city>
+    <zip>24418</zip>
+    <county>Severnobački okrug</county>
+    <belongsTo>Subotica</belongsTo>
+  </row>
+  <row>
+    <city>Šurjan</city>
+    <zip>23254</zip>
+    <county>Srednjobanatski okrug</county>
+    <belongsTo>Sečanj</belongsTo>
+  </row>
+  <row>
+    <city>Grocka</city>
+    <zip>11306</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Grocka</belongsTo>
+  </row>
+  <row>
+    <city>Surčin</city>
+    <zip>11271</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Surčin</belongsTo>
+  </row>
+  <row>
+    <city>Batajnica</city>
+    <zip>11273</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Zemun</belongsTo>
+  </row>
+  <row>
+    <city>Savski venac</city>
+    <zip>11000</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Savski venac</belongsTo>
+  </row>
+  <row>
+    <city>Stari grad</city>
+    <zip>11000</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Stari grad</belongsTo>
+  </row>
+  <row>
+    <city>Vračar</city>
+    <zip>11000</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Vračar</belongsTo>
+  </row>
+  <row>
+    <city>Voždovac</city>
+    <zip>11010</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Voždovac</belongsTo>
+  </row>
+  <row>
+    <city>Čukarica</city>
+    <zip>11030</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Čukarica</belongsTo>
+  </row>
+  <row>
+    <city>Zvezdara</city>
+    <zip>11050</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Zvezdara</belongsTo>
+  </row>
+  <row>
+    <city>Palilula</city>
+    <zip>11060</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Palilula</belongsTo>
+  </row>
+  <row>
+    <city>Novi Beograd</city>
+    <zip>11070</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Novi Beograd</belongsTo>
+  </row>
+  <row>
+    <city>Zemun</city>
+    <zip>11080</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Zemun</belongsTo>
+  </row>
+  <row>
+    <city>Rakovica</city>
+    <zip>11090</zip>
+    <county>Grad Beograd</county>
+    <belongsTo>Rakovica</belongsTo>
+  </row>
+</root>
