@@ -1,0 +1,6854 @@
+[
+  {
+    "city": "Ada",
+    "zip": 24430,
+    "region": "Severnobanatski okrug",
+    "municipality": "Ada"
+  },
+  {
+    "city": "Adaševci",
+    "zip": 22244,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Adorjan",
+    "zip": 24425,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Adrani",
+    "zip": 36203,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Azanja",
+    "zip": 11423,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevska Palanka"
+  },
+  {
+    "city": "Aleksa Šantić",
+    "zip": 25212,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Aleksandrovac",
+    "zip": 12370,
+    "region": "Braničevski okrug",
+    "municipality": "Žabari"
+  },
+  {
+    "city": "Aleksandrovac",
+    "zip": 37230,
+    "region": "Rasinski okrug",
+    "municipality": "Aleksandrovac"
+  },
+  {
+    "city": "Aleksandrovo",
+    "zip": 23217,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Nova Crnja"
+  },
+  {
+    "city": "Aleksinac",
+    "zip": 18220,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Aleksinački Rudnik",
+    "zip": 18226,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Alibunar",
+    "zip": 26310,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Aljinovići",
+    "zip": 31307,
+    "region": "Zlatiborski okrug",
+    "municipality": "Prijepolje"
+  },
+  {
+    "city": "Apatin",
+    "zip": 25260,
+    "region": "Zapadnobački okrug",
+    "municipality": "Apatin"
+  },
+  {
+    "city": "Aradac",
+    "zip": 23207,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Aranđelovac",
+    "zip": 34300,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Arilje",
+    "zip": 31230,
+    "region": "Zlatiborski okrug",
+    "municipality": "Arilje"
+  },
+  {
+    "city": "Ašanja",
+    "zip": 22418,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Babušnica",
+    "zip": 18330,
+    "region": "Pirotski okrug",
+    "municipality": "Babušnica"
+  },
+  {
+    "city": "Bavanište",
+    "zip": 26222,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovin"
+  },
+  {
+    "city": "Bagrdan",
+    "zip": 35204,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Badnjevac",
+    "zip": 34226,
+    "region": "Šumadijski okrug",
+    "municipality": "Batočina"
+  },
+  {
+    "city": "Badovinci",
+    "zip": 15358,
+    "region": "Mačvanski okrug",
+    "municipality": "Bogatić"
+  },
+  {
+    "city": "Bajina Bašta",
+    "zip": 31250,
+    "region": "Zlatiborski okrug",
+    "municipality": "Bajina Bašta"
+  },
+  {
+    "city": "Bajmok",
+    "zip": 24210,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Bajša",
+    "zip": 24331,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Balajnac",
+    "zip": 18257,
+    "region": "Nišavski okrug",
+    "municipality": "Merošina"
+  },
+  {
+    "city": "Baljevac",
+    "zip": 36344,
+    "region": "Raški okrug",
+    "municipality": "Raška"
+  },
+  {
+    "city": "Banatska Dubica",
+    "zip": 23251,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Banatska Palanka",
+    "zip": 26324,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Banatska Subotica",
+    "zip": 26327,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Banatska Topola",
+    "zip": 23315,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Banatski Brestovac",
+    "zip": 26234,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Banatski Dvor",
+    "zip": 23213,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Banatski Despotovac",
+    "zip": 23242,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Banatski Karlovac",
+    "zip": 26320,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Banatsko Aranđelovo",
+    "zip": 23332,
+    "region": "Severnobanatski okrug",
+    "municipality": "Novi Kneževac"
+  },
+  {
+    "city": "Banatsko Veliko Selo",
+    "zip": 23312,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Banatsko Karađorđevo",
+    "zip": 23216,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Banatsko Novo Selo",
+    "zip": 26314,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Banovo Polje",
+    "zip": 15362,
+    "region": "Mačvanski okrug",
+    "municipality": "Bogatić"
+  },
+  {
+    "city": "Banovci-Dunav",
+    "zip": 22303,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Banoštor",
+    "zip": 21312,
+    "region": "Južnobački okrug",
+    "municipality": "Beočin"
+  },
+  {
+    "city": "Banja",
+    "zip": 34304,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Banja (kod Priboja)",
+    "zip": 31337,
+    "region": "Zlatiborski okrug",
+    "municipality": "Priboj"
+  },
+  {
+    "city": "Banja Koviljača",
+    "zip": 15316,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Banjani",
+    "zip": 14214,
+    "region": "Kolubarski okrug",
+    "municipality": "Ub"
+  },
+  {
+    "city": "Banjska",
+    "zip": 38216,
+    "region": "Kosovskomitrovački okrug",
+    "municipality": "Zvečan"
+  },
+  {
+    "city": "Barajevo",
+    "zip": 11460,
+    "region": "Grad Beograd",
+    "municipality": "Barajevo"
+  },
+  {
+    "city": "Baranda",
+    "zip": 26205,
+    "region": "Južnobanatski okrug",
+    "municipality": "Opovo"
+  },
+  {
+    "city": "Barbatovac",
+    "zip": 18426,
+    "region": "Toplički okrug",
+    "municipality": "Blace"
+  },
+  {
+    "city": "Bare",
+    "zip": 12227,
+    "region": "Braničevski okrug",
+    "municipality": "Požarevac"
+  },
+  {
+    "city": "Bare",
+    "zip": 34205,
+    "region": "Šumadijski okrug",
+    "municipality": "Knić"
+  },
+  {
+    "city": "Bare",
+    "zip": 36315,
+    "region": "Zlatiborski okrug",
+    "municipality": "Sjenica"
+  },
+  {
+    "city": "Barice",
+    "zip": 26367,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Barič",
+    "zip": 11504,
+    "region": "Grad Beograd",
+    "municipality": "Obrenovac"
+  },
+  {
+    "city": "Barlovo",
+    "zip": 18432,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Baroševac",
+    "zip": 11565,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Batočina",
+    "zip": 34227,
+    "region": "Šumadijski okrug",
+    "municipality": "Batočina"
+  },
+  {
+    "city": "Batrovci",
+    "zip": 22251,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Batuse",
+    "zip": 38210,
+    "region": "Kosovski okrug",
+    "municipality": "Kosovo Polje"
+  },
+  {
+    "city": "Bač",
+    "zip": 21420,
+    "region": "Južnobački okrug",
+    "municipality": "Bač"
+  },
+  {
+    "city": "Bačevci",
+    "zip": 31258,
+    "region": "Zlatiborski okrug",
+    "municipality": "Bajina Bašta"
+  },
+  {
+    "city": "Bačina",
+    "zip": 37265,
+    "region": "Rasinski okrug",
+    "municipality": "Varvarin"
+  },
+  {
+    "city": "Bačinci",
+    "zip": 22225,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Bačka Palanka",
+    "zip": 21400,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Bačka Topola",
+    "zip": 24300,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Bački Breg",
+    "zip": 25275,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Bački Brestovac",
+    "zip": 25242,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Bački Vinogradi",
+    "zip": 24415,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Bački Gračac",
+    "zip": 25252,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Bački Jarak",
+    "zip": 21234,
+    "region": "Južnobački okrug",
+    "municipality": "Temerin"
+  },
+  {
+    "city": "Bački Monoštor",
+    "zip": 25272,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Bački Petrovac",
+    "zip": 21470,
+    "region": "Južnobački okrug",
+    "municipality": "Bački Petrovac"
+  },
+  {
+    "city": "Bački Sokolac",
+    "zip": 24343,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Bačko Gradište",
+    "zip": 21217,
+    "region": "Južnobački okrug",
+    "municipality": "Bečej"
+  },
+  {
+    "city": "Bačko Dobro Polje",
+    "zip": 21465,
+    "region": "Južnobački okrug",
+    "municipality": "Vrbas"
+  },
+  {
+    "city": "Bačko Novo Selo",
+    "zip": 21429,
+    "region": "Južnobački okrug",
+    "municipality": "Bač"
+  },
+  {
+    "city": "Bačko Petrovo Selo",
+    "zip": 21226,
+    "region": "Južnobački okrug",
+    "municipality": "Bečej"
+  },
+  {
+    "city": "Bašaid",
+    "zip": 23316,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Begeč",
+    "zip": 21411,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Bezdan",
+    "zip": 25270,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Bela Voda",
+    "zip": 37253,
+    "region": "Rasinski okrug",
+    "municipality": "Grad Kruševac"
+  },
+  {
+    "city": "Bela Zemlja",
+    "zip": 31311,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Bela Palanka",
+    "zip": 18310,
+    "region": "Pirotski okrug",
+    "municipality": "Bela Palanka"
+  },
+  {
+    "city": "Bela Crkva",
+    "zip": 15313,
+    "region": "Mačvanski okrug",
+    "municipality": "Krupanj"
+  },
+  {
+    "city": "Bela Crkva",
+    "zip": 26340,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Belanovica",
+    "zip": 14246,
+    "region": "Kolubarski okrug",
+    "municipality": "Ljig"
+  },
+  {
+    "city": "Bele Vode",
+    "zip": 32259,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Belegiš",
+    "zip": 22306,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Beli Potok",
+    "zip": 11223,
+    "region": "Grad Beograd",
+    "municipality": "Voždovac"
+  },
+  {
+    "city": "Beli Potok",
+    "zip": 19366,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Belo Blato",
+    "zip": 23205,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Beloljin",
+    "zip": 18424,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Belosavci",
+    "zip": 34312,
+    "region": "Šumadijski okrug",
+    "municipality": "Topola"
+  },
+  {
+    "city": "Belotinac",
+    "zip": 18411,
+    "region": "Nišavski okrug",
+    "municipality": "Opština Doljevac"
+  },
+  {
+    "city": "Beloševac",
+    "zip": 34208,
+    "region": "Šumadijski okrug",
+    "municipality": "Pivara"
+  },
+  {
+    "city": "Belušić",
+    "zip": 35263,
+    "region": "Pomoravski okrug",
+    "municipality": "Rekovac"
+  },
+  {
+    "city": "Beljina",
+    "zip": 11461,
+    "region": "Grad Beograd",
+    "municipality": "Barajevo"
+  },
+  {
+    "city": "Beograd",
+    "zip": 11000,
+    "region": "Grad Beograd",
+    "municipality": "Beograd"
+  },
+  {
+    "city": "Beočin",
+    "zip": 21300,
+    "region": "Južnobački okrug",
+    "municipality": "Beočin"
+  },
+  {
+    "city": "Berkasovo",
+    "zip": 22242,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Bečej",
+    "zip": 21220,
+    "region": "Južnobački okrug",
+    "municipality": "Bečej"
+  },
+  {
+    "city": "Bešenovo",
+    "zip": 22212,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Beška",
+    "zip": 22324,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Bigrenica",
+    "zip": 35238,
+    "region": "Pomoravski okrug",
+    "municipality": "Đuprija"
+  },
+  {
+    "city": "Bikić Do",
+    "zip": 22254,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Bikovo",
+    "zip": 24206,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Biljača",
+    "zip": 17522,
+    "region": "Pčinjski okrug",
+    "municipality": "Bujanovac"
+  },
+  {
+    "city": "Bingula",
+    "zip": 22253,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Bioska",
+    "zip": 31241,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Bistar",
+    "zip": 17546,
+    "region": "Pčinjski okrug",
+    "municipality": "Bosilegrad"
+  },
+  {
+    "city": "Bistrica",
+    "zip": 31325,
+    "region": "Zlatiborski okrug",
+    "municipality": "Nova Varoš"
+  },
+  {
+    "city": "Blaževo",
+    "zip": 37226,
+    "region": "Rasinski okrug",
+    "municipality": "Brus"
+  },
+  {
+    "city": "Blace",
+    "zip": 18420,
+    "region": "Toplički okrug",
+    "municipality": "Blace"
+  },
+  {
+    "city": "Bobovo",
+    "zip": 35217,
+    "region": "Pomoravski okrug",
+    "municipality": "Svilajnac"
+  },
+  {
+    "city": "Bogaraš",
+    "zip": 24408,
+    "region": "Severnobanatski okrug",
+    "municipality": "Senta"
+  },
+  {
+    "city": "Bogatić",
+    "zip": 15350,
+    "region": "Mačvanski okrug",
+    "municipality": "Bogatić"
+  },
+  {
+    "city": "Bogovađa",
+    "zip": 14225,
+    "region": "Kolubarski okrug",
+    "municipality": "Lajkovac"
+  },
+  {
+    "city": "Bogovina",
+    "zip": 19372,
+    "region": "Zaječarski okrug",
+    "municipality": "Boljevac"
+  },
+  {
+    "city": "Bogojevo",
+    "zip": 25245,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Bogojevce",
+    "zip": 16254,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Bogutovac",
+    "zip": 36341,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Bođani",
+    "zip": 21427,
+    "region": "Južnobački okrug",
+    "municipality": "Bač"
+  },
+  {
+    "city": "Boževac",
+    "zip": 12313,
+    "region": "Braničevski okrug",
+    "municipality": "Malo Crniće"
+  },
+  {
+    "city": "Božetići",
+    "zip": 31322,
+    "region": "Zlatiborski okrug",
+    "municipality": "Nova Varoš"
+  },
+  {
+    "city": "Božica",
+    "zip": 17537,
+    "region": "Pčinjski okrug",
+    "municipality": "Opština Surdulica"
+  },
+  {
+    "city": "Bojnik",
+    "zip": 16205,
+    "region": "Jablanički okrug",
+    "municipality": "Bojnik"
+  },
+  {
+    "city": "Boka",
+    "zip": 23252,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Boljevac",
+    "zip": 19370,
+    "region": "Zaječarski okrug",
+    "municipality": "Boljevac"
+  },
+  {
+    "city": "Boljkovci",
+    "zip": 32312,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Bor",
+    "zip": 19210,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Borski Brestovac",
+    "zip": 19229,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Bosilegrad",
+    "zip": 17540,
+    "region": "Pčinjski okrug",
+    "municipality": "Opština Bosilegrad"
+  },
+  {
+    "city": "Bosut",
+    "zip": 22217,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Botoš",
+    "zip": 23243,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Bočar",
+    "zip": 23274,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Novi Bečej"
+  },
+  {
+    "city": "Bošnjane",
+    "zip": 37262,
+    "region": "Rasinski okrug",
+    "municipality": "Varvarin"
+  },
+  {
+    "city": "Bošnjace",
+    "zip": 16232,
+    "region": "Jablanički okrug",
+    "municipality": "Lebane"
+  },
+  {
+    "city": "Bradarac",
+    "zip": 12206,
+    "region": "Braničevski okrug",
+    "municipality": "Požarevac"
+  },
+  {
+    "city": "Braničevo",
+    "zip": 12222,
+    "region": "Braničevski okrug",
+    "municipality": "Golubac"
+  },
+  {
+    "city": "Brankovina",
+    "zip": 14201,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Bratljevo",
+    "zip": 32256,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Braćevac",
+    "zip": 19315,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Brvenik",
+    "zip": 36346,
+    "region": "Raški okrug",
+    "municipality": "Raška"
+  },
+  {
+    "city": "Brgule",
+    "zip": 14212,
+    "region": "Kolubarski okrug",
+    "municipality": "Ub"
+  },
+  {
+    "city": "Brđani",
+    "zip": 32303,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Brežđe",
+    "zip": 14244,
+    "region": "Kolubarski okrug",
+    "municipality": "Mionica"
+  },
+  {
+    "city": "Brezjak",
+    "zip": 15309,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Brezna",
+    "zip": 32307,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Brezova",
+    "zip": 32253,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Brezovica",
+    "zip": 38157,
+    "region": "Kosovski okrug",
+    "municipality": "Štrpce"
+  },
+  {
+    "city": "Brekovo",
+    "zip": 31234,
+    "region": "Zlatiborski okrug",
+    "municipality": "Arilje"
+  },
+  {
+    "city": "Bresnica",
+    "zip": 32213,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Brestovac",
+    "zip": 16253,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Brestovačka Banja",
+    "zip": 19216,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Brza Palanka",
+    "zip": 19323,
+    "region": "Borski okrug",
+    "municipality": "Kladovo"
+  },
+  {
+    "city": "Brzi Brod",
+    "zip": 18116,
+    "region": "Nišavski okrug",
+    "municipality": "Medijana"
+  },
+  {
+    "city": "Brzan",
+    "zip": 34228,
+    "region": "Šumadijski okrug",
+    "municipality": "Batočina"
+  },
+  {
+    "city": "Brzeće",
+    "zip": 37225,
+    "region": "Rasinski okrug",
+    "municipality": "Brus"
+  },
+  {
+    "city": "Brodarevo",
+    "zip": 31305,
+    "region": "Zlatiborski okrug",
+    "municipality": "Prijepolje"
+  },
+  {
+    "city": "Brus",
+    "zip": 37220,
+    "region": "Rasinski okrug",
+    "municipality": "Brus"
+  },
+  {
+    "city": "Brusnik",
+    "zip": 19313,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Budisava",
+    "zip": 21242,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Buđanovci",
+    "zip": 22421,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Bujanovac",
+    "zip": 17520,
+    "region": "Pčinjski okrug",
+    "municipality": "Bujanovac"
+  },
+  {
+    "city": "Bukovac",
+    "zip": 21209,
+    "region": "Južnobački okrug",
+    "municipality": "Petrovaradin"
+  },
+  {
+    "city": "Bukovik",
+    "zip": 34301,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Bukovica",
+    "zip": 32251,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Bukorovac",
+    "zip": 34217,
+    "region": "Šumadijski okrug",
+    "municipality": "Pivara"
+  },
+  {
+    "city": "Bunar",
+    "zip": 35273,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Burdimo",
+    "zip": 18368,
+    "region": "Nišavski okrug",
+    "municipality": "Svrljig"
+  },
+  {
+    "city": "Burovac",
+    "zip": 12307,
+    "region": "Braničevski okrug",
+    "municipality": "Petrovac na Mlavi"
+  },
+  {
+    "city": "Busilovac",
+    "zip": 35249,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Bučje",
+    "zip": 19369,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Vajska",
+    "zip": 21426,
+    "region": "Južnobački okrug",
+    "municipality": "Bač"
+  },
+  {
+    "city": "Valjevo",
+    "zip": 14000,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Varvarin",
+    "zip": 37260,
+    "region": "Rasinski okrug",
+    "municipality": "Varvarin"
+  },
+  {
+    "city": "Varda",
+    "zip": 31263,
+    "region": "Zlatiborski okrug",
+    "municipality": "Kosjerić"
+  },
+  {
+    "city": "Varna",
+    "zip": 15232,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Varoš",
+    "zip": 18363,
+    "region": "Nišavski okrug",
+    "municipality": "Svrljig"
+  },
+  {
+    "city": "Vasilj",
+    "zip": 19367,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Vatin",
+    "zip": 26337,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Vašica",
+    "zip": 22241,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Velebit",
+    "zip": 24428,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Velesnica",
+    "zip": 19328,
+    "region": "Borski okrug",
+    "municipality": "Kladovo"
+  },
+  {
+    "city": "Velika Vrbnica",
+    "zip": 37233,
+    "region": "Rasinski okrug",
+    "municipality": "Aleksandrovac"
+  },
+  {
+    "city": "Velika Grabovnica",
+    "zip": 16221,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Velika Greda",
+    "zip": 26366,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Velika Drenova",
+    "zip": 37245,
+    "region": "Rasinski okrug",
+    "municipality": "Trstenik"
+  },
+  {
+    "city": "Velika Ivanča",
+    "zip": 11414,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Velika Jasikova",
+    "zip": 19235,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Velika Krsna",
+    "zip": 11408,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Velika Lomnica",
+    "zip": 37209,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Velika Moštanica",
+    "zip": 11262,
+    "region": "Grad Beograd",
+    "municipality": "Čukarica"
+  },
+  {
+    "city": "Velika Plana",
+    "zip": 11320,
+    "region": "Podunavski okrug",
+    "municipality": "Velika Plana"
+  },
+  {
+    "city": "Velika Plana",
+    "zip": 18403,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Velika Reka",
+    "zip": 15322,
+    "region": "Mačvanski okrug",
+    "municipality": "Mali Zvornik"
+  },
+  {
+    "city": "Veliki Borak",
+    "zip": 11462,
+    "region": "Grad Beograd",
+    "municipality": "Barajevo"
+  },
+  {
+    "city": "Veliki Gaj",
+    "zip": 26365,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Veliki Izvor",
+    "zip": 19206,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Veliki Popović",
+    "zip": 35223,
+    "region": "Pomoravski okrug",
+    "municipality": "Despotovac"
+  },
+  {
+    "city": "Veliki Radinci",
+    "zip": 22211,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Veliki Trnovac",
+    "zip": 17528,
+    "region": "Pčinjski okrug",
+    "municipality": "Bujanovac"
+  },
+  {
+    "city": "Veliki Crljeni",
+    "zip": 11563,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Veliki Šiljegovac",
+    "zip": 37204,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Veliko Bonjince",
+    "zip": 18215,
+    "region": "Pirotski okrug",
+    "municipality": "Babušnica"
+  },
+  {
+    "city": "Veliko Gradište",
+    "zip": 12220,
+    "region": "Braničevski okrug",
+    "municipality": "Veliko Gradište"
+  },
+  {
+    "city": "Veliko Laole",
+    "zip": 12306,
+    "region": "Braničevski okrug",
+    "municipality": "Petrovac na Mlavi"
+  },
+  {
+    "city": "Veliko Orašje",
+    "zip": 11323,
+    "region": "Podunavski okrug",
+    "municipality": "Velika Plana"
+  },
+  {
+    "city": "Veliko Središte",
+    "zip": 26334,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Venčane",
+    "zip": 34306,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Veternik",
+    "zip": 21203,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Vilovo",
+    "zip": 21246,
+    "region": "Južnobački okrug",
+    "municipality": "Titel"
+  },
+  {
+    "city": "Vina",
+    "zip": 19368,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Vionica",
+    "zip": 32254,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Visočka Ržana",
+    "zip": 18306,
+    "region": "Pirotski okrug",
+    "municipality": "Pirot"
+  },
+  {
+    "city": "Vitanovac",
+    "zip": 36206,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Vitkovac",
+    "zip": 36207,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Vitoševac",
+    "zip": 37213,
+    "region": "Nišavski okrug",
+    "municipality": "Ražanj"
+  },
+  {
+    "city": "Viča",
+    "zip": 32233,
+    "region": "Moravički okrug",
+    "municipality": "Lučani"
+  },
+  {
+    "city": "Višnjevac",
+    "zip": 24222,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Višnjićevo",
+    "zip": 22246,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Vladimirovac",
+    "zip": 26315,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Vladimirci",
+    "zip": 15225,
+    "region": "Mačvanski okrug",
+    "municipality": "Vladimirci"
+  },
+  {
+    "city": "Vladičin Han",
+    "zip": 17510,
+    "region": "Pčinjski okrug",
+    "municipality": "Vladičin Han"
+  },
+  {
+    "city": "Vlajkovac",
+    "zip": 26332,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Vlase",
+    "zip": 17507,
+    "region": "Pčinjski okrug",
+    "municipality": "Vranje"
+  },
+  {
+    "city": "Vlasotince",
+    "zip": 16210,
+    "region": "Jablanički okrug",
+    "municipality": "Vlasotince"
+  },
+  {
+    "city": "Vlaška",
+    "zip": 11406,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Voganj",
+    "zip": 22429,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Vodanj",
+    "zip": 11328,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Vojvoda Stepa",
+    "zip": 23219,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Nova Crnja"
+  },
+  {
+    "city": "Vojvodinci",
+    "zip": 26338,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Vojka",
+    "zip": 22313,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Vojska",
+    "zip": 35208,
+    "region": "Pomoravski okrug",
+    "municipality": "Svilajnac"
+  },
+  {
+    "city": "Voluja",
+    "zip": 12256,
+    "region": "Braničevski okrug",
+    "municipality": "Kučevo"
+  },
+  {
+    "city": "Vražogrnac",
+    "zip": 19312,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Vranić",
+    "zip": 11427,
+    "region": "Grad Beograd",
+    "municipality": "Barajevo"
+  },
+  {
+    "city": "Vranovo",
+    "zip": 11329,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Vranje",
+    "zip": 17501,
+    "region": "Pčinjski okrug",
+    "municipality": "Vranje"
+  },
+  {
+    "city": "Vranjska Banja",
+    "zip": 17541,
+    "region": "Pčinjski okrug",
+    "municipality": "Vranje"
+  },
+  {
+    "city": "Vratarnica",
+    "zip": 19344,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Vraćevšnica",
+    "zip": 32315,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Vračev Gaj",
+    "zip": 26348,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Vrba",
+    "zip": 36214,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Vrbas",
+    "zip": 21460,
+    "region": "Južnobački okrug",
+    "municipality": "Vrbas"
+  },
+  {
+    "city": "Vrbica",
+    "zip": 23329,
+    "region": "Severnobanatski okrug",
+    "municipality": "Čoka"
+  },
+  {
+    "city": "Vrbovac",
+    "zip": 38263,
+    "region": "Kosovskopomoravski okrug",
+    "municipality": "Vitina"
+  },
+  {
+    "city": "Vrdnik",
+    "zip": 22408,
+    "region": "Sremski okrug",
+    "municipality": "Irig"
+  },
+  {
+    "city": "Vreoci",
+    "zip": 11560,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Vrmdža",
+    "zip": 18236,
+    "region": "Nišavski okrug",
+    "municipality": "Sokobanja"
+  },
+  {
+    "city": "Vrnjačka Banja",
+    "zip": 36210,
+    "region": "Raški okrug",
+    "municipality": "Vrnjačka Banja"
+  },
+  {
+    "city": "Vrnjci",
+    "zip": 36217,
+    "region": "Raški okrug",
+    "municipality": "Vrnjačka Banja"
+  },
+  {
+    "city": "Vrćenovica",
+    "zip": 18221,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Vrhpolje",
+    "zip": 15324,
+    "region": "Mačvanski okrug",
+    "municipality": "Ljubovija"
+  },
+  {
+    "city": "Vršac",
+    "zip": 26300,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Vukovac",
+    "zip": 12318,
+    "region": "Braničevski okrug",
+    "municipality": "Žagubica"
+  },
+  {
+    "city": "Vučje",
+    "zip": 16203,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Gaj",
+    "zip": 26223,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovin"
+  },
+  {
+    "city": "Gajdobra",
+    "zip": 21432,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Gakovo",
+    "zip": 25282,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Gamzigradska Banja",
+    "zip": 19228,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Gardinovci",
+    "zip": 21247,
+    "region": "Južnobački okrug",
+    "municipality": "Titel"
+  },
+  {
+    "city": "Gadžin Han",
+    "zip": 18240,
+    "region": "Nišavski okrug",
+    "municipality": "Gadžin Han"
+  },
+  {
+    "city": "Gibarac",
+    "zip": 22258,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Glavinci",
+    "zip": 35261,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Globoder",
+    "zip": 37251,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Glogovac",
+    "zip": 35222,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Glogonj",
+    "zip": 26202,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Gložan",
+    "zip": 21412,
+    "region": "Južnobački okrug",
+    "municipality": "Bački Petrovac"
+  },
+  {
+    "city": "Glušci",
+    "zip": 15356,
+    "region": "Mačvanski okrug",
+    "municipality": "Bogatić"
+  },
+  {
+    "city": "Gnjilan",
+    "zip": 18309,
+    "region": "Pirotski okrug",
+    "municipality": "Pirot"
+  },
+  {
+    "city": "Golobok",
+    "zip": 11316,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevska Palanka"
+  },
+  {
+    "city": "Golubac",
+    "zip": 12223,
+    "region": "Braničevski okrug",
+    "municipality": "Golubac"
+  },
+  {
+    "city": "Golubinci",
+    "zip": 22308,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Goračići",
+    "zip": 32232,
+    "region": "Moravički okrug",
+    "municipality": "Lučani"
+  },
+  {
+    "city": "Gornja Dobrinja",
+    "zip": 31214,
+    "region": "Zlatiborski okrug",
+    "municipality": "Požega"
+  },
+  {
+    "city": "Gornja Draguša",
+    "zip": 18425,
+    "region": "Toplički okrug",
+    "municipality": "Blace"
+  },
+  {
+    "city": "Gornja Lisina",
+    "zip": 17538,
+    "region": "Pčinjski okrug",
+    "municipality": "Bosilegrad"
+  },
+  {
+    "city": "Gornja Sabanta",
+    "zip": 34206,
+    "region": "Šumadijski okrug",
+    "municipality": "Pivara"
+  },
+  {
+    "city": "Gornja Toplica",
+    "zip": 14243,
+    "region": "Kolubarski okrug",
+    "municipality": "Mionica"
+  },
+  {
+    "city": "Gornja Toponica",
+    "zip": 18202,
+    "region": "Nišavski okrug",
+    "municipality": "Crveni Krst"
+  },
+  {
+    "city": "Gornja Trepča",
+    "zip": 32215,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Gornja Trnava",
+    "zip": 34324,
+    "region": "Šumadijski okrug",
+    "municipality": "Topola"
+  },
+  {
+    "city": "Gornje Dvorane",
+    "zip": 37206,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Gornji Barbeš",
+    "zip": 18241,
+    "region": "Nišavski okrug",
+    "municipality": "Gadžin Han"
+  },
+  {
+    "city": "Gornji Breg",
+    "zip": 24406,
+    "region": "Severnobanatski okrug",
+    "municipality": "Senta"
+  },
+  {
+    "city": "Gornji Matejevac",
+    "zip": 18204,
+    "region": "Nišavski okrug",
+    "municipality": "Pantelej"
+  },
+  {
+    "city": "Gornji Milanovac",
+    "zip": 32300,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Gornji Stepoš",
+    "zip": 37221,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Gornji Stupanj",
+    "zip": 37234,
+    "region": "Rasinski okrug",
+    "municipality": "Aleksandrovac"
+  },
+  {
+    "city": "Gospođinci",
+    "zip": 21237,
+    "region": "Južnobački okrug",
+    "municipality": "Žabalj"
+  },
+  {
+    "city": "Gostun",
+    "zip": 31308,
+    "region": "Zlatiborski okrug",
+    "municipality": "Prijepolje"
+  },
+  {
+    "city": "Grabovac",
+    "zip": 11508,
+    "region": "Grad Beograd",
+    "municipality": "Obrenovac"
+  },
+  {
+    "city": "Grabovica",
+    "zip": 19327,
+    "region": "Borski okrug",
+    "municipality": "Kladovo"
+  },
+  {
+    "city": "Grabovci",
+    "zip": 22423,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Gradskovo",
+    "zip": 19205,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Gračanica",
+    "zip": 38205,
+    "region": "Kosovski okrug",
+    "municipality": "Priština"
+  },
+  {
+    "city": "Grgurevci",
+    "zip": 22213,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Grdelica",
+    "zip": 16220,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Grebenac",
+    "zip": 26347,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Grlište",
+    "zip": 19342,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Grljan",
+    "zip": 19341,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Grošnica",
+    "zip": 34202,
+    "region": "Šumadijski okrug",
+    "municipality": "Stanovo"
+  },
+  {
+    "city": "Gruža",
+    "zip": 34230,
+    "region": "Šumadijski okrug",
+    "municipality": "Knić"
+  },
+  {
+    "city": "Guberevac",
+    "zip": 16211,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Guberevac",
+    "zip": 34232,
+    "region": "Šumadijski okrug",
+    "municipality": "Knić"
+  },
+  {
+    "city": "Gudurica",
+    "zip": 26335,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Gunaroš",
+    "zip": 24312,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Guča",
+    "zip": 32230,
+    "region": "Moravički okrug",
+    "municipality": "Lučani"
+  },
+  {
+    "city": "Guševac",
+    "zip": 18208,
+    "region": "Nišavski okrug",
+    "municipality": "Svrljig"
+  },
+  {
+    "city": "Darosava",
+    "zip": 34305,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Debeljača",
+    "zip": 26214,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovačica"
+  },
+  {
+    "city": "Debrc",
+    "zip": 15214,
+    "region": "Mačvanski okrug",
+    "municipality": "Vladimirci"
+  },
+  {
+    "city": "Devojački Bunar",
+    "zip": 26316,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Deževa",
+    "zip": 36305,
+    "region": "Raški okrug",
+    "municipality": "Novi Pazar"
+  },
+  {
+    "city": "Deliblato",
+    "zip": 26225,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovin"
+  },
+  {
+    "city": "Delimeđe",
+    "zip": 36307,
+    "region": "Raški okrug",
+    "municipality": "Tutin"
+  },
+  {
+    "city": "Deronje",
+    "zip": 25254,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Desimirovac",
+    "zip": 34321,
+    "region": "Šumadijski okrug",
+    "municipality": "Aerodrom"
+  },
+  {
+    "city": "Despotovac",
+    "zip": 35213,
+    "region": "Pomoravski okrug",
+    "municipality": "Despotovac"
+  },
+  {
+    "city": "Despotovo",
+    "zip": 21468,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Deč",
+    "zip": 22441,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Divljaka",
+    "zip": 31236,
+    "region": "Zlatiborski okrug",
+    "municipality": "Arilje"
+  },
+  {
+    "city": "Divostin",
+    "zip": 34204,
+    "region": "Šumadijski okrug",
+    "municipality": "Stanovo"
+  },
+  {
+    "city": "Divoš",
+    "zip": 22232,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Divci",
+    "zip": 14222,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Divčibare",
+    "zip": 14204,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Dimitrovgrad",
+    "zip": 18320,
+    "region": "Pirotski okrug",
+    "municipality": "Dimitrovgrad"
+  },
+  {
+    "city": "Dobra",
+    "zip": 12224,
+    "region": "Braničevski okrug",
+    "municipality": "Golubac"
+  },
+  {
+    "city": "Dobri Do",
+    "zip": 18408,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Dobrinci",
+    "zip": 22412,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Dobrić",
+    "zip": 15235,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Dobrica",
+    "zip": 26354,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Dolac",
+    "zip": 18314,
+    "region": "Pirotski okrug",
+    "municipality": "Bela Palanka"
+  },
+  {
+    "city": "Dolovo",
+    "zip": 26227,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Doljevac",
+    "zip": 18410,
+    "region": "Nišavski okrug",
+    "municipality": "Doljevac"
+  },
+  {
+    "city": "Donja Bela Reka",
+    "zip": 19213,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Donja Borina",
+    "zip": 15317,
+    "region": "Mačvanski okrug",
+    "municipality": "Mali Zvornik"
+  },
+  {
+    "city": "Donja Gušterica",
+    "zip": 38207,
+    "region": "Kosovski okrug",
+    "municipality": "Lipljan"
+  },
+  {
+    "city": "Donja Kamenica",
+    "zip": 19352,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Donja Ljubata",
+    "zip": 17544,
+    "region": "Pčinjski okrug",
+    "municipality": "Bosilegrad"
+  },
+  {
+    "city": "Donja Mutnica",
+    "zip": 35255,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Donja Orovica",
+    "zip": 15323,
+    "region": "Mačvanski okrug",
+    "municipality": "Ljubovija"
+  },
+  {
+    "city": "Donja Rečica",
+    "zip": 18404,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Donja Trnava",
+    "zip": 18421,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Donja Šatornja",
+    "zip": 34314,
+    "region": "Šumadijski okrug",
+    "municipality": "Topola"
+  },
+  {
+    "city": "Donje Vidovo",
+    "zip": 35258,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Donje Zuniče",
+    "zip": 19345,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Donje Međurovo",
+    "zip": 18254,
+    "region": "Nišavski okrug",
+    "municipality": "Palilula (Niš)"
+  },
+  {
+    "city": "Donje Crnatovo",
+    "zip": 18414,
+    "region": "Toplički okrug",
+    "municipality": "Žitorađa"
+  },
+  {
+    "city": "Donje Crniljevo",
+    "zip": 15227,
+    "region": "Mačvanski okrug",
+    "municipality": "Koceljeva"
+  },
+  {
+    "city": "Donji Dušnik",
+    "zip": 18242,
+    "region": "Nišavski okrug",
+    "municipality": "Gadžin Han"
+  },
+  {
+    "city": "Donji Krčin",
+    "zip": 37258,
+    "region": "Rasinski okrug",
+    "municipality": "Varvarin"
+  },
+  {
+    "city": "Donji Milanovac",
+    "zip": 19220,
+    "region": "Borski okrug",
+    "municipality": "Majdanpek"
+  },
+  {
+    "city": "Donji Stajevac",
+    "zip": 17526,
+    "region": "Pčinjski okrug",
+    "municipality": "Trgovište"
+  },
+  {
+    "city": "Doroslovo",
+    "zip": 25243,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Draginac",
+    "zip": 15311,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Draginje",
+    "zip": 15226,
+    "region": "Mačvanski okrug",
+    "municipality": "Koceljeva"
+  },
+  {
+    "city": "Draglica",
+    "zip": 31317,
+    "region": "Zlatiborski okrug",
+    "municipality": "Nova Varoš"
+  },
+  {
+    "city": "Dragobraća",
+    "zip": 34231,
+    "region": "Šumadijski okrug",
+    "municipality": "Stanovo"
+  },
+  {
+    "city": "Dragovo",
+    "zip": 35265,
+    "region": "Pomoravski okrug",
+    "municipality": "Rekovac"
+  },
+  {
+    "city": "Dragolj",
+    "zip": 32316,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Dragocvet",
+    "zip": 35272,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Dragoševac",
+    "zip": 35262,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Draževac",
+    "zip": 11506,
+    "region": "Grad Beograd",
+    "municipality": "Obrenovac"
+  },
+  {
+    "city": "Draževac",
+    "zip": 18223,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Drajkovce",
+    "zip": 38239,
+    "region": "Kosovski okrug",
+    "municipality": "Štrpce"
+  },
+  {
+    "city": "Dračić",
+    "zip": 14203,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Drenovac",
+    "zip": 15212,
+    "region": "mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Drenovac",
+    "zip": 35257,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Drugovac",
+    "zip": 11432,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Dublje",
+    "zip": 15359,
+    "region": "Mačvanski okrug",
+    "municipality": "Bogatić"
+  },
+  {
+    "city": "Dubovac",
+    "zip": 26224,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovin"
+  },
+  {
+    "city": "Dubovo",
+    "zip": 18406,
+    "region": "Toplički okrug",
+    "municipality": "Žitorađa"
+  },
+  {
+    "city": "Duboka",
+    "zip": 12255,
+    "region": "Braničevski okrug",
+    "municipality": "Kučevo"
+  },
+  {
+    "city": "Duboka",
+    "zip": 35218,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Dubočane",
+    "zip": 19232,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Dubravica",
+    "zip": 12207,
+    "region": "Braničevski okrug",
+    "municipality": "Požarevac"
+  },
+  {
+    "city": "Duga Poljana",
+    "zip": 36312,
+    "region": "Zlatiborski okrug",
+    "municipality": "Sjenica"
+  },
+  {
+    "city": "Dugo Polje",
+    "zip": 18237,
+    "region": "Zaječarski okrug",
+    "municipality": "Sokobanja"
+  },
+  {
+    "city": "Dudovica",
+    "zip": 11561,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Dupljaja",
+    "zip": 26328,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Đala",
+    "zip": 23335,
+    "region": "Severnobanatski okrug",
+    "municipality": "Novi Kneževac"
+  },
+  {
+    "city": "Đunis",
+    "zip": 37202,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Đurđevo",
+    "zip": 21239,
+    "region": "Južnobački okrug",
+    "municipality": "Žabalj"
+  },
+  {
+    "city": "Đurđin",
+    "zip": 24213,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Elemir",
+    "zip": 23208,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Erdevik",
+    "zip": 22230,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Erdeč",
+    "zip": 34207,
+    "region": "Šumadijski okrug",
+    "municipality": "Stanovo"
+  },
+  {
+    "city": "Ečka",
+    "zip": 23203,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Žabalj",
+    "zip": 21230,
+    "region": "Južnobački okrug",
+    "municipality": "Žabalj"
+  },
+  {
+    "city": "Žabari",
+    "zip": 12374,
+    "region": "Braničevski okrug",
+    "municipality": "Žabari"
+  },
+  {
+    "city": "Žagubica",
+    "zip": 12320,
+    "region": "Braničevski okrug",
+    "municipality": "Žagubica"
+  },
+  {
+    "city": "Željuše",
+    "zip": 18325,
+    "region": "Pirotski okrug",
+    "municipality": "Dimitrovgrad"
+  },
+  {
+    "city": "Žirovnica",
+    "zip": 34229,
+    "region": "Šumadijski okrug",
+    "municipality": "Batočina"
+  },
+  {
+    "city": "Žitište",
+    "zip": 23210,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Žitkovac",
+    "zip": 18210,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Žitni Potok",
+    "zip": 18407,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Žitorađa",
+    "zip": 18412,
+    "region": "Toplički okrug",
+    "municipality": "Žitorađa"
+  },
+  {
+    "city": "Žiča",
+    "zip": 36221,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Žuč",
+    "zip": 18438,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Zablaće",
+    "zip": 32223,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Zabojnica",
+    "zip": 34244,
+    "region": "Šumadijski okrug",
+    "municipality": "Knić"
+  },
+  {
+    "city": "Zabrežje",
+    "zip": 11505,
+    "region": "Grad Beograd",
+    "municipality": "Obrenovac"
+  },
+  {
+    "city": "Zavlaka",
+    "zip": 15312,
+    "region": "Mačvanski okrug",
+    "municipality": "Krupanj"
+  },
+  {
+    "city": "Zagajica",
+    "zip": 26344,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Zajača",
+    "zip": 15315,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Zaječar",
+    "zip": 19000,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Zaplanjska Toponica",
+    "zip": 18244,
+    "region": "Nišavski okrug",
+    "municipality": "Gadžin Han"
+  },
+  {
+    "city": "Zasavica",
+    "zip": 22201,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Zvezdan",
+    "zip": 19227,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Zvečan",
+    "zip": 38227,
+    "region": "Kosovskomitrovački okrug",
+    "municipality": "Zvečan"
+  },
+  {
+    "city": "Zvonce",
+    "zip": 18333,
+    "region": "Pirotski okrug",
+    "municipality": "Babušnica"
+  },
+  {
+    "city": "Zdravinje",
+    "zip": 37203,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Zlatibor",
+    "zip": 31315,
+    "region": "Zlatiborski okrug",
+    "municipality": "Čajetina"
+  },
+  {
+    "city": "Zlatica",
+    "zip": 23255,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Zlodol",
+    "zip": 31253,
+    "region": "Zlatiborski okrug",
+    "municipality": "Bajina Bašta"
+  },
+  {
+    "city": "Zlot",
+    "zip": 19215,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Zmajevo",
+    "zip": 21213,
+    "region": "Južnobački okrug",
+    "municipality": "Vrbas"
+  },
+  {
+    "city": "Zminjak",
+    "zip": 15352,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Zrenjanin",
+    "zip": 23000,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Zubin Potok",
+    "zip": 38228,
+    "region": "Kosovskomitrovački okrug",
+    "municipality": "Zubin Potok"
+  },
+  {
+    "city": "Zuce",
+    "zip": 11225,
+    "region": "Grad Beograd",
+    "municipality": "Voždovac"
+  },
+  {
+    "city": "Ivanovo",
+    "zip": 26233,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Ivanjica",
+    "zip": 32250,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Idvor",
+    "zip": 26207,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovačica"
+  },
+  {
+    "city": "Iđoš",
+    "zip": 23323,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Izbište",
+    "zip": 26343,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Ilandža",
+    "zip": 26352,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Ilinci",
+    "zip": 22250,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Ilićevo",
+    "zip": 34203,
+    "region": "Šumadijski okrug",
+    "municipality": "Pivara"
+  },
+  {
+    "city": "Inđija",
+    "zip": 22320,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Irig",
+    "zip": 22406,
+    "region": "Sremski okrug",
+    "municipality": "Irig"
+  },
+  {
+    "city": "Jabuka",
+    "zip": 26201,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Jabuka",
+    "zip": 31306,
+    "region": "Zlatiborski okrug",
+    "municipality": "Prijepolje"
+  },
+  {
+    "city": "Jabukovac",
+    "zip": 19304,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Jabučje",
+    "zip": 14226,
+    "region": "Kolubarski okrug",
+    "municipality": "Lajkovac"
+  },
+  {
+    "city": "Jagnjilo",
+    "zip": 11412,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Jagodina",
+    "zip": 35000,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Jadranska Lešnica",
+    "zip": 15308,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Jazak",
+    "zip": 22409,
+    "region": "Sremski okrug",
+    "municipality": "Irig"
+  },
+  {
+    "city": "Jazovo",
+    "zip": 23327,
+    "region": "Severnobanatski okrug",
+    "municipality": "Čoka"
+  },
+  {
+    "city": "Jamena",
+    "zip": 22248,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Jankov Most",
+    "zip": 23201,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Janošik",
+    "zip": 26362,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Jarak",
+    "zip": 22426,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Jarkovac",
+    "zip": 23250,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Jarmenovci",
+    "zip": 34318,
+    "region": "Šumadijski okrug",
+    "municipality": "Topola"
+  },
+  {
+    "city": "Jasenovo",
+    "zip": 26346,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Jasenovo",
+    "zip": 31319,
+    "region": "Zlatiborski okrug",
+    "municipality": "Nova Varoš"
+  },
+  {
+    "city": "Jasenovo",
+    "zip": 35241,
+    "region": "Pomoravski okrug",
+    "municipality": "Despotovac"
+  },
+  {
+    "city": "Jasika",
+    "zip": 37252,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Jasikovica",
+    "zip": 37247,
+    "region": "Rasinski okrug",
+    "municipality": "Trstenik"
+  },
+  {
+    "city": "Jasikovo",
+    "zip": 19256,
+    "region": "Borski okrug",
+    "municipality": "Majdanpek"
+  },
+  {
+    "city": "Jaša Tomić",
+    "zip": 23230,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Ježevica",
+    "zip": 31213,
+    "region": "Zlatiborski okrug",
+    "municipality": "Požega"
+  },
+  {
+    "city": "Ježevica",
+    "zip": 32222,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Jelašnica",
+    "zip": 17531,
+    "region": "Pčinjski okrug",
+    "municipality": "Surdulica"
+  },
+  {
+    "city": "Jelašnica",
+    "zip": 18206,
+    "region": "Nišavski okrug",
+    "municipality": "Niška Banja"
+  },
+  {
+    "city": "Jelen Do",
+    "zip": 31215,
+    "region": "Zlatiborski okrug",
+    "municipality": "Požega"
+  },
+  {
+    "city": "Jelovik",
+    "zip": 34309,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Jermenovci",
+    "zip": 26363,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Jovanovac",
+    "zip": 18258,
+    "region": "Toplički okrug",
+    "municipality": "Merošina"
+  },
+  {
+    "city": "Jovanovac",
+    "zip": 34211,
+    "region": "Šumadijski okrug",
+    "municipality": "Aerodrom"
+  },
+  {
+    "city": "Jovac",
+    "zip": 35205,
+    "region": "Pomoravski okrug",
+    "municipality": "Ćuprija"
+  },
+  {
+    "city": "Jošanica",
+    "zip": 18234,
+    "region": "Zaječarski okrug",
+    "municipality": "Sokobanja"
+  },
+  {
+    "city": "Jošanička Banja",
+    "zip": 36345,
+    "region": "Raški okrug",
+    "municipality": "Raška"
+  },
+  {
+    "city": "Jugbogdanovac",
+    "zip": 18253,
+    "region": "Nišavski okrug",
+    "municipality": "Merošina"
+  },
+  {
+    "city": "Junkovac",
+    "zip": 11562,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Kalna",
+    "zip": 19353,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Kaluđerica",
+    "zip": 11130,
+    "region": "Grad Beograd",
+    "municipality": "Grocka"
+  },
+  {
+    "city": "Kamenica",
+    "zip": 14252,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Kamenica",
+    "zip": 15222,
+    "region": "Mačvanski okrug",
+    "municipality": "Koceljeva"
+  },
+  {
+    "city": "Kamenica",
+    "zip": 18324,
+    "region": "Pirotski okrug",
+    "municipality": "Dimitrovgrad"
+  },
+  {
+    "city": "Kanjiža",
+    "zip": 24420,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Kaona",
+    "zip": 32234,
+    "region": "Moravički okrug",
+    "municipality": "Lučani"
+  },
+  {
+    "city": "Kaonik",
+    "zip": 37256,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Karavukovo",
+    "zip": 25255,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Karađorđevo",
+    "zip": 21421,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Karađorđevo",
+    "zip": 24308,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Karan",
+    "zip": 31204,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Karlovčić",
+    "zip": 22443,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Katun",
+    "zip": 18225,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Kać",
+    "zip": 21241,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Kačarevo",
+    "zip": 26212,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Kevi",
+    "zip": 24407,
+    "region": "Severnobanatski okrug",
+    "municipality": "Senta"
+  },
+  {
+    "city": "Kelebija",
+    "zip": 24104,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Kelebija gran. prelaz",
+    "zip": 24205,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Kikinda",
+    "zip": 23300,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Kisač",
+    "zip": 21211,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Kladovo",
+    "zip": 19320,
+    "region": "Borski okrug",
+    "municipality": "Kladovo"
+  },
+  {
+    "city": "Klek",
+    "zip": 23211,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Klenak",
+    "zip": 22424,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Klenike",
+    "zip": 17524,
+    "region": "Pčinjski okrug",
+    "municipality": "Bujanovac"
+  },
+  {
+    "city": "Klenje",
+    "zip": 12258,
+    "region": "Braničevski okrug",
+    "municipality": "Golubac"
+  },
+  {
+    "city": "Klenje",
+    "zip": 15357,
+    "region": "Mačvanski okrug",
+    "municipality": "Bogatić"
+  },
+  {
+    "city": "Klisura",
+    "zip": 17535,
+    "region": "Pčinjski okrug",
+    "municipality": "Surdulica"
+  },
+  {
+    "city": "Kličevac",
+    "zip": 12209,
+    "region": "Braničevski okrug",
+    "municipality": "Požarevac"
+  },
+  {
+    "city": "Klokočevac",
+    "zip": 19222,
+    "region": "Borski okrug",
+    "municipality": "Majdanpek"
+  },
+  {
+    "city": "Kljajićevo",
+    "zip": 25221,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Knić",
+    "zip": 34240,
+    "region": "Šumadijski okrug",
+    "municipality": "Knić"
+  },
+  {
+    "city": "Knićanin",
+    "zip": 23265,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Knjaževac",
+    "zip": 19350,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Kobišnica",
+    "zip": 19316,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Kovačevac",
+    "zip": 11409,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Kovačica",
+    "zip": 26210,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovačica"
+  },
+  {
+    "city": "Kovilj",
+    "zip": 21243,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Kovin",
+    "zip": 26220,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovin"
+  },
+  {
+    "city": "Kokin Brod",
+    "zip": 31318,
+    "region": "Zlatiborski okrug",
+    "municipality": "Nova Varoš"
+  },
+  {
+    "city": "Kolare",
+    "zip": 35242,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Kolari",
+    "zip": 11431,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Kolut",
+    "zip": 25274,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Komirić",
+    "zip": 14254,
+    "region": "Kolubarski okrug",
+    "municipality": "Osečina"
+  },
+  {
+    "city": "Konak",
+    "zip": 23253,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Konarevo",
+    "zip": 36340,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Končarevo",
+    "zip": 35219,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Konjuh",
+    "zip": 37254,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Kopaonik",
+    "zip": 36354,
+    "region": "Raški okrug",
+    "municipality": "Raška"
+  },
+  {
+    "city": "Koprivnica",
+    "zip": 19223,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Koraćica",
+    "zip": 11415,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Korbevac",
+    "zip": 17545,
+    "region": "Pčinjski okrug",
+    "municipality": "Vranjska Banja"
+  },
+  {
+    "city": "Korbovo",
+    "zip": 19329,
+    "region": "Borski okrug",
+    "municipality": "Kladovo"
+  },
+  {
+    "city": "Korenita",
+    "zip": 15302,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Korman",
+    "zip": 18216,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Korman",
+    "zip": 34224,
+    "region": "Šumadijski okrug",
+    "municipality": "Pivara"
+  },
+  {
+    "city": "Kosančić",
+    "zip": 16206,
+    "region": "Jablanički okrug",
+    "municipality": "Bojnik"
+  },
+  {
+    "city": "Kosjerić",
+    "zip": 31260,
+    "region": "Zlatiborski okrug",
+    "municipality": "Kosjerić"
+  },
+  {
+    "city": "Kosovo Polje",
+    "zip": 38210,
+    "region": "Kosovski okrug",
+    "municipality": "Kosovo Polje"
+  },
+  {
+    "city": "Kosovska Kamenica",
+    "zip": 38260,
+    "region": "Kosovskopomoravski okrug",
+    "municipality": "Kosovska Kamenica"
+  },
+  {
+    "city": "Kosovska Mitrovica",
+    "zip": 38220,
+    "region": "Kosovskomitrovački okrug",
+    "municipality": "Kosovska Mitrovica"
+  },
+  {
+    "city": "Kostojevići",
+    "zip": 31254,
+    "region": "Zlatiborski okrug",
+    "municipality": "Bajina Bašta"
+  },
+  {
+    "city": "Kostolac",
+    "zip": 12208,
+    "region": "Braničevski okrug",
+    "municipality": "Kostolac"
+  },
+  {
+    "city": "Kotraža",
+    "zip": 32235,
+    "region": "Moravički okrug",
+    "municipality": "Lučani"
+  },
+  {
+    "city": "Koceljeva",
+    "zip": 15220,
+    "region": "Mačvanski okrug",
+    "municipality": "Koceljeva"
+  },
+  {
+    "city": "Kragujevac",
+    "zip": 34000,
+    "region": "Šumadijski okrug",
+    "municipality": "Stari Grad (Kragujevac)"
+  },
+  {
+    "city": "Krajišnik",
+    "zip": 23231,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Kraljevo",
+    "zip": 36000,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Kraljevci",
+    "zip": 22411,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Kremna",
+    "zip": 31242,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Krepoljin",
+    "zip": 12316,
+    "region": "Braničevski okrug",
+    "municipality": "Žagubica"
+  },
+  {
+    "city": "Kriva Feja",
+    "zip": 17543,
+    "region": "Pčinjski okrug",
+    "municipality": "Vranjska Banja"
+  },
+  {
+    "city": "Krivaja",
+    "zip": 24341,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Krivelj",
+    "zip": 19219,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Krivi Vir",
+    "zip": 19375,
+    "region": "Zaječarski okrug",
+    "municipality": "Boljevac"
+  },
+  {
+    "city": "Krnjevo",
+    "zip": 11319,
+    "region": "Podunavski okrug",
+    "municipality": "Velika Plana"
+  },
+  {
+    "city": "Krnješevci",
+    "zip": 22314,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Krupanj",
+    "zip": 15314,
+    "region": "Mačvanski okrug",
+    "municipality": "Krupanj"
+  },
+  {
+    "city": "Krupac",
+    "zip": 18307,
+    "region": "Pirotski okrug",
+    "municipality": "Pirot"
+  },
+  {
+    "city": "Krušar",
+    "zip": 35227,
+    "region": "Pomoravski okrug",
+    "municipality": "Ćuprija"
+  },
+  {
+    "city": "Kruševac",
+    "zip": 37000,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Kruševica",
+    "zip": 18409,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Krušedol",
+    "zip": 22328,
+    "region": "Sremski okrug",
+    "municipality": "Irig"
+  },
+  {
+    "city": "Kruščić",
+    "zip": 25225,
+    "region": "Zapadnobački okrug",
+    "municipality": "Kula"
+  },
+  {
+    "city": "Krčedin",
+    "zip": 22325,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Kuzmin",
+    "zip": 22223,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Kukljin",
+    "zip": 37255,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Kukujevci",
+    "zip": 22224,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Kula",
+    "zip": 25230,
+    "region": "Zapadnobački okrug",
+    "municipality": "Kula"
+  },
+  {
+    "city": "Kulina",
+    "zip": 18214,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Kulpin",
+    "zip": 21472,
+    "region": "Južnobački okrug",
+    "municipality": "Bački Petrovac"
+  },
+  {
+    "city": "Kumane",
+    "zip": 23271,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Novi Bečej"
+  },
+  {
+    "city": "Kupinik",
+    "zip": 26368,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Kupinovo",
+    "zip": 22419,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Kupusina",
+    "zip": 25262,
+    "region": "Zapadnobački okrug",
+    "municipality": "Apatin"
+  },
+  {
+    "city": "Kupci",
+    "zip": 37222,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Kuršumlija",
+    "zip": 18430,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Kuršumlijska Banja",
+    "zip": 18435,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Kusadak",
+    "zip": 11425,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevska Palanka"
+  },
+  {
+    "city": "Kusić",
+    "zip": 26349,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Kucura",
+    "zip": 21466,
+    "region": "Južnobački okrug",
+    "municipality": "Vrbas"
+  },
+  {
+    "city": "Kučevo",
+    "zip": 12240,
+    "region": "Braničevski okrug",
+    "municipality": "Kučevo"
+  },
+  {
+    "city": "Kušiljevo",
+    "zip": 35226,
+    "region": "Pomoravski okrug",
+    "municipality": "Svilajnac"
+  },
+  {
+    "city": "Kušići",
+    "zip": 32258,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Kuštilj",
+    "zip": 26336,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Lađevci",
+    "zip": 36204,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Lazarevac",
+    "zip": 11550,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Lazarevo",
+    "zip": 23241,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Laznica",
+    "zip": 12321,
+    "region": "Braničevski okrug",
+    "municipality": "Žagubica"
+  },
+  {
+    "city": "Lajkovac",
+    "zip": 14224,
+    "region": "Kolubarski okrug",
+    "municipality": "Lajkovac"
+  },
+  {
+    "city": "Lalinac",
+    "zip": 18256,
+    "region": "Nišavski okrug",
+    "municipality": "Palilula (Niš)"
+  },
+  {
+    "city": "Lalinac",
+    "zip": 18201,
+    "region": "Nišavski okrug",
+    "municipality": "Svrljig"
+  },
+  {
+    "city": "Lalić",
+    "zip": 25234,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Laplje Selo",
+    "zip": 38204,
+    "region": "Kosovski okrug",
+    "municipality": "Priština"
+  },
+  {
+    "city": "Lapovo",
+    "zip": 34221,
+    "region": "Šumadijski okrug",
+    "municipality": "Lapovo"
+  },
+  {
+    "city": "Lapovo (Varoš)",
+    "zip": 34220,
+    "region": "Šumadijski okrug",
+    "municipality": "Lapovo"
+  },
+  {
+    "city": "Laćarak",
+    "zip": 22221,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Lebane",
+    "zip": 16230,
+    "region": "Jablanički okrug",
+    "municipality": "Lebane"
+  },
+  {
+    "city": "Ledinci",
+    "zip": 21207,
+    "region": "Južnobački okrug",
+    "municipality": "Petrovaradin"
+  },
+  {
+    "city": "Ležimir",
+    "zip": 22207,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Lelić",
+    "zip": 14205,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Lenovac",
+    "zip": 19343,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Lepenac",
+    "zip": 37224,
+    "region": "Rasinski okrug",
+    "municipality": "Brus"
+  },
+  {
+    "city": "Lepenica",
+    "zip": 17513,
+    "region": "Pčinjski okrug",
+    "municipality": "Vladičin Han"
+  },
+  {
+    "city": "Lepina",
+    "zip": 38208,
+    "region": "Kosovski okrug",
+    "municipality": "Lipljan"
+  },
+  {
+    "city": "Leposavić",
+    "zip": 38218,
+    "region": "Kosovskomitrovački okrug",
+    "municipality": "Leposavić"
+  },
+  {
+    "city": "Leskovac",
+    "zip": 16000,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Lece",
+    "zip": 16248,
+    "region": "Jablanički okrug",
+    "municipality": "Medveđa"
+  },
+  {
+    "city": "Lešak",
+    "zip": 38219,
+    "region": "Kosovskomitrovački okrug",
+    "municipality": "Leposavić"
+  },
+  {
+    "city": "Lešnica",
+    "zip": 15307,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Lipar",
+    "zip": 25232,
+    "region": "Zapadnobački okrug",
+    "municipality": "Kula"
+  },
+  {
+    "city": "Lipe",
+    "zip": 11310,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Lipnički Šor",
+    "zip": 15341,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Lipolist",
+    "zip": 15305,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Lički Hanovi",
+    "zip": 18245,
+    "region": "Nišavski okrug",
+    "municipality": "Gadžin Han"
+  },
+  {
+    "city": "Lovćenac",
+    "zip": 24322,
+    "region": "Severnobački okrug",
+    "municipality": "Mali Iđoš"
+  },
+  {
+    "city": "Loznica",
+    "zip": 15300,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Lozovik",
+    "zip": 11317,
+    "region": "Podunavski okrug",
+    "municipality": "Velika Plana"
+  },
+  {
+    "city": "Lok",
+    "zip": 21248,
+    "region": "Južnobački okrug",
+    "municipality": "Titel"
+  },
+  {
+    "city": "Lokve",
+    "zip": 26361,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Loćika",
+    "zip": 35274,
+    "region": "Pomoravski okrug",
+    "municipality": "Rekovac"
+  },
+  {
+    "city": "Lubnica",
+    "zip": 19208,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Lug",
+    "zip": 21315,
+    "region": "Južnobački okrug",
+    "municipality": "Beočin"
+  },
+  {
+    "city": "Lugavčina",
+    "zip": 11321,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Lužnice",
+    "zip": 34325,
+    "region": "Šumadijski okrug",
+    "municipality": "Aerodrom"
+  },
+  {
+    "city": "Lukare",
+    "zip": 36306,
+    "region": "Raški okrug",
+    "municipality": "Novi Pazar"
+  },
+  {
+    "city": "Lukino Selo",
+    "zip": 23224,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Lukićevo",
+    "zip": 23261,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Lukovo",
+    "zip": 19371,
+    "region": "Zaječarski okrug",
+    "municipality": "Boljevac"
+  },
+  {
+    "city": "Lukovska Banja",
+    "zip": 18437,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Lunovo Selo",
+    "zip": 31203,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Lučani",
+    "zip": 32240,
+    "region": "Moravički okrug",
+    "municipality": "Lučani"
+  },
+  {
+    "city": "Ljig",
+    "zip": 14240,
+    "region": "Kolubarski okrug",
+    "municipality": "Ljig"
+  },
+  {
+    "city": "Ljuba",
+    "zip": 22255,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Ljuberađa",
+    "zip": 18217,
+    "region": "Pirotski okrug",
+    "municipality": "Babušnica"
+  },
+  {
+    "city": "Ljubiš",
+    "zip": 31209,
+    "region": "Zlatiborski okrug",
+    "municipality": "Čajetina"
+  },
+  {
+    "city": "Ljubovija",
+    "zip": 15320,
+    "region": "Mačvanski okrug",
+    "municipality": "Ljubovija"
+  },
+  {
+    "city": "Ljukovo",
+    "zip": 22321,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Ljutovo",
+    "zip": 24215,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Maglić",
+    "zip": 21473,
+    "region": "Južnobački okrug",
+    "municipality": "Bački Petrovac"
+  },
+  {
+    "city": "Majdan",
+    "zip": 23333,
+    "region": "Severnobanatski okrug",
+    "municipality": "Novi Kneževac"
+  },
+  {
+    "city": "Majdanpek",
+    "zip": 19250,
+    "region": "Borski okrug",
+    "municipality": "Majdanpek"
+  },
+  {
+    "city": "Majilovac",
+    "zip": 12221,
+    "region": "Braničevski okrug",
+    "municipality": "Veliko Gradište"
+  },
+  {
+    "city": "Majur",
+    "zip": 15353,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Majur",
+    "zip": 35270,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Mala Bosna",
+    "zip": 24217,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Mala Krsna",
+    "zip": 11313,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Mala Moštanica",
+    "zip": 11261,
+    "region": "Grad Beograd",
+    "municipality": "Obrenovac"
+  },
+  {
+    "city": "Mala Plana",
+    "zip": 18423,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Male Pijace",
+    "zip": 24416,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Male Pčelice",
+    "zip": 34216,
+    "region": "Šumadijski okrug",
+    "municipality": "Stanovo"
+  },
+  {
+    "city": "Mali Beograd",
+    "zip": 24309,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Mali Zvornik",
+    "zip": 15318,
+    "region": "Mačvanski okrug",
+    "municipality": "Mali Zvornik"
+  },
+  {
+    "city": "Mali Iđoš",
+    "zip": 24321,
+    "region": "Severnobački okrug",
+    "municipality": "Mali Iđoš"
+  },
+  {
+    "city": "Mali Izvor",
+    "zip": 19347,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Mali Jasenovac",
+    "zip": 19209,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Mali Požarevac",
+    "zip": 11235,
+    "region": "Grad Beograd",
+    "municipality": "Sopot"
+  },
+  {
+    "city": "Malo Krčmare",
+    "zip": 34212,
+    "region": "Šumadijski okrug",
+    "municipality": "Rača"
+  },
+  {
+    "city": "Malo Crniće",
+    "zip": 12311,
+    "region": "Braničevski okrug",
+    "municipality": "Malo Crniće"
+  },
+  {
+    "city": "Malošište",
+    "zip": 18415,
+    "region": "Nišavski okrug",
+    "municipality": "Doljevac"
+  },
+  {
+    "city": "Malča",
+    "zip": 18207,
+    "region": "Nišavski okrug",
+    "municipality": "Pantelej"
+  },
+  {
+    "city": "Manđelos",
+    "zip": 22208,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Manojlovce",
+    "zip": 16201,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Maradik",
+    "zip": 22327,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Margita",
+    "zip": 26364,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Markovac",
+    "zip": 11325,
+    "region": "Podunavski okrug",
+    "municipality": "Velika Plana"
+  },
+  {
+    "city": "Markovica",
+    "zip": 32243,
+    "region": "Moravički okrug",
+    "municipality": "Lučani"
+  },
+  {
+    "city": "Martinci",
+    "zip": 22222,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Martonoš",
+    "zip": 24417,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Maršić",
+    "zip": 34209,
+    "region": "Šumadijski okrug",
+    "municipality": "Pivara"
+  },
+  {
+    "city": "Mataruška Banja",
+    "zip": 36201,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Mačvanska Mitrovica",
+    "zip": 22202,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Mačvanski Pričinović",
+    "zip": 15211,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Mačkat",
+    "zip": 31312,
+    "region": "Zlatiborski okrug",
+    "municipality": "Čajetina"
+  },
+  {
+    "city": "Medveđa",
+    "zip": 16240,
+    "region": "Jablanički okrug",
+    "municipality": "Medveđa"
+  },
+  {
+    "city": "Medveđa",
+    "zip": 35224,
+    "region": "Pomoravski okrug",
+    "municipality": "Despotovac"
+  },
+  {
+    "city": "Medveđa",
+    "zip": 37244,
+    "region": "Rasinski okrug",
+    "municipality": "Trstenik"
+  },
+  {
+    "city": "Medoševac",
+    "zip": 18209,
+    "region": "Nišavski okrug",
+    "municipality": "Crveni Krst"
+  },
+  {
+    "city": "Međa",
+    "zip": 23234,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Međulužje",
+    "zip": 11405,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Međurečje",
+    "zip": 32255,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Melenci",
+    "zip": 23270,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Melenci-Rusanda",
+    "zip": 23269,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Meljak",
+    "zip": 11426,
+    "region": "Grad Beograd",
+    "municipality": "Barajevo"
+  },
+  {
+    "city": "Merdare",
+    "zip": 18445,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Merošina",
+    "zip": 18252,
+    "region": "Nišavski okrug",
+    "municipality": "Merošina"
+  },
+  {
+    "city": "Merćez",
+    "zip": 18436,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Metlić",
+    "zip": 15233,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Metovnica",
+    "zip": 19204,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Mijatovac",
+    "zip": 35236,
+    "region": "Pomoravski okrug",
+    "municipality": "Ćuprija"
+  },
+  {
+    "city": "Milatovac",
+    "zip": 34222,
+    "region": "Šumadijski okrug",
+    "municipality": "Batočina"
+  },
+  {
+    "city": "Milentija",
+    "zip": 37227,
+    "region": "Rasinski okrug",
+    "municipality": "Brus"
+  },
+  {
+    "city": "Miletićevo",
+    "zip": 26373,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Mileševo",
+    "zip": 21227,
+    "region": "Južnobački okrug",
+    "municipality": "Bečej"
+  },
+  {
+    "city": "Miloševac",
+    "zip": 11318,
+    "region": "Podunavski okrug",
+    "municipality": "Velika Plana"
+  },
+  {
+    "city": "Miloševo",
+    "zip": 35268,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Milutovac",
+    "zip": 37246,
+    "region": "Rasinski okrug",
+    "municipality": "Trstenik"
+  },
+  {
+    "city": "Minićevo",
+    "zip": 19340,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Mionica",
+    "zip": 14242,
+    "region": "Kolubarski okrug",
+    "municipality": "Mionica"
+  },
+  {
+    "city": "Mirosaljci",
+    "zip": 11567,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Miroševce",
+    "zip": 16204,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Mitrovac",
+    "zip": 31251,
+    "region": "Zlatiborski okrug",
+    "municipality": "Bajina Bašta"
+  },
+  {
+    "city": "Mihajlovac",
+    "zip": 11312,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Mihajlovac",
+    "zip": 19322,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Mihajlovo",
+    "zip": 23202,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Mišićevo",
+    "zip": 24211,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Mladenovac",
+    "zip": 11400,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Mladenovo",
+    "zip": 21422,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Mozgovo",
+    "zip": 18229,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Mokra Gora",
+    "zip": 31243,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Mokrin",
+    "zip": 23305,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Mol",
+    "zip": 24435,
+    "region": "Severnobanatski okrug",
+    "municipality": "Ada"
+  },
+  {
+    "city": "Molovin",
+    "zip": 22256,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Morović",
+    "zip": 22245,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Mošorin",
+    "zip": 21245,
+    "region": "Južnobački okrug",
+    "municipality": "Titel"
+  },
+  {
+    "city": "Mramor",
+    "zip": 18251,
+    "region": "Nišavski okrug",
+    "municipality": "Palilula"
+  },
+  {
+    "city": "Mramorak",
+    "zip": 26226,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovin"
+  },
+  {
+    "city": "Mrčajevci",
+    "zip": 32210,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Mršinci",
+    "zip": 32224,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Mužlja",
+    "zip": 23206,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Muhovac",
+    "zip": 17529,
+    "region": "Pčinjski okrug",
+    "municipality": "Bujanovac"
+  },
+  {
+    "city": "Nadalj",
+    "zip": 21216,
+    "region": "Južnobački okrug",
+    "municipality": "Srbobran"
+  },
+  {
+    "city": "Nakovo",
+    "zip": 23311,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Natalinci",
+    "zip": 34313,
+    "region": "Šumadijski okrug",
+    "municipality": "Topola"
+  },
+  {
+    "city": "Negotin",
+    "zip": 19300,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Neresnica",
+    "zip": 12242,
+    "region": "Braničevski okrug",
+    "municipality": "Kučevo"
+  },
+  {
+    "city": "Neuzina",
+    "zip": 23245,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Neštin",
+    "zip": 21314,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Nikinci",
+    "zip": 22422,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Nikolinci",
+    "zip": 26322,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Nikoličevo",
+    "zip": 19311,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Niš",
+    "zip": 18000,
+    "region": "Nišavski okrug",
+    "municipality": "Niš"
+  },
+  {
+    "city": "Niševac",
+    "zip": 18366,
+    "region": "Nišavski okrug",
+    "municipality": "Svrljig"
+  },
+  {
+    "city": "Niška Banja",
+    "zip": 18205,
+    "region": "Nišavski okrug",
+    "municipality": "Niška Banja"
+  },
+  {
+    "city": "Nova Varoš",
+    "zip": 31320,
+    "region": "Zlatiborski okrug",
+    "municipality": "Nova Varoš"
+  },
+  {
+    "city": "Nova Gajdobra",
+    "zip": 21431,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Nova Pazova",
+    "zip": 22330,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Nova Crvenka",
+    "zip": 25224,
+    "region": "Zapadnobački okrug",
+    "municipality": "Kula"
+  },
+  {
+    "city": "Nova Crnja",
+    "zip": 23218,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Nova Crnja"
+  },
+  {
+    "city": "Novi Banovci",
+    "zip": 22304,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Novi Bečej",
+    "zip": 23272,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Novi Bečej"
+  },
+  {
+    "city": "Novi Bračin",
+    "zip": 37216,
+    "region": "Nišavski okrug",
+    "municipality": "Ražanj"
+  },
+  {
+    "city": "Novi Žednik",
+    "zip": 24223,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Novi Itebej",
+    "zip": 23236,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Novi Karlovci",
+    "zip": 22322,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Novi Kneževac",
+    "zip": 23330,
+    "region": "Severnobanatski okrug",
+    "municipality": "Novi Kneževac"
+  },
+  {
+    "city": "Novi Kozarci",
+    "zip": 23313,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Novi Kozjak",
+    "zip": 26353,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Novi Pazar",
+    "zip": 36300,
+    "region": "Raški okrug",
+    "municipality": "Novi Pazar"
+  },
+  {
+    "city": "Novi Sad",
+    "zip": 21000,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Novi Slankamen",
+    "zip": 22323,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Novo Miloševo",
+    "zip": 23273,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Novi Bečej"
+  },
+  {
+    "city": "Novo Orahovo",
+    "zip": 24351,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Novo Selo",
+    "zip": 18250,
+    "region": "Nišavski okrug",
+    "municipality": "Palilula"
+  },
+  {
+    "city": "Novo Selo",
+    "zip": 36216,
+    "region": "Raški okrug",
+    "municipality": "Vrnjačka Banja"
+  },
+  {
+    "city": "Noćaj",
+    "zip": 22203,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Obrež",
+    "zip": 22417,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Obrež",
+    "zip": 37266,
+    "region": "Rasinski okrug",
+    "municipality": "Varvarin"
+  },
+  {
+    "city": "Obrenovac",
+    "zip": 11500,
+    "region": "Grad Beograd",
+    "municipality": "Obrenovac"
+  },
+  {
+    "city": "Obrovac",
+    "zip": 21423,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Ovčar Banja",
+    "zip": 32242,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Ogar",
+    "zip": 22416,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Omoljica",
+    "zip": 26230,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Oparić",
+    "zip": 35267,
+    "region": "Pomoravski okrug",
+    "municipality": "Rekovac"
+  },
+  {
+    "city": "Opovo",
+    "zip": 26204,
+    "region": "Južnobanatski okrug",
+    "municipality": "Opovo"
+  },
+  {
+    "city": "Orane",
+    "zip": 16233,
+    "region": "Jablanički okrug",
+    "municipality": "Bojnik"
+  },
+  {
+    "city": "Orašac",
+    "zip": 34308,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Oreškovica",
+    "zip": 12308,
+    "region": "Braničevski okrug",
+    "municipality": "Petrovac"
+  },
+  {
+    "city": "Orid",
+    "zip": 15213,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Orlovat",
+    "zip": 23263,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Orom",
+    "zip": 24207,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Osanica",
+    "zip": 12317,
+    "region": "Braničevski okrug",
+    "municipality": "Žagubica"
+  },
+  {
+    "city": "Osečina",
+    "zip": 14253,
+    "region": "Kolubarski okrug",
+    "municipality": "Osečina"
+  },
+  {
+    "city": "Osipaonica",
+    "zip": 11314,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Ostojićevo",
+    "zip": 23326,
+    "region": "Severnobanatski okrug",
+    "municipality": "Čoka"
+  },
+  {
+    "city": "Ostrovica",
+    "zip": 18312,
+    "region": "Nišavski okrug",
+    "municipality": "Niška Banja"
+  },
+  {
+    "city": "Ostružnica",
+    "zip": 11251,
+    "region": "Grad Beograd",
+    "municipality": "Čukarica"
+  },
+  {
+    "city": "Odžaci",
+    "zip": 25250,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Oštrelj",
+    "zip": 19226,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Pavliš",
+    "zip": 26333,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Padež",
+    "zip": 37257,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Padej",
+    "zip": 23325,
+    "region": "Severnobanatski okrug",
+    "municipality": "Čoka"
+  },
+  {
+    "city": "Padina",
+    "zip": 26215,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovačica"
+  },
+  {
+    "city": "Palić",
+    "zip": 24413,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Pambukovica",
+    "zip": 14213,
+    "region": "Kolubarski okrug",
+    "municipality": "Ub"
+  },
+  {
+    "city": "Panonija",
+    "zip": 24330,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Pančevo",
+    "zip": 26000,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Parage",
+    "zip": 21434,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Paraćin",
+    "zip": 35250,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Parteš",
+    "zip": 38251,
+    "region": "Kosovskopomoravski okrug",
+    "municipality": "Gnjilane"
+  },
+  {
+    "city": "Parunovac",
+    "zip": 37201,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Pasjane",
+    "zip": 38266,
+    "region": "Kosovskopomoravski okrug",
+    "municipality": "Gnjilane"
+  },
+  {
+    "city": "Pačir",
+    "zip": 24342,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Pejkovac",
+    "zip": 18413,
+    "region": "Toplički okrug",
+    "municipality": "Žitorađa"
+  },
+  {
+    "city": "Pepeljevac",
+    "zip": 37231,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Perlez",
+    "zip": 23260,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Perućac",
+    "zip": 31256,
+    "region": "Zlatiborski okrug",
+    "municipality": "Bajina Bašta"
+  },
+  {
+    "city": "Petlovača",
+    "zip": 15304,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Petrovaradin",
+    "zip": 21131,
+    "region": "Južnobački okrug",
+    "municipality": "Petrovaradin"
+  },
+  {
+    "city": "Petrovac",
+    "zip": 12300,
+    "region": "Braničevski okrug",
+    "municipality": "Petrovac na Mlavi"
+  },
+  {
+    "city": "Pećinci",
+    "zip": 22410,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Pecka",
+    "zip": 14207,
+    "region": "Kolubarski okrug",
+    "municipality": "Osečina"
+  },
+  {
+    "city": "Pečenjevce",
+    "zip": 16251,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Pivnice",
+    "zip": 21469,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Pinosava",
+    "zip": 11226,
+    "region": "Grad Beograd",
+    "municipality": "Voždovac"
+  },
+  {
+    "city": "Pirot",
+    "zip": 18300,
+    "region": "Pirotski okrug",
+    "municipality": "Opština Pirot"
+  },
+  {
+    "city": "Plavna",
+    "zip": 19307,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Plavna",
+    "zip": 21428,
+    "region": "Južnobački okrug",
+    "municipality": "Bač"
+  },
+  {
+    "city": "Plažane",
+    "zip": 35212,
+    "region": "Pomoravski okrug",
+    "municipality": "Despotovac"
+  },
+  {
+    "city": "Plana",
+    "zip": 35247,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Plandište",
+    "zip": 26360,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Platičevo",
+    "zip": 22420,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Plemetina",
+    "zip": 38211,
+    "region": "Kosovski okrug",
+    "municipality": "Obilić"
+  },
+  {
+    "city": "Pleš",
+    "zip": 37238,
+    "region": "Rasinski okrug",
+    "municipality": "Aleksandrovac"
+  },
+  {
+    "city": "Pločica",
+    "zip": 26229,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovin"
+  },
+  {
+    "city": "Pobeda",
+    "zip": 24313,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Poganovo",
+    "zip": 18326,
+    "region": "Pirotski okrug",
+    "municipality": "Dimitrovgrad"
+  },
+  {
+    "city": "Podvis",
+    "zip": 19362,
+    "region": "Zaječarski okrug",
+    "municipality": "Knjaževac"
+  },
+  {
+    "city": "Podvrška",
+    "zip": 19321,
+    "region": "Borski okrug",
+    "municipality": "Kladovo"
+  },
+  {
+    "city": "Podgorac",
+    "zip": 19233,
+    "region": "Zaječarski okrug",
+    "municipality": "Boljevac"
+  },
+  {
+    "city": "Podunavci",
+    "zip": 36215,
+    "region": "Raški okrug",
+    "municipality": "Vrnjačka Banja"
+  },
+  {
+    "city": "Požarevac",
+    "zip": 12000,
+    "region": "Braničevski okrug",
+    "municipality": "Požarevac"
+  },
+  {
+    "city": "Požega",
+    "zip": 31210,
+    "region": "Zlatiborski okrug",
+    "municipality": "Požega"
+  },
+  {
+    "city": "Pojate",
+    "zip": 37214,
+    "region": "Rasinski okrug",
+    "municipality": "Ćićevac"
+  },
+  {
+    "city": "Poljana",
+    "zip": 12372,
+    "region": "Braničevski okrug",
+    "municipality": "Požarevac"
+  },
+  {
+    "city": "Poljska Ržana",
+    "zip": 18328,
+    "region": "Pirotski okrug",
+    "municipality": "Pirot"
+  },
+  {
+    "city": "Popinci",
+    "zip": 22428,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Popovac",
+    "zip": 35254,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Popučke",
+    "zip": 14221,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Porodin",
+    "zip": 12375,
+    "region": "Braničevski okrug",
+    "municipality": "Žabari"
+  },
+  {
+    "city": "Potočac",
+    "zip": 35207,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Poćuta",
+    "zip": 14206,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Počekovina",
+    "zip": 37243,
+    "region": "Rasinski okrug",
+    "municipality": "Trstenik"
+  },
+  {
+    "city": "Pranjani",
+    "zip": 32308,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Prahovo",
+    "zip": 19330,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Prevešt",
+    "zip": 35264,
+    "region": "Pomoravski okrug",
+    "municipality": "Rekovac"
+  },
+  {
+    "city": "Predejane",
+    "zip": 16222,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Prekonoga",
+    "zip": 18365,
+    "region": "Nišavski okrug",
+    "municipality": "Svrljig"
+  },
+  {
+    "city": "Preljina",
+    "zip": 32212,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Preševo",
+    "zip": 17523,
+    "region": "Pčinjski okrug",
+    "municipality": "Preševo"
+  },
+  {
+    "city": "Preševo-terminal",
+    "zip": 17555,
+    "region": "Pčinjski okrug",
+    "municipality": "Preševo"
+  },
+  {
+    "city": "Priboj",
+    "zip": 31330,
+    "region": "Zlatiborski okrug",
+    "municipality": "Priboj"
+  },
+  {
+    "city": "Priboj Vranjski",
+    "zip": 17511,
+    "region": "Pčinjski okrug",
+    "municipality": "Vladičin Han"
+  },
+  {
+    "city": "Privina Glava",
+    "zip": 22257,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Prigrevica",
+    "zip": 25263,
+    "region": "Zapadnobački okrug",
+    "municipality": "Apatin"
+  },
+  {
+    "city": "Prijepolje",
+    "zip": 31300,
+    "region": "Zlatiborski okrug",
+    "municipality": "Prijepolje"
+  },
+  {
+    "city": "Prilički Kiseljak",
+    "zip": 32252,
+    "region": "Moravički okrug",
+    "municipality": "Ivanjica"
+  },
+  {
+    "city": "Prilužje",
+    "zip": 38213,
+    "region": "Kosovski okrug",
+    "municipality": "Vučitrn"
+  },
+  {
+    "city": "Pričević",
+    "zip": 14251,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Prnjavor (Mačvanski)",
+    "zip": 15306,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Provo",
+    "zip": 15215,
+    "region": "Mačvanski okrug",
+    "municipality": "Vladimirci"
+  },
+  {
+    "city": "Prokuplje",
+    "zip": 18400,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Prolom Banja",
+    "zip": 18433,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Pružatovac",
+    "zip": 11413,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Prhovo",
+    "zip": 22442,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Pukovac",
+    "zip": 18255,
+    "region": "Nišavski okrug",
+    "municipality": "Doljevac"
+  },
+  {
+    "city": "Putinci",
+    "zip": 22404,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Rabrovo",
+    "zip": 12254,
+    "region": "Braničevski okrug",
+    "municipality": "Kučevo"
+  },
+  {
+    "city": "Ravna Dubrava",
+    "zip": 18246,
+    "region": "Nišavski okrug",
+    "municipality": "Gadžin Han"
+  },
+  {
+    "city": "Ravni Topolovac",
+    "zip": 23212,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Ravni",
+    "zip": 31206,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Ravno Selo",
+    "zip": 21471,
+    "region": "Južnobački okrug",
+    "municipality": "Vrbas"
+  },
+  {
+    "city": "Ravnje",
+    "zip": 22205,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Radalj",
+    "zip": 15321,
+    "region": "Mačvanski okrug",
+    "municipality": "Mali Zvornik"
+  },
+  {
+    "city": "Radinac",
+    "zip": 11311,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Radičević",
+    "zip": 21225,
+    "region": "Južnobački okrug",
+    "municipality": "Bečej"
+  },
+  {
+    "city": "Radljevo",
+    "zip": 14211,
+    "region": "Kolubarski okrug",
+    "municipality": "Ub"
+  },
+  {
+    "city": "Radovnica",
+    "zip": 17561,
+    "region": "Pčinjski okrug",
+    "municipality": "Trgovište"
+  },
+  {
+    "city": "Radojevo",
+    "zip": 23221,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Nova Crnja"
+  },
+  {
+    "city": "Radujevac",
+    "zip": 19334,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Ražana",
+    "zip": 31265,
+    "region": "Zlatiborski okrug",
+    "municipality": "Kosjerić"
+  },
+  {
+    "city": "Ražanj",
+    "zip": 37215,
+    "region": "Nišavski okrug",
+    "municipality": "Ražanj"
+  },
+  {
+    "city": "Razbojna",
+    "zip": 37223,
+    "region": "Rasinski okrug",
+    "municipality": "Brus"
+  },
+  {
+    "city": "Razgojna",
+    "zip": 16252,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Rainovača",
+    "zip": 15342,
+    "region": "Mačvanski okrug",
+    "municipality": "Ljubovija"
+  },
+  {
+    "city": "Rajković",
+    "zip": 14202,
+    "region": "Kolubarski okrug",
+    "municipality": "Mionica"
+  },
+  {
+    "city": "Rakovac",
+    "zip": 21299,
+    "region": "Južnobački okrug",
+    "municipality": "Beočin"
+  },
+  {
+    "city": "Ralja",
+    "zip": 11233,
+    "region": "Grad Beograd",
+    "municipality": "Sopot"
+  },
+  {
+    "city": "Ranilović",
+    "zip": 34302,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Ranilug",
+    "zip": 38267,
+    "region": "Kosovskopomoravski okrug",
+    "municipality": "Kosovska Kamenica"
+  },
+  {
+    "city": "Ranovac",
+    "zip": 12304,
+    "region": "Braničevski okrug",
+    "municipality": "Petrovac"
+  },
+  {
+    "city": "Rastina",
+    "zip": 25283,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Rataje",
+    "zip": 37236,
+    "region": "Rasinski okrug",
+    "municipality": "Aleksandrovac"
+  },
+  {
+    "city": "Ratari",
+    "zip": 11411,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevska Palanka"
+  },
+  {
+    "city": "Ratina",
+    "zip": 36212,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Ratkovo",
+    "zip": 25253,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Rača Kragujevačka",
+    "zip": 34210,
+    "region": "Šumadijski okrug",
+    "municipality": "Rača"
+  },
+  {
+    "city": "Rača",
+    "zip": 18440,
+    "region": "Toplički okrug",
+    "municipality": "Kuršumlija"
+  },
+  {
+    "city": "Rašanac",
+    "zip": 12315,
+    "region": "Braničevski okrug",
+    "municipality": "Petrovac na Mlavi"
+  },
+  {
+    "city": "Raševica",
+    "zip": 35206,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Raška",
+    "zip": 36350,
+    "region": "Raški okrug",
+    "municipality": "Raška"
+  },
+  {
+    "city": "Rgotina",
+    "zip": 19214,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Rekovac",
+    "zip": 35260,
+    "region": "Pomoravski okrug",
+    "municipality": "Rekovac"
+  },
+  {
+    "city": "Resavica",
+    "zip": 35237,
+    "region": "Pomoravski okrug",
+    "municipality": "Despotovac"
+  },
+  {
+    "city": "Resnik",
+    "zip": 34225,
+    "region": "Šumadijski okrug",
+    "municipality": "Aerodrom"
+  },
+  {
+    "city": "Ribare",
+    "zip": 35220,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Ribari",
+    "zip": 15310,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Ribariće",
+    "zip": 36309,
+    "region": "Raški okrug",
+    "municipality": "Tutin"
+  },
+  {
+    "city": "Ribarska Banja",
+    "zip": 37205,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Riđica",
+    "zip": 25280,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Ripanj",
+    "zip": 11232,
+    "region": "Grad Beograd",
+    "municipality": "Voždovac"
+  },
+  {
+    "city": "Ristovac",
+    "zip": 17521,
+    "region": "Pčinjski okrug",
+    "municipality": "Vranje"
+  },
+  {
+    "city": "Rogača",
+    "zip": 11453,
+    "region": "Grad Beograd",
+    "municipality": "Sopot"
+  },
+  {
+    "city": "Rogačica",
+    "zip": 31255,
+    "region": "Zlatiborski okrug",
+    "municipality": "Bajina Bašta"
+  },
+  {
+    "city": "Roge",
+    "zip": 31237,
+    "region": "Zlatiborski okrug",
+    "municipality": "Požega"
+  },
+  {
+    "city": "Rogljevo",
+    "zip": 19318,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Rožanstvo",
+    "zip": 31208,
+    "region": "Zlatiborski okrug",
+    "municipality": "Čajetina"
+  },
+  {
+    "city": "Roćevići",
+    "zip": 36205,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Rudna Glava",
+    "zip": 19257,
+    "region": "Borski okrug",
+    "municipality": "Majdanpek"
+  },
+  {
+    "city": "Rudnik",
+    "zip": 32313,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Rudnica",
+    "zip": 36353,
+    "region": "Raški okrug",
+    "municipality": "Raška"
+  },
+  {
+    "city": "Rudno",
+    "zip": 36222,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Rudovci",
+    "zip": 11566,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Ruma",
+    "zip": 22400,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Rumenka",
+    "zip": 21201,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Ruski Krstur",
+    "zip": 25233,
+    "region": "Zapadnobački okrug",
+    "municipality": "Kula"
+  },
+  {
+    "city": "Rusko Selo",
+    "zip": 23314,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Rutevac",
+    "zip": 18224,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Rušanj",
+    "zip": 11194,
+    "region": "Grad Beograd",
+    "municipality": "Čukarica"
+  },
+  {
+    "city": "Savinac",
+    "zip": 19377,
+    "region": "Zaječarski okrug",
+    "municipality": "Boljevac"
+  },
+  {
+    "city": "Savino Selo",
+    "zip": 21467,
+    "region": "Južnobački okrug",
+    "municipality": "Vrbas"
+  },
+  {
+    "city": "Sajan",
+    "zip": 23324,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kikinda"
+  },
+  {
+    "city": "Sakule",
+    "zip": 26206,
+    "region": "Južnobanatski okrug",
+    "municipality": "Opovo"
+  },
+  {
+    "city": "Salaš Noćajski",
+    "zip": 22204,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Salaš",
+    "zip": 19224,
+    "region": "Zaječarski okrug",
+    "municipality": "Zaječar"
+  },
+  {
+    "city": "Samaila",
+    "zip": 36202,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Samoš",
+    "zip": 26350,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovačica"
+  },
+  {
+    "city": "Sanad",
+    "zip": 23331,
+    "region": "Severnobanatski okrug",
+    "municipality": "Čoka"
+  },
+  {
+    "city": "Saraorci",
+    "zip": 11315,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Sastav Reka",
+    "zip": 16213,
+    "region": "Jablanički okrug",
+    "municipality": "Crna Trava"
+  },
+  {
+    "city": "Sastavci",
+    "zip": 31335,
+    "region": "Zlatiborski okrug",
+    "municipality": "Priboj"
+  },
+  {
+    "city": "Sveti Ilija",
+    "zip": 17508,
+    "region": "Pčinjski okrug",
+    "municipality": "Vranje"
+  },
+  {
+    "city": "Svetozar Miletić",
+    "zip": 25211,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Svilajnac",
+    "zip": 35210,
+    "region": "Pomoravski okrug",
+    "municipality": "Svilajnac"
+  },
+  {
+    "city": "Svileuva",
+    "zip": 15221,
+    "region": "Mačvanski okrug",
+    "municipality": "Koceljeva"
+  },
+  {
+    "city": "Svilojevo",
+    "zip": 25265,
+    "region": "Zapadnobački okrug",
+    "municipality": "Apatin"
+  },
+  {
+    "city": "Svođe",
+    "zip": 16212,
+    "region": "Jablanički okrug",
+    "municipality": "Vlasotince"
+  },
+  {
+    "city": "Svojnovo",
+    "zip": 35259,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Svrljig",
+    "zip": 18360,
+    "region": "Nišavski okrug",
+    "municipality": "Svrljig"
+  },
+  {
+    "city": "Sevojno",
+    "zip": 31205,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Sedlare",
+    "zip": 35211,
+    "region": "Pomoravski okrug",
+    "municipality": "Svilajnac"
+  },
+  {
+    "city": "Selevac",
+    "zip": 11407,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevska Palanka"
+  },
+  {
+    "city": "Selenča",
+    "zip": 21425,
+    "region": "Južnobački okrug",
+    "municipality": "Bač"
+  },
+  {
+    "city": "Seleuš",
+    "zip": 26351,
+    "region": "Južnobanatski okrug",
+    "municipality": "Alibunar"
+  },
+  {
+    "city": "Senta",
+    "zip": 24400,
+    "region": "Severnobanatski okrug",
+    "municipality": "Senta"
+  },
+  {
+    "city": "Senje",
+    "zip": 35233,
+    "region": "Pomoravski okrug",
+    "municipality": "Ćuprija"
+  },
+  {
+    "city": "Senjski Rudnik",
+    "zip": 35234,
+    "region": "Pomoravski okrug",
+    "municipality": "Despotovac"
+  },
+  {
+    "city": "Sefkerin",
+    "zip": 26203,
+    "region": "Južnobanatski okrug",
+    "municipality": "Opovo"
+  },
+  {
+    "city": "Seča Reka",
+    "zip": 31262,
+    "region": "Zlatiborski okrug",
+    "municipality": "Kosjerić"
+  },
+  {
+    "city": "Sečanica",
+    "zip": 18203,
+    "region": "Nišavski okrug",
+    "municipality": "Crveni Krst"
+  },
+  {
+    "city": "Sečanj",
+    "zip": 23240,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Sibač",
+    "zip": 22440,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Sivac",
+    "zip": 25223,
+    "region": "Zapadnobački okrug",
+    "municipality": "Kula"
+  },
+  {
+    "city": "Sijarinska Banja",
+    "zip": 16246,
+    "region": "Jablanički okrug",
+    "municipality": "Medveđa"
+  },
+  {
+    "city": "Sikirica",
+    "zip": 35256,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Sikole",
+    "zip": 19225,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Silbaš",
+    "zip": 21433,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Siokovac",
+    "zip": 35203,
+    "region": "Pomoravski okrug",
+    "municipality": "Jagodina"
+  },
+  {
+    "city": "Sip",
+    "zip": 19326,
+    "region": "Borski okrug",
+    "municipality": "Kladovo"
+  },
+  {
+    "city": "Sipić",
+    "zip": 34213,
+    "region": "Šumadijski okrug",
+    "municipality": "Rača"
+  },
+  {
+    "city": "Sirig",
+    "zip": 21214,
+    "region": "Južnobački okrug",
+    "municipality": "Temerin"
+  },
+  {
+    "city": "Sirogojno",
+    "zip": 31207,
+    "region": "Zlatiborski okrug",
+    "municipality": "Čajetina"
+  },
+  {
+    "city": "Sirča",
+    "zip": 36208,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Sićevo",
+    "zip": 18311,
+    "region": "Nišavski okrug",
+    "municipality": "Grad Niš"
+  },
+  {
+    "city": "Sjenica",
+    "zip": 36310,
+    "region": "Zlatiborski okrug",
+    "municipality": "Sjenica"
+  },
+  {
+    "city": "Skela",
+    "zip": 11509,
+    "region": "Grad Beograd",
+    "municipality": "Obrenovac"
+  },
+  {
+    "city": "Skobalj",
+    "zip": 11322,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Skorenovac",
+    "zip": 26228,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovin"
+  },
+  {
+    "city": "Slavkovica",
+    "zip": 14245,
+    "region": "Kolubarski okrug",
+    "municipality": "Ljig"
+  },
+  {
+    "city": "Slatina",
+    "zip": 19221,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Slovac",
+    "zip": 14223,
+    "region": "Kolubarski okrug",
+    "municipality": "Lajkovac"
+  },
+  {
+    "city": "Smederevska Palanka",
+    "zip": 11420,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevska Palanka"
+  },
+  {
+    "city": "Smederevo",
+    "zip": 11300,
+    "region": "Podunavski okrug",
+    "municipality": "Smederevo"
+  },
+  {
+    "city": "Smilovci",
+    "zip": 18323,
+    "region": "Pirotski okrug",
+    "municipality": "Dimitrovgrad"
+  },
+  {
+    "city": "Smoljinac",
+    "zip": 12312,
+    "region": "Braničevski okrug",
+    "municipality": "Malo Crniće"
+  },
+  {
+    "city": "Sokobanja",
+    "zip": 18230,
+    "region": "Zaječarski okrug",
+    "municipality": "Sokobanja"
+  },
+  {
+    "city": "Sombor",
+    "zip": 25000,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Sonta",
+    "zip": 25264,
+    "region": "Zapadnobački okrug",
+    "municipality": "Apatin"
+  },
+  {
+    "city": "Sopot",
+    "zip": 11450,
+    "region": "Grad Beograd",
+    "municipality": "Sopot"
+  },
+  {
+    "city": "Sot",
+    "zip": 22243,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Sočanica",
+    "zip": 38217,
+    "region": "Kosovskomitrovački okrug",
+    "municipality": "Leposavić"
+  },
+  {
+    "city": "Sremska Mitrovica",
+    "zip": 22000,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Srbobran",
+    "zip": 21480,
+    "region": "Južnobački okrug",
+    "municipality": "Srbobran"
+  },
+  {
+    "city": "Srednjevo",
+    "zip": 12253,
+    "region": "Braničevski okrug",
+    "municipality": "Veliko Gradište"
+  },
+  {
+    "city": "Sremska Kamenica",
+    "zip": 21202,
+    "region": "Južnobački okrug",
+    "municipality": "Petrovaradin"
+  },
+  {
+    "city": "Sremska Rača",
+    "zip": 22247,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Sremski Karlovci",
+    "zip": 21205,
+    "region": "Južnobački okrug",
+    "municipality": "Sremski Karlovci"
+  },
+  {
+    "city": "Sremski Mihaljevci",
+    "zip": 22413,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Sremčica",
+    "zip": 11253,
+    "region": "Grad Beograd",
+    "municipality": "Čukarica"
+  },
+  {
+    "city": "Srpska Crnja",
+    "zip": 23220,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Nova Crnja"
+  },
+  {
+    "city": "Srpski Itebej",
+    "zip": 23233,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Srpski Krstur",
+    "zip": 23334,
+    "region": "Severnobanatski okrug",
+    "municipality": "Novi Kneževac"
+  },
+  {
+    "city": "Srpski Miletić",
+    "zip": 25244,
+    "region": "Zapadnobački okrug",
+    "municipality": "Odžaci"
+  },
+  {
+    "city": "Stave",
+    "zip": 14255,
+    "region": "Kolubarski okrug",
+    "municipality": "Valjevo"
+  },
+  {
+    "city": "Stajićevo",
+    "zip": 23204,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Stalać",
+    "zip": 37212,
+    "region": "Rasinski okrug",
+    "municipality": "Ćićevac"
+  },
+  {
+    "city": "Stanišić",
+    "zip": 25284,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Stapar",
+    "zip": 25240,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Stara Moravica",
+    "zip": 24340,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Stara Pazova",
+    "zip": 22300,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Stari Banovci",
+    "zip": 22305,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Stari Žednik",
+    "zip": 24224,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Stari Lec",
+    "zip": 26371,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Stari Slankamen",
+    "zip": 22329,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Staro Selo",
+    "zip": 11324,
+    "region": "Podunavski okrug",
+    "municipality": "Velika Plana"
+  },
+  {
+    "city": "Starčevo",
+    "zip": 26232,
+    "region": "Južnobanatski okrug",
+    "municipality": "Pančevo"
+  },
+  {
+    "city": "Stejanovci",
+    "zip": 22405,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Stenjevac",
+    "zip": 35215,
+    "region": "Pomoravski okrug",
+    "municipality": "Despotovac"
+  },
+  {
+    "city": "Stepanovićevo",
+    "zip": 21212,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Stepojevac",
+    "zip": 11564,
+    "region": "Grad Beograd",
+    "municipality": "Lazarevac"
+  },
+  {
+    "city": "Stojnik",
+    "zip": 34307,
+    "region": "Šumadijski okrug",
+    "municipality": "Aranđelovac"
+  },
+  {
+    "city": "Stopanja",
+    "zip": 37242,
+    "region": "Rasinski okrug",
+    "municipality": "Trstenik"
+  },
+  {
+    "city": "Stragari",
+    "zip": 34323,
+    "region": "Šumadijski okrug",
+    "municipality": "Stragari"
+  },
+  {
+    "city": "Straža",
+    "zip": 26345,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Strelac",
+    "zip": 18332,
+    "region": "Pirotski okrug",
+    "municipality": "Babušnica"
+  },
+  {
+    "city": "Stubal",
+    "zip": 17512,
+    "region": "Pčinjski okrug",
+    "municipality": "Vladičin Han"
+  },
+  {
+    "city": "Stubica",
+    "zip": 35246,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Stubline",
+    "zip": 11507,
+    "region": "Grad Beograd",
+    "municipality": "Obrenovac"
+  },
+  {
+    "city": "Studenica",
+    "zip": 36343,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Subotinac",
+    "zip": 18227,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Subotica (kod Svijanca)",
+    "zip": 35209,
+    "region": "Pomoravski okrug",
+    "municipality": "Svilajnac"
+  },
+  {
+    "city": "Subotica",
+    "zip": 24000,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Subotište",
+    "zip": 22414,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Sukovo",
+    "zip": 18322,
+    "region": "Pirotski okrug",
+    "municipality": "Pirot"
+  },
+  {
+    "city": "Sumrakovac",
+    "zip": 19376,
+    "region": "Zaječarski okrug",
+    "municipality": "Boljevac"
+  },
+  {
+    "city": "Supska",
+    "zip": 35228,
+    "region": "Pomoravski okrug",
+    "municipality": "Ćuprija"
+  },
+  {
+    "city": "Surduk",
+    "zip": 22307,
+    "region": "Sremski okrug",
+    "municipality": "Stara Pazova"
+  },
+  {
+    "city": "Surdulica",
+    "zip": 17530,
+    "region": "Pčinjski okrug",
+    "municipality": "Surdulica"
+  },
+  {
+    "city": "Susek",
+    "zip": 21313,
+    "region": "Južnobački okrug",
+    "municipality": "Beočin"
+  },
+  {
+    "city": "Sutjeska",
+    "zip": 23244,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Tavankut",
+    "zip": 24214,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Takovo",
+    "zip": 32304,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Taraš",
+    "zip": 23209,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Tekeriš",
+    "zip": 15234,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Tekija",
+    "zip": 19325,
+    "region": "Borski okrug",
+    "municipality": "Kladovo"
+  },
+  {
+    "city": "Telečka",
+    "zip": 25222,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Temerin",
+    "zip": 21235,
+    "region": "Južnobački okrug",
+    "municipality": "Temerin"
+  },
+  {
+    "city": "Temska",
+    "zip": 18355,
+    "region": "Pirotski okrug",
+    "municipality": "Pirot"
+  },
+  {
+    "city": "Tešica",
+    "zip": 18212,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Titel",
+    "zip": 21240,
+    "region": "Južnobački okrug",
+    "municipality": "Titel"
+  },
+  {
+    "city": "Toba",
+    "zip": 23222,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Nova Crnja"
+  },
+  {
+    "city": "Tovariševo",
+    "zip": 21424,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Tomaševac",
+    "zip": 23262,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Tomislavci",
+    "zip": 24334,
+    "region": "Severnobački okrug",
+    "municipality": "Bačka Topola"
+  },
+  {
+    "city": "Topola",
+    "zip": 34310,
+    "region": "Šumadijski okrug",
+    "municipality": "Topola"
+  },
+  {
+    "city": "Topolovnik",
+    "zip": 12226,
+    "region": "Braničevski okrug",
+    "municipality": "Veliko Gradište"
+  },
+  {
+    "city": "Toponica",
+    "zip": 34243,
+    "region": "Šumadijski okrug",
+    "municipality": "Knić"
+  },
+  {
+    "city": "Torak",
+    "zip": 23232,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Torda",
+    "zip": 23214,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Tornjoš",
+    "zip": 24352,
+    "region": "Severnobanatski okrug",
+    "municipality": "Senta"
+  },
+  {
+    "city": "Totovo Selo",
+    "zip": 24427,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Trbušani",
+    "zip": 32205,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Trgovište",
+    "zip": 17525,
+    "region": "Pčinjski okrug",
+    "municipality": "Trgovište"
+  },
+  {
+    "city": "Trešnjevac",
+    "zip": 24426,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Trešnjevica",
+    "zip": 35248,
+    "region": "Pomoravski okrug",
+    "municipality": "Paraćin"
+  },
+  {
+    "city": "Trnavci",
+    "zip": 37235,
+    "region": "Rasinski okrug",
+    "municipality": "Aleksandrovac"
+  },
+  {
+    "city": "Trnjane",
+    "zip": 18213,
+    "region": "Nišavski okrug",
+    "municipality": "Aleksinac"
+  },
+  {
+    "city": "Trnjane",
+    "zip": 19306,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Trstenik",
+    "zip": 37240,
+    "region": "Rasinski okrug",
+    "municipality": "Trstenik"
+  },
+  {
+    "city": "Trupale",
+    "zip": 18211,
+    "region": "Nišavski okrug",
+    "municipality": "Crveni Krst"
+  },
+  {
+    "city": "Tršić",
+    "zip": 15303,
+    "region": "Mačvanski okrug",
+    "municipality": "Loznica"
+  },
+  {
+    "city": "Tulare",
+    "zip": 16247,
+    "region": "Jablanički okrug",
+    "municipality": "Medveđa"
+  },
+  {
+    "city": "Turekovac",
+    "zip": 16231,
+    "region": "Jablanički okrug",
+    "municipality": "Leskovac"
+  },
+  {
+    "city": "Turija",
+    "zip": 12257,
+    "region": "Braničevski okrug",
+    "municipality": "Kučevo"
+  },
+  {
+    "city": "Turija",
+    "zip": 21215,
+    "region": "Južnobački okrug",
+    "municipality": "Srbobran"
+  },
+  {
+    "city": "Tutin",
+    "zip": 36320,
+    "region": "Raški okrug",
+    "municipality": "Tutin"
+  },
+  {
+    "city": "Ćićevac",
+    "zip": 37210,
+    "region": "Rasinski okrug",
+    "municipality": "Ćićevac"
+  },
+  {
+    "city": "Ćuprija",
+    "zip": 35230,
+    "region": "Pomoravski okrug",
+    "municipality": "Ćuprija"
+  },
+  {
+    "city": "Ub",
+    "zip": 14210,
+    "region": "Kolubarski okrug",
+    "municipality": "Ub"
+  },
+  {
+    "city": "Ugao",
+    "zip": 36313,
+    "region": "Zlatiborski okrug",
+    "municipality": "Sjenica"
+  },
+  {
+    "city": "Ugrinovci",
+    "zip": 32314,
+    "region": "Moravički okrug",
+    "municipality": "Gornji Milanovac"
+  },
+  {
+    "city": "Užice",
+    "zip": 31000,
+    "region": "Zlatiborski okrug",
+    "municipality": "Užice"
+  },
+  {
+    "city": "Uzdin",
+    "zip": 26216,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovačica"
+  },
+  {
+    "city": "Uzovnica",
+    "zip": 15319,
+    "region": "Mačvanski okrug",
+    "municipality": "Ljubovija"
+  },
+  {
+    "city": "Uljma",
+    "zip": 26330,
+    "region": "Južnobanatski okrug",
+    "municipality": "Vršac"
+  },
+  {
+    "city": "Umka",
+    "zip": 11260,
+    "region": "Grad Beograd",
+    "municipality": "Čukarica"
+  },
+  {
+    "city": "Urovica",
+    "zip": 19305,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Utrine",
+    "zip": 24437,
+    "region": "Severnobanatski okrug",
+    "municipality": "Ada"
+  },
+  {
+    "city": "Ušće",
+    "zip": 36342,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Farkaždin",
+    "zip": 23264,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Feketić",
+    "zip": 24323,
+    "region": "Severnobački okrug",
+    "municipality": "Mali Iđoš"
+  },
+  {
+    "city": "Futog",
+    "zip": 21410,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Hajdukovo",
+    "zip": 24414,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Hajdučica",
+    "zip": 26370,
+    "region": "Južnobanatski okrug",
+    "municipality": "Plandište"
+  },
+  {
+    "city": "Hetin",
+    "zip": 23235,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Horgoš",
+    "zip": 24410,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Horgoš granični prelaz",
+    "zip": 24411,
+    "region": "Severnobanatski okrug",
+    "municipality": "Kanjiža"
+  },
+  {
+    "city": "Hrtkovci",
+    "zip": 22427,
+    "region": "Sremski okrug",
+    "municipality": "Ruma"
+  },
+  {
+    "city": "Cerovac",
+    "zip": 15224,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Crvena Reka",
+    "zip": 18313,
+    "region": "Pirotski okrug",
+    "municipality": "Bela Palanka"
+  },
+  {
+    "city": "Crvena Crkva",
+    "zip": 26323,
+    "region": "Južnobanatski okrug",
+    "municipality": "Bela Crkva"
+  },
+  {
+    "city": "Crvenka",
+    "zip": 25220,
+    "region": "Zapadnobački okrug",
+    "municipality": "Kula"
+  },
+  {
+    "city": "Crepaja",
+    "zip": 26213,
+    "region": "Južnobanatski okrug",
+    "municipality": "Kovačica"
+  },
+  {
+    "city": "Crkvine",
+    "zip": 36321,
+    "region": "Raški okrug",
+    "municipality": "Tutin"
+  },
+  {
+    "city": "Crna Bara",
+    "zip": 15355,
+    "region": "Mačvanski okrug",
+    "municipality": "Bogatić"
+  },
+  {
+    "city": "Crna Bara",
+    "zip": 23328,
+    "region": "Severnobanatski okrug",
+    "municipality": "Čoka"
+  },
+  {
+    "city": "Crna Trava",
+    "zip": 16215,
+    "region": "Jablanički okrug",
+    "municipality": "Crna Trava"
+  },
+  {
+    "city": "Crnoklište",
+    "zip": 18304,
+    "region": "Pirotski okrug",
+    "municipality": "Pirot"
+  },
+  {
+    "city": "Čajetina",
+    "zip": 31310,
+    "region": "Zlatiborski okrug",
+    "municipality": "Čajetina"
+  },
+  {
+    "city": "Čalma",
+    "zip": 22231,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Čantavir",
+    "zip": 24220,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Čačak",
+    "zip": 32000,
+    "region": "Moravički okrug",
+    "municipality": "Čačak"
+  },
+  {
+    "city": "Čelarevo",
+    "zip": 21413,
+    "region": "Južnobački okrug",
+    "municipality": "Bačka Palanka"
+  },
+  {
+    "city": "Čenej",
+    "zip": 21233,
+    "region": "Južnobački okrug",
+    "municipality": "Novi Sad"
+  },
+  {
+    "city": "Čenta",
+    "zip": 23266,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Zrenjanin"
+  },
+  {
+    "city": "Čerević",
+    "zip": 21311,
+    "region": "Južnobački okrug",
+    "municipality": "Beočin"
+  },
+  {
+    "city": "Čestereg",
+    "zip": 23215,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Žitište"
+  },
+  {
+    "city": "Čečina",
+    "zip": 18417,
+    "region": "Nišavski okrug",
+    "municipality": "Doljevac"
+  },
+  {
+    "city": "Čitluk",
+    "zip": 18232,
+    "region": "Zaječarski okrug",
+    "municipality": "Sokobanja"
+  },
+  {
+    "city": "Čitluk",
+    "zip": 37208,
+    "region": "Rasinski okrug",
+    "municipality": "Kruševac"
+  },
+  {
+    "city": "Čoka",
+    "zip": 23320,
+    "region": "Severnobanatski okrug",
+    "municipality": "Čoka"
+  },
+  {
+    "city": "Čonoplja",
+    "zip": 25210,
+    "region": "Zapadnobački okrug",
+    "municipality": "Sombor"
+  },
+  {
+    "city": "Čortanovci",
+    "zip": 22326,
+    "region": "Sremski okrug",
+    "municipality": "Inđija"
+  },
+  {
+    "city": "Čukojevac",
+    "zip": 36220,
+    "region": "Raški okrug",
+    "municipality": "Kraljevo"
+  },
+  {
+    "city": "Čumić",
+    "zip": 34322,
+    "region": "Šumadijski okrug",
+    "municipality": "Aerodrom"
+  },
+  {
+    "city": "Čurug",
+    "zip": 21238,
+    "region": "Južnobački okrug",
+    "municipality": "Žabalj"
+  },
+  {
+    "city": "Džep",
+    "zip": 17514,
+    "region": "Pčinjski okrug",
+    "municipality": "Vladičin Han"
+  },
+  {
+    "city": "Džigolj",
+    "zip": 18405,
+    "region": "Toplički okrug",
+    "municipality": "Prokuplje"
+  },
+  {
+    "city": "Šabac",
+    "zip": 15000,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Šajkaš",
+    "zip": 21244,
+    "region": "Južnobački okrug",
+    "municipality": "Titel"
+  },
+  {
+    "city": "Šarbanovac",
+    "zip": 19373,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Šarbanovac-Timok",
+    "zip": 19379,
+    "region": "Borski okrug",
+    "municipality": "Bor"
+  },
+  {
+    "city": "Šašinci",
+    "zip": 22425,
+    "region": "Sremski okrug",
+    "municipality": "Sremska Mitrovica"
+  },
+  {
+    "city": "Šepšin",
+    "zip": 11433,
+    "region": "Grad Beograd",
+    "municipality": "Mladenovac"
+  },
+  {
+    "city": "Šetonje",
+    "zip": 12309,
+    "region": "Braničevski okrug",
+    "municipality": "Petrovac"
+  },
+  {
+    "city": "Šid",
+    "zip": 22239,
+    "region": "Sremski okrug",
+    "municipality": "Šid"
+  },
+  {
+    "city": "Šilovo",
+    "zip": 38252,
+    "region": "Kosovskopomoravski okrug",
+    "municipality": "Gnjilane"
+  },
+  {
+    "city": "Šimanovci",
+    "zip": 22310,
+    "region": "Sremski okrug",
+    "municipality": "Pećinci"
+  },
+  {
+    "city": "Šljivovac",
+    "zip": 34219,
+    "region": "Šumadijski okrug",
+    "municipality": "Aerodrom"
+  },
+  {
+    "city": "Šljivovica",
+    "zip": 31244,
+    "region": "Zlatiborski okrug",
+    "municipality": "Čajetina"
+  },
+  {
+    "city": "Šljivovo",
+    "zip": 37239,
+    "region": "Rasinski okrug",
+    "municipality": "Aleksandrovac"
+  },
+  {
+    "city": "Štavalj",
+    "zip": 36311,
+    "region": "Zlatiborski okrug",
+    "municipality": "Sjenica"
+  },
+  {
+    "city": "Štitar",
+    "zip": 15354,
+    "region": "Mačvanski okrug",
+    "municipality": "Šabac"
+  },
+  {
+    "city": "Štitare",
+    "zip": 36314,
+    "region": "Raški okrug",
+    "municipality": "Novi Pazar"
+  },
+  {
+    "city": "Štrpce",
+    "zip": 38236,
+    "region": "Kosovski okrug",
+    "municipality": "Štrpce"
+  },
+  {
+    "city": "Štubik",
+    "zip": 19303,
+    "region": "Borski okrug",
+    "municipality": "Negotin"
+  },
+  {
+    "city": "Šupljak",
+    "zip": 24418,
+    "region": "Severnobački okrug",
+    "municipality": "Subotica"
+  },
+  {
+    "city": "Šurjan",
+    "zip": 23254,
+    "region": "Srednjobanatski okrug",
+    "municipality": "Sečanj"
+  },
+  {
+    "city": "Grocka",
+    "zip": 11306,
+    "region": "Grad Beograd",
+    "municipality": "Grocka"
+  },
+  {
+    "city": "Surčin",
+    "zip": 11271,
+    "region": "Grad Beograd",
+    "municipality": "Surčin"
+  },
+  {
+    "city": "Batajnica",
+    "zip": 11273,
+    "region": "Grad Beograd",
+    "municipality": "Zemun"
+  },
+  {
+    "city": "Savski venac",
+    "zip": 11000,
+    "region": "Grad Beograd",
+    "municipality": "Savski venac"
+  },
+  {
+    "city": "Stari grad",
+    "zip": 11000,
+    "region": "Grad Beograd",
+    "municipality": "Stari grad"
+  },
+  {
+    "city": "Vračar",
+    "zip": 11000,
+    "region": "Grad Beograd",
+    "municipality": "Vračar"
+  },
+  {
+    "city": "Voždovac",
+    "zip": 11010,
+    "region": "Grad Beograd",
+    "municipality": "Voždovac"
+  },
+  {
+    "city": "Čukarica",
+    "zip": 11030,
+    "region": "Grad Beograd",
+    "municipality": "Čukarica"
+  },
+  {
+    "city": "Zvezdara",
+    "zip": 11050,
+    "region": "Grad Beograd",
+    "municipality": "Zvezdara"
+  },
+  {
+    "city": "Palilula",
+    "zip": 11060,
+    "region": "Grad Beograd",
+    "municipality": "Palilula"
+  },
+  {
+    "city": "Novi Beograd",
+    "zip": 11070,
+    "region": "Grad Beograd",
+    "municipality": "Novi Beograd"
+  },
+  {
+    "city": "Zemun",
+    "zip": 11080,
+    "region": "Grad Beograd",
+    "municipality": "Zemun"
+  },
+  {
+    "city": "Rakovica",
+    "zip": 11090,
+    "region": "Grad Beograd",
+    "municipality": "Rakovica"
+  }
+]
